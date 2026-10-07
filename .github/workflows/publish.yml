@@ -1,0 +1,72 @@
+name: Publish episode
+
+on:
+  push:
+    branches: [main]
+    paths: ["episodes/*.md"]
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Episode date to (re)build, e.g. 2026-10-07"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency: publish
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          pip install -q edge-tts mutagen
+
+      - name: Find new episode
+        id: find
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            f="episodes/${{ github.event.inputs.date }}.md"
+          else
+            f=$(git diff --name-only HEAD~1 HEAD -- 'episodes/*.md' | tail -1)
+          fi
+          echo "file=$f" >> "$GITHUB_OUTPUT"
+          echo "date=$(basename "$f" .md)" >> "$GITHUB_OUTPUT"
+
+      - name: Make audio and feed
+        if: steps.find.outputs.file != ''
+        env:
+          TTS_VOICE: ${{ vars.TTS_VOICE }}
+        run: python scripts/build.py "${{ steps.find.outputs.file }}"
+
+      - name: Upload MP3
+        if: steps.find.outputs.file != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          d="${{ steps.find.outputs.date }}"
+          gh release delete "ep-$d" --yes --cleanup-tag 2>/dev/null || true
+          gh release create "ep-$d" "out/$d.mp3" --title "Morning Brief $d" --notes "Daily episode"
+          for old in $(cat out/dropped.txt); do
+            gh release delete "ep-$old" --yes --cleanup-tag 2>/dev/null || true
+          done
+
+      - name: Save feed
+        if: steps.find.outputs.file != ''
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          git commit -m "Publish ${{ steps.find.outputs.date }}" || exit 0
+          git pull --rebase
+          git push
