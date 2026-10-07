@@ -3,7 +3,7 @@ name: Publish episode
 on:
   push:
     branches: [main]
-    paths: ["episodes/*.md"]
+    paths: ["episodes/*.md", ".github/workflows/publish.yml", "scripts/**"]
   workflow_dispatch:
     inputs:
       date:
@@ -38,8 +38,15 @@ jobs:
           if [ -n "${{ github.event.inputs.date }}" ]; then
             f="episodes/${{ github.event.inputs.date }}.md"
           else
-            f=$(git diff --name-only HEAD~1 HEAD -- 'episodes/*.md' | tail -1)
+            # newest episode script that isn't in the feed yet
+            f=$(python3 -c "
+          import json,glob,os
+          done={e['date'] for e in json.load(open('docs/episodes.json'))}
+          todo=sorted(p for p in glob.glob('episodes/*.md') if os.path.basename(p)[:-3] not in done)
+          print(todo[-1] if todo else '')
+          ")
           fi
+          echo "Building: '$f'"
           echo "file=$f" >> "$GITHUB_OUTPUT"
           echo "date=$(basename "$f" .md)" >> "$GITHUB_OUTPUT"
 
