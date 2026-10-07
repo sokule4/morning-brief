@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Sophie's Morning Brief</title>
+    <link>https://sokule4.github.io/morning-brief/</link>
+    <description>A daily 30-minute news briefing made just for Sophie.</description>
+    <language>en-us</language>
+    <itunes:author>Claude</itunes:author>
+    <itunes:image href="https://sokule4.github.io/morning-brief/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Three years since October 7, and a race to the ballot box</title>
+      <description>Israel marks three years since October 7; Arab parties cleared for the October 27 election; a 450 million dollar Van Gogh and Cézanne sale heads to New York.</description>
+      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-07</guid>
+      <enclosure url="https://github.com/sokule4/morning-brief/releases/download/ep-2026-10-07/2026-10-07.mp3" length="7141773" type="audio/mpeg"/>
+      <itunes:duration>1190</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
