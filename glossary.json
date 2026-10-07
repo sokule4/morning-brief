@@ -1,1 +1,102 @@
-{}
+{
+  "National Security Council": {
+    "explanation": "Israeli body advising the PM on security",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Shin Bet": {
+    "explanation": "Israel's internal security service",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Knesset": {
+    "explanation": "Israel's parliament",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Central Elections Committee": {
+    "explanation": "body that approves who can run in elections",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Haredi": {
+    "explanation": "ultra-Orthodox Jews",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "the draft": {
+    "explanation": "mandatory military service",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Houthis": {
+    "explanation": "Iran-backed rebel group controlling much of Yemen",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Bab el-Mandeb": {
+    "explanation": "narrow sea passage key to world shipping",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "consulate": {
+    "explanation": "a mini embassy",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "NATO": {
+    "explanation": "Western military alliance; attack on one is attack on all",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "minority government": {
+    "explanation": "most seats but no majority on its own",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "referendum": {
+    "explanation": "a public vote on a single question",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "ICC": {
+    "explanation": "International Criminal Court, the world's war crimes court",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "valuation": {
+    "explanation": "what investors say the whole company is worth",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "AI agents": {
+    "explanation": "AI tools that take actions on their own",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "Series C": {
+    "explanation": "a company's third big funding round",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "GTM": {
+    "explanation": "go-to-market, how companies sell and market",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "OT security": {
+    "explanation": "protecting factories, power plants, physical infrastructure",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "securities lending": {
+    "explanation": "big investors lending out stocks or bonds for a fee",
+    "count": 1,
+    "last_used": "2026-10-07"
+  },
+  "fusion": {
+    "explanation": "making energy the way the sun does",
+    "count": 1,
+    "last_used": "2026-10-07"
+  }
+}
