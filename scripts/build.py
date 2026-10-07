@@ -10,8 +10,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 OUT = ROOT / "out"
-VOICE = os.environ.get("TTS_VOICE", "en-US-AvaMultilingualNeural")
-RATE = os.environ.get("TTS_RATE", "+0%")
+VOICE = os.environ.get("TTS_VOICE") or "en-US-AvaMultilingualNeural"
+RATE = os.environ.get("TTS_RATE") or "+0%"
 KEEP = 30  # episodes kept in the feed
 SHOW_TITLE = "Sophie's Morning Brief"
 SHOW_DESC = "A daily 30-minute news briefing made just for Sophie."
