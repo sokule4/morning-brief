@@ -57,3 +57,17 @@ summary: <one sentence listing the top 3 stories>
 
 Segment headings may be written as lines starting with `## `; they are NOT read
 aloud (they just add a short pause), so the spoken transition must be in the text.
+
+## Research tips
+- Make sure every story is from the last ~36 hours: many sites return stale cached
+  pages, so check the date on each item and drop anything older.
+- Sources that have worked well: timesofisrael.com (home page), ynetnews.com,
+  jta.org, aljazeera.com/news, justsecurity.org "Early Edition" daily digest,
+  amny.com/news, calcalistech.com/ctechnews, techcrunch.com, securityweek.com,
+  goodmorningamerica.com/culture, news.artnet.com, theartnewspaper.com.
+- Never repeat a story covered in a previous episode unless there's real news on it
+  (check the last 2 files in episodes/).
+
+## Current notes (edit as life changes)
+- Sophie is visiting New York until Sunday, October 11, 2026, then back in Israel.
+  After that date, drop travel references.
