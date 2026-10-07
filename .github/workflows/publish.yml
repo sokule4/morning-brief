@@ -54,7 +54,9 @@ jobs:
         if: steps.find.outputs.file != ''
         env:
           TTS_VOICE: ${{ vars.TTS_VOICE }}
-        run: python scripts/build.py "${{ steps.find.outputs.file }}"
+        run: |
+          set -o pipefail
+          python scripts/build.py "${{ steps.find.outputs.file }}" 2>&1 | tee build.log
 
       - name: Upload MP3
         if: steps.find.outputs.file != ''
@@ -77,3 +79,11 @@ jobs:
           git commit -m "Publish ${{ steps.find.outputs.date }}" || exit 0
           git pull --rebase
           git push
+
+      - name: Save error log
+        if: failure()
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mkdir -p logs && tail -60 build.log > logs/last-error.txt 2>/dev/null || echo "no build log" > logs/last-error.txt
+          git add logs && git commit -m "Build error log" && git pull --rebase && git push
