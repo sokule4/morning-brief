@@ -7,21 +7,24 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: "Episode date to (re)build, e.g. 2026-10-07"
-        required: true
+        description: "Episode date to (re)build, e.g. 2026-10-07 (leave empty to just redeploy)"
+        required: false
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency: publish
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
       - uses: actions/setup-python@v5
         with:
@@ -58,7 +61,7 @@ jobs:
           set -o pipefail
           python scripts/build.py "${{ steps.find.outputs.file }}" 2>&1 | tee build.log
 
-      - name: Upload MP3
+      - name: Store MP3 as a release
         if: steps.find.outputs.file != ''
         env:
           GH_TOKEN: ${{ github.token }}
@@ -80,10 +83,30 @@ jobs:
           git pull --rebase
           git push
 
+      - name: Assemble site (feed + audio)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p site/audio
+          cp docs/* site/
+          for d in $(python3 -c "import json;print(' '.join(e['date'] for e in json.load(open('docs/episodes.json'))))"); do
+            if [ -f "out/$d.mp3" ]; then cp "out/$d.mp3" site/audio/;
+            else gh release download "ep-$d" -p "*.mp3" -D site/audio --clobber; fi
+          done
+          ls -la site site/audio
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
       - name: Save error log
         if: failure()
         run: |
           git config user.name "morning-brief-bot"
           git config user.email "actions@users.noreply.github.com"
-          mkdir -p logs && tail -60 build.log > logs/last-error.txt 2>/dev/null || echo "no build log" > logs/last-error.txt
-          git add logs && git commit -m "Build error log" && git pull --rebase && git push
+          git pull -q --rebase || true
+          mkdir -p logs && (tail -60 build.log 2>/dev/null || echo "failed outside the audio step; see the Actions tab") > logs/last-error.txt
+          git add logs && git commit -m "Build error log" && git push

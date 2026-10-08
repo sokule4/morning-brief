@@ -133,7 +133,7 @@ def main(md_path, audio=True):
         "date": date,
         "title": meta.get("title", f"Morning Brief {date}"),
         "summary": meta.get("summary", ""),
-        "url": f"https://github.com/{repo}/releases/download/ep-{date}/{date}.mp3",
+        "url": f"https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/audio/{date}.mp3",
         "bytes": mp3.stat().st_size,
         "seconds": duration(mp3),
     })
