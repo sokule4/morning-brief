@@ -6,13 +6,13 @@
   },
   "Shin Bet": {
     "explanation": "Israel's internal security service",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "Knesset": {
     "explanation": "Israel's parliament",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
@@ -31,8 +31,8 @@
   },
   "Houthis": {
     "explanation": "Iran-backed rebel group controlling much of Yemen",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "Bab el-Mandeb": {
     "explanation": "narrow sea passage key to world shipping",
@@ -41,8 +41,8 @@
   },
   "consulate": {
     "explanation": "a mini embassy",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "NATO": {
     "explanation": "Western military alliance; attack on one is attack on all",
@@ -66,13 +66,13 @@
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "Series C": {
     "explanation": "a company's third big funding round",
@@ -81,8 +81,8 @@
   },
   "GTM": {
     "explanation": "go-to-market, how companies sell and market",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-08"
   },
   "OT security": {
     "explanation": "protecting factories, power plants, physical infrastructure",
@@ -98,5 +98,90 @@
     "explanation": "making energy the way the sun does",
     "count": 1,
     "last_used": "2026-10-07"
+  },
+  "bloc": {
+    "explanation": "group of allied parties",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "electoral threshold": {
+    "explanation": "minimum vote share needed to win any seats",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "coalition": {
+    "explanation": "group of parties that together form a government",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "Visa Waiver Program": {
+    "explanation": "lets Israelis visit the US without a visa",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "enrichment": {
+    "explanation": "turning uranium into nuclear fuel or bomb material",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "Strait of Hormuz": {
+    "explanation": "narrow Gulf waterway a fifth of world oil passes",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "midterms": {
+    "explanation": "US congressional elections halfway through a president's term",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "IPO": {
+    "explanation": "initial public offering, listing on the stock market",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "mega-round": {
+    "explanation": "a funding round of 100 million dollars or more",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "cold start": {
+    "explanation": "time an AI chip sits idle while a model loads",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "firewall": {
+    "explanation": "device that guards a company's network",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "ransomware": {
+    "explanation": "hackers lock your files and demand payment",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "golden share": {
+    "explanation": "special government stake with veto rights",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "sovereign wealth fund": {
+    "explanation": "a government's investment fund",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "old masters": {
+    "explanation": "major European painters from before about 1800",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "McCarthyism": {
+    "explanation": "1950s American anti-communist blacklists",
+    "count": 1,
+    "last_used": "2026-10-08"
+  },
+  "Magen David Adom": {
+    "explanation": "Israel's ambulance service",
+    "count": 1,
+    "last_used": "2026-10-08"
   }
 }
