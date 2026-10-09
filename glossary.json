@@ -11,8 +11,8 @@
   },
   "Knesset": {
     "explanation": "Israel's parliament",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-09"
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
@@ -41,8 +41,8 @@
   },
   "consulate": {
     "explanation": "a mini embassy",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-09"
   },
   "NATO": {
     "explanation": "Western military alliance; attack on one is attack on all",
@@ -66,13 +66,13 @@
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-09"
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-09"
   },
   "Series C": {
     "explanation": "a company's third big funding round",
@@ -81,8 +81,8 @@
   },
   "GTM": {
     "explanation": "go-to-market, how companies sell and market",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-09"
   },
   "OT security": {
     "explanation": "protecting factories, power plants, physical infrastructure",
@@ -101,8 +101,8 @@
   },
   "bloc": {
     "explanation": "group of allied parties",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-09"
   },
   "electoral threshold": {
     "explanation": "minimum vote share needed to win any seats",
@@ -121,18 +121,18 @@
   },
   "enrichment": {
     "explanation": "turning uranium into nuclear fuel or bomb material",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-09"
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-09"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-09"
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
@@ -183,5 +183,125 @@
     "explanation": "Israel's ambulance service",
     "count": 1,
     "last_used": "2026-10-08"
+  },
+  "state comptroller": {
+    "explanation": "official watchdog who audits the government",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "attorney general": {
+    "explanation": "the government's top legal officer",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "state commission of inquiry": {
+    "explanation": "independent investigation led by a judge",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "shadow fleet": {
+    "explanation": "hidden tankers used to sneak oil past sanctions",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "Yellow Line": {
+    "explanation": "boundary between Israeli-held and Hamas-held Gaza",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "glide bomb": {
+    "explanation": "heavy winged bomb that glides to its target",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "fare evasion": {
+    "explanation": "riding without paying, jumping the turnstiles",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "ISIS": {
+    "explanation": "the Islamist terror group",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "market cap": {
+    "explanation": "total value of all a company's shares",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "Series A": {
+    "explanation": "a startup's first big institutional funding round",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "Series B": {
+    "explanation": "a startup's second big funding round",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "runtime security": {
+    "explanation": "protecting software while it's actually running",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "offensive security": {
+    "explanation": "attacking your own systems to find holes",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "pentest": {
+    "explanation": "penetration test, hired hackers trying to break in",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "red team": {
+    "explanation": "ethical hackers who test defenses",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "social engineering": {
+    "explanation": "tricking a person instead of hacking a computer",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "CRO": {
+    "explanation": "chief revenue officer, the executive over all sales",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "run rate": {
+    "explanation": "yearly earnings at your current pace",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "unicorn": {
+    "explanation": "startup worth over a billion dollars",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "showrunner": {
+    "explanation": "the person who runs a TV series",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "genus": {
+    "explanation": "a distinct group of related species",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "high-net-worth": {
+    "explanation": "very wealthy",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "Great Wealth Transfer": {
+    "explanation": "trillions passing from boomers to their kids",
+    "count": 1,
+    "last_used": "2026-10-09"
+  },
+  "slow-wave sleep": {
+    "explanation": "deep sleep, the most restful stage",
+    "count": 1,
+    "last_used": "2026-10-09"
   }
 }
