@@ -6,8 +6,8 @@
   },
   "Shin Bet": {
     "explanation": "Israel's internal security service",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-10"
   },
   "Knesset": {
     "explanation": "Israel's parliament",
@@ -21,18 +21,18 @@
   },
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "the draft": {
     "explanation": "mandatory military service",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "Houthis": {
     "explanation": "Iran-backed rebel group controlling much of Yemen",
-    "count": 2,
-    "last_used": "2026-10-08"
+    "count": 3,
+    "last_used": "2026-10-10"
   },
   "Bab el-Mandeb": {
     "explanation": "narrow sea passage key to world shipping",
@@ -61,8 +61,8 @@
   },
   "ICC": {
     "explanation": "International Criminal Court, the world's war crimes court",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
@@ -136,8 +136,8 @@
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "mega-round": {
     "explanation": "a funding round of 100 million dollars or more",
@@ -191,8 +191,8 @@
   },
   "attorney general": {
     "explanation": "the government's top legal officer",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "state commission of inquiry": {
     "explanation": "independent investigation led by a judge",
@@ -206,8 +206,8 @@
   },
   "Yellow Line": {
     "explanation": "boundary between Israeli-held and Hamas-held Gaza",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "glide bomb": {
     "explanation": "heavy winged bomb that glides to its target",
@@ -226,8 +226,8 @@
   },
   "market cap": {
     "explanation": "total value of all a company's shares",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "Series A": {
     "explanation": "a startup's first big institutional funding round",
@@ -276,8 +276,8 @@
   },
   "unicorn": {
     "explanation": "startup worth over a billion dollars",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-10"
   },
   "showrunner": {
     "explanation": "the person who runs a TV series",
@@ -303,5 +303,120 @@
     "explanation": "deep sleep, the most restful stage",
     "count": 1,
     "last_used": "2026-10-09"
+  },
+  "sanctions": {
+    "explanation": "financial penalties that cut off money and business",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "Board of Peace": {
+    "explanation": "Trump-led body overseeing Gaza's future",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "technocratic government": {
+    "explanation": "government run by non-political experts",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "ICE": {
+    "explanation": "US immigration enforcement agency",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "DSA": {
+    "explanation": "Democratic Socialists of America",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "Strategic Response Group": {
+    "explanation": "NYPD's protest and riot unit",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "ground lease": {
+    "explanation": "renting the land under a building",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "far right": {
+    "explanation": "the most nationalist end of politics",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "defamation": {
+    "explanation": "damaging someone's reputation with false claims",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "Old Bailey": {
+    "explanation": "London's main criminal court",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "green card": {
+    "explanation": "US permanent residency",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "H-1B": {
+    "explanation": "main US work visa for skilled foreigners",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "non-compete clause": {
+    "explanation": "contract rule stopping you joining a competitor",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "open-source": {
+    "explanation": "free code anyone can use",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "zero-day": {
+    "explanation": "a flaw the maker doesn't know about yet",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "CMO": {
+    "explanation": "chief marketing officer",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "roll-up": {
+    "explanation": "buying many companies and running them together",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "SaaS": {
+    "explanation": "software sold as a subscription",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "SaaSpocalypse": {
+    "explanation": "crash in software company values over AI fears",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "creative director": {
+    "explanation": "person who sets a fashion house's whole look",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "Pop Art": {
+    "explanation": "art borrowing from comics and ads",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "survey (exhibition)": {
+    "explanation": "a career-spanning museum show",
+    "count": 1,
+    "last_used": "2026-10-10"
+  },
+  "microbiome": {
+    "explanation": "the community of good bacteria in your gut",
+    "count": 1,
+    "last_used": "2026-10-10"
   }
 }
