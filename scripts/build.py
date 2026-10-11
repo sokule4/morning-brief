@@ -1,4 +1,4 @@
-"""Turn an episode script into an MP3 and refresh the podcast feed.
+"""Turn an episode script into an MP3 and refresh the podcast feed (served via GitHub Pages).
 
 Usage: python scripts/build.py episodes/2026-10-07.md
 Env:   GITHUB_REPOSITORY (owner/repo), TTS_VOICE (optional)
