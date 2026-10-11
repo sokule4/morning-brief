@@ -36,8 +36,8 @@
   },
   "Bab el-Mandeb": {
     "explanation": "narrow sea passage key to world shipping",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "consulate": {
     "explanation": "a mini embassy",
@@ -101,18 +101,18 @@
   },
   "bloc": {
     "explanation": "group of allied parties",
-    "count": 2,
-    "last_used": "2026-10-09"
+    "count": 3,
+    "last_used": "2026-10-11"
   },
   "electoral threshold": {
     "explanation": "minimum vote share needed to win any seats",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "coalition": {
     "explanation": "group of parties that together form a government",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "Visa Waiver Program": {
     "explanation": "lets Israelis visit the US without a visa",
@@ -131,8 +131,8 @@
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
-    "count": 2,
-    "last_used": "2026-10-09"
+    "count": 3,
+    "last_used": "2026-10-11"
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
@@ -156,8 +156,8 @@
   },
   "ransomware": {
     "explanation": "hackers lock your files and demand payment",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "golden share": {
     "explanation": "special government stake with veto rights",
@@ -201,8 +201,8 @@
   },
   "shadow fleet": {
     "explanation": "hidden tankers used to sneak oil past sanctions",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "Yellow Line": {
     "explanation": "boundary between Israeli-held and Hamas-held Gaza",
@@ -211,8 +211,8 @@
   },
   "glide bomb": {
     "explanation": "heavy winged bomb that glides to its target",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "fare evasion": {
     "explanation": "riding without paying, jumping the turnstiles",
@@ -236,8 +236,8 @@
   },
   "Series B": {
     "explanation": "a startup's second big funding round",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "runtime security": {
     "explanation": "protecting software while it's actually running",
@@ -266,18 +266,18 @@
   },
   "CRO": {
     "explanation": "chief revenue officer, the executive over all sales",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "run rate": {
     "explanation": "yearly earnings at your current pace",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "unicorn": {
     "explanation": "startup worth over a billion dollars",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-11"
   },
   "showrunner": {
     "explanation": "the person who runs a TV series",
@@ -321,8 +321,8 @@
   },
   "ICE": {
     "explanation": "US immigration enforcement agency",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-11"
   },
   "DSA": {
     "explanation": "Democratic Socialists of America",
@@ -418,5 +418,110 @@
     "explanation": "the community of good bacteria in your gut",
     "count": 1,
     "last_used": "2026-10-10"
+  },
+  "CENTCOM": {
+    "explanation": "US military command for the Middle East",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "naval blockade": {
+    "explanation": "warships stopping ships going in or out of a country",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "safety net": {
+    "explanation": "backing a coalition from outside without joining it",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "Nukhba": {
+    "explanation": "Hamas's elite commando force",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "Palestinian Islamic Jihad": {
+    "explanation": "another armed group in Gaza",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "Hezbollah": {
+    "explanation": "Iran-backed armed group in Lebanon",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "RSF": {
+    "explanation": "Rapid Support Forces, Sudan's paramilitary group",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "public matching funds": {
+    "explanation": "the state matches small campaign donations",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "AHL": {
+    "explanation": "hockey's main minor league",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "by-election": {
+    "explanation": "special election to fill one empty seat",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "Board of Deputies": {
+    "explanation": "main representative body of British Jews",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "law of armed conflict": {
+    "explanation": "international rules of war",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "CFIUS": {
+    "explanation": "US committee reviewing foreign takeovers for security",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "retail media": {
+    "explanation": "ads shown to shoppers inside the store",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "SASE": {
+    "explanation": "networking and security delivered together from the cloud",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "MDR": {
+    "explanation": "managed detection and response, round-the-clock attack monitoring",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "security certificate": {
+    "explanation": "digital ID behind the lock next to a web address",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "insolvency": {
+    "explanation": "can't pay its debts",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "CAC payback": {
+    "explanation": "months to earn back what you spent winning a customer",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "CinemaScore": {
+    "explanation": "grade opening-night audiences give a movie",
+    "count": 1,
+    "last_used": "2026-10-11"
+  },
+  "Grade II listed": {
+    "explanation": "protected as a historic building in Britain",
+    "count": 1,
+    "last_used": "2026-10-11"
   }
 }
