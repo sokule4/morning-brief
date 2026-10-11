@@ -102,6 +102,14 @@ jobs:
       - id: deploy
         uses: actions/deploy-pages@v4
 
+      - name: Send WhatsApp recap
+        if: steps.find.outputs.file != ''
+        continue-on-error: true
+        env:
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python scripts/whatsapp.py "${{ steps.find.outputs.date }}"
+
       - name: Save error log
         if: failure()
         run: |

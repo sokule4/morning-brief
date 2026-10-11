@@ -59,6 +59,13 @@ summary: <one sentence listing the top 3 stories>
 Segment headings may be written as lines starting with `## `; they are NOT read
 aloud (they just add a short pause), so the spoken transition must be in the text.
 
+## WhatsApp recap
+Also write `episodes/YYYY-MM-DD.recap.txt`: a short text recap sent to Sophie on
+WhatsApp. 6-10 lines, one per story, each starting with an emoji and a few words
+(max ~15 words per line), grouped in rundown order. Plain text, no links, no
+markdown except *bold* for 1-2 key words. Example line:
+🗳️ Israel election: Likud and Bennett's Together tied at 24 seats in new poll
+
 ## How to pick stories
 - Search wide, then choose: for each segment, look at the last ~7 days of news,
   not just today. Pick the stories that matter most, with a strong preference for
