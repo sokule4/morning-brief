@@ -1,0 +1,32 @@
+  voicing part 1/64
+  retry 1: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=9cd3d04cadfa4da2a88d497a9890c3da&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  retry 2: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=58b616c2e0d141768ec1c52a931ef0ee&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  voicing part 3/64
+  retry 1: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=98c799bc57f04c5e8550d325169be40d&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  voicing part 4/64
+  retry 1: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=4f0f0c92fa1c42199b92c2468ff1f906&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  voicing part 5/64
+  retry 1: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=b2935a0388d7477daa2f6ce4b825c3f2&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  retry 2: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=b85042b670d54d2a88fd19397861a3f3&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  retry 3: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=4a76958123a54e9394df0493bccc135c&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  retry 4: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=ff4db754563f4ad39290ead6efb4a423&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+  retry 5: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=4ffb06e643284885a8ea07467588c0ee&Sec-MS-GEC=3BBF149975FE7C839E194E7E5EE95CB8BF195D68BF9F4BC95A82D1EEF8A1B3BB&Sec-MS-GEC-Version=1-143.0.3650.75'
+Traceback (most recent call last):
+  File "/home/runner/work/morning-brief/morning-brief/scripts/build.py", line 150, in <module>
+    main(sys.argv[1], audio="--no-audio" not in sys.argv)
+  File "/home/runner/work/morning-brief/morning-brief/scripts/build.py", line 129, in main
+    make_audio(chunks, mp3)
+  File "/home/runner/work/morning-brief/morning-brief/scripts/build.py", line 74, in make_audio
+    asyncio.run(tts(c, p))
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/asyncio/base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/work/morning-brief/morning-brief/scripts/build.py", line 55, in tts
+    raise RuntimeError(f"TTS failed for: {text[:60]}")
+RuntimeError: TTS failed for: The Houthis, as you know, aren't backing down. Their militar
