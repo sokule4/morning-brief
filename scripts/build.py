@@ -3,7 +3,7 @@
 Usage: python scripts/build.py episodes/2026-10-07.md
 Env:   GITHUB_REPOSITORY (owner/repo), TTS_VOICE (optional)
 """
-import asyncio, json, os, re, sys, datetime, html
+import asyncio, json, os, re, sys, datetime, html, time
 from email.utils import format_datetime
 from pathlib import Path
 
@@ -44,14 +44,14 @@ def parse(md_path):
 
 async def tts(text, path):
     import edge_tts
-    for attempt in range(5):
+    for attempt in range(10):
         try:
             await edge_tts.Communicate(text, VOICE, rate=RATE).save(str(path))
             if path.stat().st_size > 0:
                 return
-        except Exception as e:  # network hiccups
+        except Exception as e:  # network hiccups / throttling (403s)
             print(f"  retry {attempt + 1}: {e}")
-            await asyncio.sleep(3 * (attempt + 1))
+            await asyncio.sleep(min(60, 5 * (attempt + 1)))
     raise RuntimeError(f"TTS failed for: {text[:60]}")
 
 
@@ -73,6 +73,7 @@ def make_audio(chunks, mp3_path):
         print(f"  voicing part {i + 1}/{len(chunks)}")
         asyncio.run(tts(c, p))
         parts.append(p)
+        time.sleep(1)  # be gentle with the TTS service
     listfile = work / "list.txt"
     listfile.write_text("".join(f"file '{p.resolve()}'\n" for p in parts))
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0",
@@ -85,6 +86,13 @@ def duration(mp3_path):
     return int(MP3(str(mp3_path)).info.length)
 
 
+def dated_title(ep):
+    """Prefix the title with a short date, e.g. "10.12.26 · Title"."""
+    short = datetime.date.fromisoformat(ep["date"]).strftime("%m.%d.%y")
+    title = ep["title"]
+    return title if title.startswith(short) else f"{short} · {title}"
+
+
 def write_feed(episodes, repo):
     owner, name = repo.split("/")
     site = f"https://{owner.lower()}.github.io/{name}/"
@@ -93,7 +101,7 @@ def write_feed(episodes, repo):
         d = datetime.datetime.fromisoformat(ep["date"]).replace(
             hour=5, tzinfo=datetime.timezone.utc)
         items.append(f"""    <item>
-      <title>{html.escape(ep['title'])}</title>
+      <title>{html.escape(dated_title(ep))}</title>
       <description>{html.escape(ep['summary'])}</description>
       <pubDate>{format_datetime(d)}</pubDate>
       <guid isPermaLink="false">{ep['date']}</guid>
