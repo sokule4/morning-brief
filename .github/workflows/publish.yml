@@ -33,7 +33,7 @@ jobs:
       - name: Install tools
         run: |
           sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
-          pip install -q edge-tts mutagen
+          pip install -q edge-tts mutagen piper-tts
 
       - name: Find new episode
         id: find

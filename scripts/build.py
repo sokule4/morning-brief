@@ -42,17 +42,54 @@ def parse(md_path):
     return meta, chunks
 
 
-async def tts(text, path):
+PIPER_VOICE = os.environ.get("PIPER_VOICE") or "en_US-lessac-high"
+PIPER_DIR = ROOT / "voices"
+
+
+async def edge_tts_once(text, path, attempts):
     import edge_tts
-    for attempt in range(10):
+    for attempt in range(attempts):
         try:
             await edge_tts.Communicate(text, VOICE, rate=RATE).save(str(path))
             if path.stat().st_size > 0:
-                return
+                return True
         except Exception as e:  # network hiccups / throttling (403s)
-            print(f"  retry {attempt + 1}: {e}")
+            print(f"  edge retry {attempt + 1}: {str(e)[:120]}")
             await asyncio.sleep(min(60, 5 * (attempt + 1)))
-    raise RuntimeError(f"TTS failed for: {text[:60]}")
+    return False
+
+
+_piper = None
+
+
+def piper_tts(text, path):
+    """Offline neural voice that runs on the GitHub runner itself (backup)."""
+    global _piper
+    import subprocess, wave
+    from piper import PiperVoice
+    if _piper is None:
+        model = PIPER_DIR / f"{PIPER_VOICE}.onnx"
+        if not model.exists():
+            subprocess.run([sys.executable, "-m", "piper.download_voices", PIPER_VOICE,
+                            "--download-dir", str(PIPER_DIR)], check=True)
+        _piper = PiperVoice.load(str(model))
+    wav = path.with_suffix(".wav")
+    with wave.open(str(wav), "wb") as wf:
+        _piper.synthesize_wav(text, wf)
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(wav), "-ar", "24000",
+                    "-ac", "1", "-b:a", "48k", str(path)], check=True)
+    wav.unlink()
+
+
+def pick_engine(sample, work):
+    """Use the Microsoft voice if it answers; otherwise fall back to Piper for the whole episode."""
+    if os.environ.get("TTS_ENGINE") == "piper":
+        return "piper"
+    probe = work / "probe.mp3"
+    if asyncio.run(edge_tts_once(sample[:300], probe, 3)):
+        return "edge"
+    print("Microsoft voice unavailable; using the backup Piper voice.")
+    return "piper"
 
 
 def make_audio(chunks, mp3_path):
@@ -63,7 +100,9 @@ def make_audio(chunks, mp3_path):
         f.unlink()
     silence = work / "pause.mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i",
-                    "anullsrc=r=24000:cl=mono", "-t", "1.2", "-q:a", "9", str(silence)], check=True)
+                    "anullsrc=r=24000:cl=mono", "-t", "1.2", "-b:a", "48k", str(silence)], check=True)
+    engine = pick_engine(next(c for c in chunks if c), work)
+    print(f"Voice engine: {engine}")
     parts = []
     for i, c in enumerate(chunks):
         if c is None:
@@ -71,9 +110,13 @@ def make_audio(chunks, mp3_path):
             continue
         p = work / f"{i:04d}.mp3"
         print(f"  voicing part {i + 1}/{len(chunks)}")
-        asyncio.run(tts(c, p))
+        if engine == "edge":
+            if not asyncio.run(edge_tts_once(c, p, 6)):
+                print("  Microsoft voice dropped mid-episode; switching to Piper for the rest.")
+                engine = "piper"
+        if engine == "piper":
+            piper_tts(c, p)
         parts.append(p)
-        time.sleep(1)  # be gentle with the TTS service
     listfile = work / "list.txt"
     listfile.write_text("".join(f"file '{p.resolve()}'\n" for p in parts))
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0",
