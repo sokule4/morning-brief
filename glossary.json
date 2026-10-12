@@ -106,13 +106,13 @@
   },
   "electoral threshold": {
     "explanation": "minimum vote share needed to win any seats",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-10-12"
   },
   "coalition": {
     "explanation": "group of parties that together form a government",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-10-12"
   },
   "Visa Waiver Program": {
     "explanation": "lets Israelis visit the US without a visa",
@@ -126,8 +126,8 @@
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
-    "count": 2,
-    "last_used": "2026-10-09"
+    "count": 3,
+    "last_used": "2026-10-12"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
@@ -156,8 +156,8 @@
   },
   "ransomware": {
     "explanation": "hackers lock your files and demand payment",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-10-12"
   },
   "golden share": {
     "explanation": "special government stake with veto rights",
@@ -191,13 +191,13 @@
   },
   "attorney general": {
     "explanation": "the government's top legal officer",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-12"
   },
   "state commission of inquiry": {
     "explanation": "independent investigation led by a judge",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-12"
   },
   "shadow fleet": {
     "explanation": "hidden tankers used to sneak oil past sanctions",
@@ -261,8 +261,8 @@
   },
   "social engineering": {
     "explanation": "tricking a person instead of hacking a computer",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-12"
   },
   "CRO": {
     "explanation": "chief revenue officer, the executive over all sales",
@@ -321,8 +321,8 @@
   },
   "ICE": {
     "explanation": "US immigration enforcement agency",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-10-12"
   },
   "DSA": {
     "explanation": "Democratic Socialists of America",
@@ -406,8 +406,8 @@
   },
   "Pop Art": {
     "explanation": "art borrowing from comics and ads",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-12"
   },
   "survey (exhibition)": {
     "explanation": "a career-spanning museum show",
@@ -471,8 +471,8 @@
   },
   "Board of Deputies": {
     "explanation": "main representative body of British Jews",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-10-12"
   },
   "law of armed conflict": {
     "explanation": "international rules of war",
@@ -523,5 +523,120 @@
     "explanation": "protected as a historic building in Britain",
     "count": 1,
     "last_used": "2026-10-11"
+  },
+  "FAA": {
+    "explanation": "US government's aviation regulator",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "Kirya": {
+    "explanation": "the army's headquarters in Tel Aviv",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "Palestinian Authority": {
+    "explanation": "governs parts of the West Bank",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "PLO": {
+    "explanation": "umbrella Palestinian leadership body",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "energy ceasefire": {
+    "explanation": "both sides stop attacking power and oil sites",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "IOM": {
+    "explanation": "the UN's migration agency",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "grand marshal": {
+    "explanation": "the person who leads a parade",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "CST": {
+    "explanation": "charity protecting British Jewish communities",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "day school": {
+    "explanation": "a full-time Jewish school",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "diasporist": {
+    "explanation": "centered on Jewish life outside Israel",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "capital gains tax": {
+    "explanation": "tax on profit when you sell an asset",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "stock options": {
+    "explanation": "right to buy company shares at a set price",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "CISO": {
+    "explanation": "chief information security officer, head of a company's security",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "CIRM": {
+    "explanation": "cyber incident response management",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "CRM": {
+    "explanation": "system sales teams use to track deals",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "spear-phishing": {
+    "explanation": "targeted fake emails aimed at specific people",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "threat intelligence": {
+    "explanation": "research on who's attacking and how",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "Unit 8200": {
+    "explanation": "Israeli army's elite intelligence tech unit",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "world model": {
+    "explanation": "AI that simulates a realistic interactive environment",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "due diligence": {
+    "explanation": "deep check of a company before buying it",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "capsule collection": {
+    "explanation": "a small limited fashion line",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "evening sale": {
+    "explanation": "prestige auction night for the biggest works",
+    "count": 1,
+    "last_used": "2026-10-12"
+  },
+  "artist record": {
+    "explanation": "highest price ever paid for an artist's work",
+    "count": 1,
+    "last_used": "2026-10-12"
   }
 }
