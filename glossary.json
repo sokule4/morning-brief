@@ -181,8 +181,8 @@
   },
   "Magen David Adom": {
     "explanation": "Israel's ambulance service",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "state comptroller": {
     "explanation": "official watchdog who audits the government",
@@ -206,8 +206,8 @@
   },
   "Yellow Line": {
     "explanation": "boundary between Israeli-held and Hamas-held Gaza",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-13"
   },
   "glide bomb": {
     "explanation": "heavy winged bomb that glides to its target",
@@ -231,8 +231,8 @@
   },
   "Series A": {
     "explanation": "a startup's first big institutional funding round",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "Series B": {
     "explanation": "a startup's second big funding round",
@@ -326,13 +326,13 @@
   },
   "DSA": {
     "explanation": "Democratic Socialists of America",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "Strategic Response Group": {
     "explanation": "NYPD's protest and riot unit",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "ground lease": {
     "explanation": "renting the land under a building",
@@ -371,8 +371,8 @@
   },
   "open-source": {
     "explanation": "free code anyone can use",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "zero-day": {
     "explanation": "a flaw the maker doesn't know about yet",
@@ -426,8 +426,8 @@
   },
   "naval blockade": {
     "explanation": "warships stopping ships going in or out of a country",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
@@ -456,8 +456,8 @@
   },
   "public matching funds": {
     "explanation": "the state matches small campaign donations",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "AHL": {
     "explanation": "hockey's main minor league",
@@ -526,8 +526,8 @@
   },
   "FAA": {
     "explanation": "US government's aviation regulator",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "Kirya": {
     "explanation": "the army's headquarters in Tel Aviv",
@@ -546,8 +546,8 @@
   },
   "energy ceasefire": {
     "explanation": "both sides stop attacking power and oil sites",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "IOM": {
     "explanation": "the UN's migration agency",
@@ -586,8 +586,8 @@
   },
   "CISO": {
     "explanation": "chief information security officer, head of a company's security",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "CIRM": {
     "explanation": "cyber incident response management",
@@ -631,12 +631,157 @@
   },
   "evening sale": {
     "explanation": "prestige auction night for the biggest works",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-13"
   },
   "artist record": {
     "explanation": "highest price ever paid for an artist's work",
     "count": 1,
     "last_used": "2026-10-12"
+  },
+  "interceptor": {
+    "explanation": "missile that shoots down incoming missiles",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "Brent crude": {
+    "explanation": "the global oil price benchmark",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "Revolutionary Guard": {
+    "explanation": "Iran's elite military force",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "submunition": {
+    "explanation": "small bomblet scattered by a cluster rocket",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "High Court": {
+    "explanation": "Israel's Supreme Court hearing cases against the government",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "E1": {
+    "explanation": "area between Ma'ale Adumim and East Jerusalem",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "hybrid activities": {
+    "explanation": "sabotage and attacks short of open war",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "Inspector General": {
+    "explanation": "independent watchdog inside an agency",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "decertification": {
+    "explanation": "losing your license to work as police",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "public inquiry": {
+    "explanation": "official investigation with public hearings",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "MI5": {
+    "explanation": "Britain's domestic spy agency",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "J7": {
+    "explanation": "Jewish community leaders from seven countries",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "YIVO": {
+    "explanation": "institute for Yiddish language and culture",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "open-weight model": {
+    "explanation": "AI model anyone can download and run",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "acqui-hire": {
+    "explanation": "buying a company mainly to hire its team",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "antitrust": {
+    "explanation": "regulators' checks on monopolies",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "DLP": {
+    "explanation": "data loss prevention, stopping data from leaking out",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "seed round": {
+    "explanation": "a startup's very first funding",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "zero trust": {
+    "explanation": "nobody gets more network access than needed",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "all-stock deal": {
+    "explanation": "buyer pays in its own shares",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "earnout": {
+    "explanation": "part of a price paid later if results are hit",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "post-quantum cryptography": {
+    "explanation": "encryption quantum computers can't break",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "Q-Day": {
+    "explanation": "day quantum computers can crack today's encryption",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "SDR": {
+    "explanation": "sales development rep who qualifies new leads",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "multispectral camouflage": {
+    "explanation": "hides from several kinds of sensors at once",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "private equity": {
+    "explanation": "investment firm that buys stakes in private companies",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "organic growth": {
+    "explanation": "growth without currency swings or acquisitions",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "restitution": {
+    "explanation": "returning art to heirs of owners who lost it",
+    "count": 1,
+    "last_used": "2026-10-13"
+  },
+  "GLP-1": {
+    "explanation": "gut hormone the weight loss drugs mimic",
+    "count": 1,
+    "last_used": "2026-10-13"
   }
 }
