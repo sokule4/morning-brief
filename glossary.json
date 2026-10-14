@@ -561,8 +561,8 @@
   },
   "CST": {
     "explanation": "charity protecting British Jewish communities",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-14"
   },
   "day school": {
     "explanation": "a full-time Jewish school",
@@ -611,8 +611,8 @@
   },
   "Unit 8200": {
     "explanation": "Israeli army's elite intelligence tech unit",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-14"
   },
   "world model": {
     "explanation": "AI that simulates a realistic interactive environment",
@@ -621,8 +621,8 @@
   },
   "due diligence": {
     "explanation": "deep check of a company before buying it",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-14"
   },
   "capsule collection": {
     "explanation": "a small limited fashion line",
@@ -711,8 +711,8 @@
   },
   "acqui-hire": {
     "explanation": "buying a company mainly to hire its team",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-14"
   },
   "antitrust": {
     "explanation": "regulators' checks on monopolies",
@@ -771,8 +771,8 @@
   },
   "organic growth": {
     "explanation": "growth without currency swings or acquisitions",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-14"
   },
   "restitution": {
     "explanation": "returning art to heirs of owners who lost it",
@@ -783,5 +783,140 @@
     "explanation": "gut hormone the weight loss drugs mimic",
     "count": 1,
     "last_used": "2026-10-13"
+  },
+  "caretaker prime minister": {
+    "explanation": "PM who runs the government temporarily until a new one forms",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "surplus-vote deal": {
+    "explanation": "two parties pool leftover votes",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Aramco": {
+    "explanation": "Saudi Arabia's giant state oil company",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "adenocarcinoma": {
+    "explanation": "most common type of lung cancer",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "IMF": {
+    "explanation": "International Monetary Fund",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "sanctuary state": {
+    "explanation": "state limiting cooperation with federal immigration enforcement",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "fracking": {
+    "explanation": "drilling method for natural gas",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Civilian Complaint Review Board": {
+    "explanation": "NYC agency that investigates police misconduct",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "subpoena": {
+    "explanation": "legal order to testify",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "AIPAC": {
+    "explanation": "main pro-Israel lobbying group in Washington",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Europa League": {
+    "explanation": "major European club soccer competition",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Smithsonian": {
+    "explanation": "America's national family of museums",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Righteous Among the Nations": {
+    "explanation": "non-Jews who saved Jews in the Holocaust",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "mainframe": {
+    "explanation": "giant old computers that run banks and airlines",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Mamram": {
+    "explanation": "the IDF's computing unit",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "pre-dismissal hearing": {
+    "explanation": "step Israeli law requires before a layoff",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "hypersonic missile": {
+    "explanation": "flies over five times the speed of sound",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "frontier model": {
+    "explanation": "one of the most advanced AI models",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "tokens": {
+    "explanation": "small chunks of text AI reads and writes",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "stealth": {
+    "explanation": "startup operating secretly before announcing itself",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "shadow AI": {
+    "explanation": "AI tools employees adopt without security approval",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "annual recurring revenue": {
+    "explanation": "yearly value of subscriptions",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "field marketing": {
+    "explanation": "in-person events and local teams",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "Chapter 11": {
+    "explanation": "bankruptcy that lets a company keep operating",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "stalking-horse bidder": {
+    "explanation": "first offer that sets an auction's minimum price",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "bimah": {
+    "explanation": "raised platform where the Torah is read",
+    "count": 1,
+    "last_used": "2026-10-14"
+  },
+  "deconsecrated": {
+    "explanation": "formally retired from religious use",
+    "count": 1,
+    "last_used": "2026-10-14"
   }
 }
