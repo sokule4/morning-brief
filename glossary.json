@@ -306,8 +306,8 @@
   },
   "sanctions": {
     "explanation": "financial penalties that cut off money and business",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-18"
   },
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
@@ -376,8 +376,8 @@
   },
   "zero-day": {
     "explanation": "a flaw the maker doesn't know about yet",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-18"
   },
   "CMO": {
     "explanation": "chief marketing officer",
@@ -391,8 +391,8 @@
   },
   "SaaS": {
     "explanation": "software sold as a subscription",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-18"
   },
   "SaaSpocalypse": {
     "explanation": "crash in software company values over AI fears",
@@ -401,8 +401,8 @@
   },
   "creative director": {
     "explanation": "person who sets a fashion house's whole look",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-18"
   },
   "Pop Art": {
     "explanation": "art borrowing from comics and ads",
@@ -421,13 +421,13 @@
   },
   "CENTCOM": {
     "explanation": "US military command for the Middle East",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-18"
   },
   "naval blockade": {
     "explanation": "warships stopping ships going in or out of a country",
-    "count": 2,
-    "last_used": "2026-10-13"
+    "count": 3,
+    "last_used": "2026-10-18"
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
@@ -516,8 +516,8 @@
   },
   "CinemaScore": {
     "explanation": "grade opening-night audiences give a movie",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-10-18"
   },
   "Grade II listed": {
     "explanation": "protected as a historic building in Britain",
@@ -646,13 +646,13 @@
   },
   "Brent crude": {
     "explanation": "the global oil price benchmark",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-18"
   },
   "Revolutionary Guard": {
     "explanation": "Iran's elite military force",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-18"
   },
   "submunition": {
     "explanation": "small bomblet scattered by a cluster rocket",
@@ -726,8 +726,8 @@
   },
   "seed round": {
     "explanation": "a startup's very first funding",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-18"
   },
   "zero trust": {
     "explanation": "nobody gets more network access than needed",
@@ -766,8 +766,8 @@
   },
   "private equity": {
     "explanation": "investment firm that buys stakes in private companies",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-18"
   },
   "organic growth": {
     "explanation": "growth without currency swings or acquisitions",
@@ -1013,5 +1013,80 @@
     "explanation": "deep belly fat around the organs",
     "count": 1,
     "last_used": "2026-10-15"
+  },
+  "consul general": {
+    "explanation": "most senior diplomat a country keeps in a city",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "unity government": {
+    "explanation": "coalition joining the rival big parties",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "normalization": {
+    "explanation": "formal diplomatic ties between countries",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "Angelus": {
+    "explanation": "Catholic Sunday noon prayer led by the Pope",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "Graham Act": {
+    "explanation": "US law punishing buyers of Russian oil",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "Sephardi": {
+    "explanation": "Jews with North African or Middle Eastern roots",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "zero-click": {
+    "explanation": "hack needing no click from the victim",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "model agnostic": {
+    "explanation": "lets users pick any AI model",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "on-premises": {
+    "explanation": "software run on customers' own servers",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "quota-carrying rep": {
+    "explanation": "salesperson with a revenue target",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "lob": {
+    "explanation": "a long bob haircut",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "lingerie dressing": {
+    "explanation": "looks inspired by slips, corsets and lace",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "Pritzker Prize": {
+    "explanation": "architecture's top prize",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "fatty liver disease": {
+    "explanation": "fat building up in the liver",
+    "count": 1,
+    "last_used": "2026-10-18"
+  },
+  "cirrhosis": {
+    "explanation": "serious liver scarring",
+    "count": 1,
+    "last_used": "2026-10-18"
   }
 }
