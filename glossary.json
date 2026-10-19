@@ -21,8 +21,8 @@
   },
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "the draft": {
     "explanation": "mandatory military service",
@@ -136,8 +136,8 @@
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "mega-round": {
     "explanation": "a funding round of 100 million dollars or more",
@@ -611,8 +611,8 @@
   },
   "Unit 8200": {
     "explanation": "Israeli army's elite intelligence tech unit",
-    "count": 2,
-    "last_used": "2026-10-14"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "world model": {
     "explanation": "AI that simulates a realistic interactive environment",
@@ -636,8 +636,8 @@
   },
   "artist record": {
     "explanation": "highest price ever paid for an artist's work",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "interceptor": {
     "explanation": "missile that shoots down incoming missiles",
@@ -651,8 +651,8 @@
   },
   "Revolutionary Guard": {
     "explanation": "Iran's elite military force",
-    "count": 2,
-    "last_used": "2026-10-18"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "submunition": {
     "explanation": "small bomblet scattered by a cluster rocket",
@@ -726,28 +726,28 @@
   },
   "seed round": {
     "explanation": "a startup's very first funding",
-    "count": 2,
-    "last_used": "2026-10-18"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "zero trust": {
     "explanation": "nobody gets more network access than needed",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "all-stock deal": {
     "explanation": "buyer pays in its own shares",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "earnout": {
     "explanation": "part of a price paid later if results are hit",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "post-quantum cryptography": {
     "explanation": "encryption quantum computers can't break",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "Q-Day": {
     "explanation": "day quantum computers can crack today's encryption",
@@ -756,8 +756,8 @@
   },
   "SDR": {
     "explanation": "sales development rep who qualifies new leads",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "multispectral camouflage": {
     "explanation": "hides from several kinds of sensors at once",
@@ -766,8 +766,8 @@
   },
   "private equity": {
     "explanation": "investment firm that buys stakes in private companies",
-    "count": 2,
-    "last_used": "2026-10-18"
+    "count": 3,
+    "last_used": "2026-10-19"
   },
   "organic growth": {
     "explanation": "growth without currency swings or acquisitions",
@@ -936,13 +936,13 @@
   },
   "comptroller": {
     "explanation": "official who manages the city's pension money",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "Israel Bonds": {
     "explanation": "bonds Israel sells to raise money abroad",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "PMQs": {
     "explanation": "Prime Minister's Questions, weekly grilling in Parliament",
@@ -996,8 +996,8 @@
   },
   "per-seat pricing": {
     "explanation": "paying per user",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "body horror": {
     "explanation": "horror about a body changing disturbingly",
@@ -1011,8 +1011,8 @@
   },
   "visceral fat": {
     "explanation": "deep belly fat around the organs",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "consul general": {
     "explanation": "most senior diplomat a country keeps in a city",
@@ -1031,8 +1031,8 @@
   },
   "Angelus": {
     "explanation": "Catholic Sunday noon prayer led by the Pope",
-    "count": 1,
-    "last_used": "2026-10-18"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "Graham Act": {
     "explanation": "US law punishing buyers of Russian oil",
@@ -1041,8 +1041,8 @@
   },
   "Sephardi": {
     "explanation": "Jews with North African or Middle Eastern roots",
-    "count": 1,
-    "last_used": "2026-10-18"
+    "count": 2,
+    "last_used": "2026-10-19"
   },
   "zero-click": {
     "explanation": "hack needing no click from the victim",
@@ -1088,5 +1088,165 @@
     "explanation": "serious liver scarring",
     "count": 1,
     "last_used": "2026-10-18"
+  },
+  "Truth Social": {
+    "explanation": "Trump's own social media platform",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "Otzma Yehudit": {
+    "explanation": "Ben Gvir's far-right party",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "term limits": {
+    "explanation": "a cap on how long someone can serve",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "GCC": {
+    "explanation": "Gulf Cooperation Council, six Gulf monarchies",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "pogrom": {
+    "explanation": "a violent mob attack on a community",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "OCHA": {
+    "explanation": "the UN humanitarian office",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "UNIFIL": {
+    "explanation": "UN peacekeeping force in south Lebanon",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "early voting": {
+    "explanation": "in-person voting before Election Day",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "turnover": {
+    "explanation": "giving the ball to the other team",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "tefillin": {
+    "explanation": "leather prayer boxes observant Jews wear",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "BDS": {
+    "explanation": "boycott, divestment and sanctions campaign against Israel",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "bootstrapped": {
+    "explanation": "built with no outside investors",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "reverse engineering": {
+    "explanation": "taking finished software apart to see how it works",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "air-gapped": {
+    "explanation": "fully cut off from the internet",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "usage-based pricing": {
+    "explanation": "paying for how much you use",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "MSP": {
+    "explanation": "IT firms that run tech for other companies",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "supply-chain attack": {
+    "explanation": "hacking victims through a vendor they trust",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "MFA": {
+    "explanation": "the second login code on your phone",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "microsegmentation": {
+    "explanation": "walling off parts of a network so breaches can't spread",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "franchise": {
+    "explanation": "the right to run a brand locally",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "family office": {
+    "explanation": "private firm managing one family's fortune",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "royalties": {
+    "explanation": "a cut of sales paid to the brand owner",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "Fantasy Bra": {
+    "explanation": "Victoria's Secret's jewel-covered showpiece bra",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "Angel (Victoria's Secret)": {
+    "explanation": "one of the brand's signature contract models",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "peplum": {
+    "explanation": "a flared ruffle at the waist",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "satellite fair": {
+    "explanation": "smaller fair riding a big fair's crowds",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "Prix Marcel Duchamp": {
+    "explanation": "France's top contemporary art prize",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "hammer price": {
+    "explanation": "the winning bid before fees",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "low estimate": {
+    "explanation": "bottom of an auction house's predicted price range",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "ultra-processed food": {
+    "explanation": "industrial foods like chips and sweetened cereals",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "silent stroke": {
+    "explanation": "a stroke with no symptoms, seen only on a scan",
+    "count": 1,
+    "last_used": "2026-10-19"
+  },
+  "observational study": {
+    "explanation": "shows a link, not proof of cause",
+    "count": 1,
+    "last_used": "2026-10-19"
   }
 }
