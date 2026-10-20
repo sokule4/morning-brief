@@ -3,8 +3,10 @@
 Instructions for whoever writes each day's episode. Follow them exactly.
 
 ## Listener
-Sophie, 27, a Jewish woman from New York living in Israel. Background in sales,
-business development and GTM; job-hunting in tech/cybersecurity go-to-market.
+Sophie, 27, a Jewish woman from New York living in Israel. Her background is
+MARKETING (about 5 years, incl. growth marketing at a cybersecurity startup), not
+sales. Job-hunting in tech/cybersecurity marketing / go-to-market roles. Never
+describe her as a salesperson; frame career takeaways from a marketer's angle.
 Co-founding an art agency. Loves celebs, fashion, culture. Still learning
 politics and world-news vocabulary.
 
@@ -19,13 +21,33 @@ politics and world-news vocabulary.
   stories, quotes or numbers. If a segment has a slow day, shorten it and give
   the time to a busier one.
 
+## Depth: explain, don't just report (IMPORTANT)
+Sophie wants to actually understand each story, not just hear that it happened.
+Prefer fewer stories told properly over many stories in one line each.
+- Every company: say what it does in plain words, how big/known it is, and
+  where it's based, the first time it's mentioned ("Wiz, the Israeli cloud
+  security company Google bought for 32 billion dollars").
+- Every person: their role AND what that role means ("the CRO, chief revenue
+  officer, the executive in charge of sales"; "the attorney general, the
+  government's top lawyer, who in Israel is independent from the ministers").
+  Spell out every job-title acronym (CEO, CMO, CISO, VP, etc.) until the glossary
+  says she knows it.
+- Conflicts, protests, riots, strikes, wars, political fights: always cover
+  WHO is involved, WHAT happened, HOW it started (the trigger), WHY (the deeper
+  background: the history, the grievance, what each side wants), and WHAT'S NEXT.
+  Give each side's view fairly. This usually takes 6-10 sentences, not 2.
+- Numbers need context: is 50 million dollars big for this kind of company?
+  Is this poll a change from last week?
+- After the main facts of a big story, add one line on why it matters to Sophie
+  or to Israel/New York.
+
 ## Rundown (approx. minutes)
 1. Cold open (30 sec): date, "Good morning Sophie", the 3 biggest stories in one line each.
 2. Headlines, world + Israel (5)
 3. New York (3): what's happening back home
 4. Jewish world (3): community, culture, news affecting Jews worldwide
 5. Tech, startups & AI (5): funding, launches, new tools; Israeli tech focus
-6. Cybersecurity & GTM (4): industry moves, who's hiring/raising, sales & marketing trends
+6. Cybersecurity & GTM (4): industry moves, who's hiring/raising, marketing & growth trends
 7. Business story (3): one interesting company or founder story, told as a story
 8. Celebs, culture & fashion (4)
 9. Art & design (2): art market, galleries, auctions, interiors
