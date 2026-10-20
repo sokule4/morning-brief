@@ -7,7 +7,7 @@
   "Shin Bet": {
     "explanation": "Israel's internal security service",
     "count": 3,
-    "last_used": "2026-10-10"
+    "last_used": "2026-10-20"
   },
   "Knesset": {
     "explanation": "Israel's parliament",
@@ -32,7 +32,7 @@
   "Houthis": {
     "explanation": "Iran-backed rebel group controlling much of Yemen",
     "count": 3,
-    "last_used": "2026-10-10"
+    "last_used": "2026-10-20"
   },
   "Bab el-Mandeb": {
     "explanation": "narrow sea passage key to world shipping",
@@ -67,7 +67,7 @@
   "valuation": {
     "explanation": "what investors say the whole company is worth",
     "count": 3,
-    "last_used": "2026-10-09"
+    "last_used": "2026-10-20"
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
@@ -82,7 +82,7 @@
   "GTM": {
     "explanation": "go-to-market, how companies sell and market",
     "count": 3,
-    "last_used": "2026-10-09"
+    "last_used": "2026-10-20"
   },
   "OT security": {
     "explanation": "protecting factories, power plants, physical infrastructure",
@@ -102,17 +102,17 @@
   "bloc": {
     "explanation": "group of allied parties",
     "count": 3,
-    "last_used": "2026-10-11"
+    "last_used": "2026-10-20"
   },
   "electoral threshold": {
     "explanation": "minimum vote share needed to win any seats",
     "count": 3,
-    "last_used": "2026-10-12"
+    "last_used": "2026-10-20"
   },
   "coalition": {
     "explanation": "group of parties that together form a government",
     "count": 3,
-    "last_used": "2026-10-12"
+    "last_used": "2026-10-20"
   },
   "Visa Waiver Program": {
     "explanation": "lets Israelis visit the US without a visa",
@@ -127,7 +127,7 @@
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
     "count": 3,
-    "last_used": "2026-10-12"
+    "last_used": "2026-10-20"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
@@ -137,7 +137,7 @@
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
     "count": 3,
-    "last_used": "2026-10-19"
+    "last_used": "2026-10-20"
   },
   "mega-round": {
     "explanation": "a funding round of 100 million dollars or more",
@@ -232,7 +232,7 @@
   "Series A": {
     "explanation": "a startup's first big institutional funding round",
     "count": 3,
-    "last_used": "2026-10-15"
+    "last_used": "2026-10-20"
   },
   "Series B": {
     "explanation": "a startup's second big funding round",
@@ -251,8 +251,8 @@
   },
   "pentest": {
     "explanation": "penetration test, hired hackers trying to break in",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "red team": {
     "explanation": "ethical hackers who test defenses",
@@ -267,7 +267,7 @@
   "CRO": {
     "explanation": "chief revenue officer, the executive over all sales",
     "count": 3,
-    "last_used": "2026-10-15"
+    "last_used": "2026-10-20"
   },
   "run rate": {
     "explanation": "yearly earnings at your current pace",
@@ -277,7 +277,7 @@
   "unicorn": {
     "explanation": "startup worth over a billion dollars",
     "count": 3,
-    "last_used": "2026-10-11"
+    "last_used": "2026-10-20"
   },
   "showrunner": {
     "explanation": "the person who runs a TV series",
@@ -306,8 +306,8 @@
   },
   "sanctions": {
     "explanation": "financial penalties that cut off money and business",
-    "count": 2,
-    "last_used": "2026-10-18"
+    "count": 3,
+    "last_used": "2026-10-20"
   },
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
@@ -326,8 +326,8 @@
   },
   "DSA": {
     "explanation": "Democratic Socialists of America",
-    "count": 2,
-    "last_used": "2026-10-13"
+    "count": 3,
+    "last_used": "2026-10-20"
   },
   "Strategic Response Group": {
     "explanation": "NYPD's protest and riot unit",
@@ -402,7 +402,7 @@
   "creative director": {
     "explanation": "person who sets a fashion house's whole look",
     "count": 3,
-    "last_used": "2026-10-18"
+    "last_used": "2026-10-20"
   },
   "Pop Art": {
     "explanation": "art borrowing from comics and ads",
@@ -446,8 +446,8 @@
   },
   "Hezbollah": {
     "explanation": "Iran-backed armed group in Lebanon",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-20"
   },
   "RSF": {
     "explanation": "Rapid Support Forces, Sudan's paramilitary group",
@@ -586,8 +586,8 @@
   },
   "CISO": {
     "explanation": "chief information security officer, head of a company's security",
-    "count": 2,
-    "last_used": "2026-10-13"
+    "count": 3,
+    "last_used": "2026-10-20"
   },
   "CIRM": {
     "explanation": "cyber incident response management",
@@ -632,12 +632,12 @@
   "evening sale": {
     "explanation": "prestige auction night for the biggest works",
     "count": 3,
-    "last_used": "2026-10-15"
+    "last_used": "2026-10-20"
   },
   "artist record": {
     "explanation": "highest price ever paid for an artist's work",
     "count": 3,
-    "last_used": "2026-10-19"
+    "last_used": "2026-10-20"
   },
   "interceptor": {
     "explanation": "missile that shoots down incoming missiles",
@@ -647,7 +647,7 @@
   "Brent crude": {
     "explanation": "the global oil price benchmark",
     "count": 3,
-    "last_used": "2026-10-18"
+    "last_used": "2026-10-20"
   },
   "Revolutionary Guard": {
     "explanation": "Iran's elite military force",
@@ -767,7 +767,7 @@
   "private equity": {
     "explanation": "investment firm that buys stakes in private companies",
     "count": 3,
-    "last_used": "2026-10-19"
+    "last_used": "2026-10-20"
   },
   "organic growth": {
     "explanation": "growth without currency swings or acquisitions",
@@ -881,8 +881,8 @@
   },
   "stealth": {
     "explanation": "startup operating secretly before announcing itself",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "shadow AI": {
     "explanation": "AI tools employees adopt without security approval",
@@ -1021,8 +1021,8 @@
   },
   "unity government": {
     "explanation": "coalition joining the rival big parties",
-    "count": 1,
-    "last_used": "2026-10-18"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "normalization": {
     "explanation": "formal diplomatic ties between countries",
@@ -1126,8 +1126,8 @@
   },
   "early voting": {
     "explanation": "in-person voting before Election Day",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "turnover": {
     "explanation": "giving the ball to the other team",
@@ -1136,8 +1136,8 @@
   },
   "tefillin": {
     "explanation": "leather prayer boxes observant Jews wear",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "BDS": {
     "explanation": "boycott, divestment and sanctions campaign against Israel",
@@ -1166,13 +1166,13 @@
   },
   "MSP": {
     "explanation": "IT firms that run tech for other companies",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "supply-chain attack": {
     "explanation": "hacking victims through a vendor they trust",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "MFA": {
     "explanation": "the second login code on your phone",
@@ -1196,8 +1196,8 @@
   },
   "royalties": {
     "explanation": "a cut of sales paid to the brand owner",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "Fantasy Bra": {
     "explanation": "Victoria's Secret's jewel-covered showpiece bra",
@@ -1236,8 +1236,8 @@
   },
   "ultra-processed food": {
     "explanation": "industrial foods like chips and sweetened cereals",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-20"
   },
   "silent stroke": {
     "explanation": "a stroke with no symptoms, seen only on a scan",
@@ -1246,7 +1246,77 @@
   },
   "observational study": {
     "explanation": "shows a link, not proof of cause",
+    "count": 2,
+    "last_used": "2026-10-20"
+  },
+  "wasted vote": {
+    "explanation": "a vote for a party that won't win seats",
     "count": 1,
-    "last_used": "2026-10-19"
+    "last_used": "2026-10-20"
+  },
+  "outpost": {
+    "explanation": "small unauthorized West Bank settlement",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "two-thirds majority": {
+    "explanation": "two out of every three lawmakers",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "Satmar": {
+    "explanation": "large Hasidic ultra-Orthodox group",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "Jewish gauchos": {
+    "explanation": "Jewish farmers who settled rural Argentina",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "outcome-based pricing": {
+    "explanation": "customers pay for results, not seats",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "public benefit corporation": {
+    "explanation": "company legally required to weigh public good",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "megawatt": {
+    "explanation": "unit of electrical power",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "API secret": {
+    "explanation": "password one app uses to talk to another",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "non-human identity": {
+    "explanation": "identities of apps and machines, not people",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "confidential computing": {
+    "explanation": "keeping data encrypted while it's processed",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "EBITDA": {
+    "explanation": "common measure of operating profit",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "Billboard 200": {
+    "explanation": "main US album chart",
+    "count": 1,
+    "last_used": "2026-10-20"
+  },
+  "album units": {
+    "explanation": "measure combining album sales and streams",
+    "count": 1,
+    "last_used": "2026-10-20"
   }
 }
