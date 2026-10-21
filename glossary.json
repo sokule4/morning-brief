@@ -26,8 +26,8 @@
   },
   "the draft": {
     "explanation": "mandatory military service",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-21"
   },
   "Houthis": {
     "explanation": "Iran-backed rebel group controlling much of Yemen",
@@ -46,8 +46,8 @@
   },
   "NATO": {
     "explanation": "Western military alliance; attack on one is attack on all",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "minority government": {
     "explanation": "most seats but no majority on its own",
@@ -56,13 +56,13 @@
   },
   "referendum": {
     "explanation": "a public vote on a single question",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "ICC": {
     "explanation": "International Criminal Court, the world's war crimes court",
-    "count": 2,
-    "last_used": "2026-10-10"
+    "count": 3,
+    "last_used": "2026-10-21"
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
@@ -76,8 +76,8 @@
   },
   "Series C": {
     "explanation": "a company's third big funding round",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "GTM": {
     "explanation": "go-to-market, how companies sell and market",
@@ -121,8 +121,8 @@
   },
   "enrichment": {
     "explanation": "turning uranium into nuclear fuel or bomb material",
-    "count": 2,
-    "last_used": "2026-10-09"
+    "count": 3,
+    "last_used": "2026-10-21"
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
@@ -381,8 +381,8 @@
   },
   "CMO": {
     "explanation": "chief marketing officer",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "roll-up": {
     "explanation": "buying many companies and running them together",
@@ -831,8 +831,8 @@
   },
   "AIPAC": {
     "explanation": "main pro-Israel lobbying group in Washington",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "Europa League": {
     "explanation": "major European club soccer competition",
@@ -891,8 +891,8 @@
   },
   "annual recurring revenue": {
     "explanation": "yearly value of subscriptions",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
@@ -971,8 +971,8 @@
   },
   "CISA": {
     "explanation": "America's cyber defense agency",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "exposure management": {
     "explanation": "helping teams decide which flaws to fix first",
@@ -1116,8 +1116,8 @@
   },
   "OCHA": {
     "explanation": "the UN humanitarian office",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-21"
   },
   "UNIFIL": {
     "explanation": "UN peacekeeping force in south Lebanon",
@@ -1318,5 +1318,115 @@
     "explanation": "measure combining album sales and streams",
     "count": 1,
     "last_used": "2026-10-20"
+  },
+  "IAEA": {
+    "explanation": "the UN's nuclear watchdog",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "Davos in the Desert": {
+    "explanation": "Saudi Arabia's big annual investment conference",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "Article Five": {
+    "explanation": "NATO's promise that an attack on one is on all",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "bond yield": {
+    "explanation": "interest rate a government pays to borrow",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "internal poll": {
+    "explanation": "a poll paid for by a campaign",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "2-K": {
+    "explanation": "NYC's free child care for two-year-olds",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "sidewalk shed": {
+    "explanation": "scaffolding tunnel over a sidewalk during repairs",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "Shomrim": {
+    "explanation": "Jewish volunteer neighborhood patrol",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "Ustasha": {
+    "explanation": "Croatia's pro-Nazi regime in World War Two",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "super PAC": {
+    "explanation": "political group that can spend unlimited money",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "data observability": {
+    "explanation": "tools that catch broken data before it's used",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "Abraham Accords": {
+    "explanation": "2020 normalization deals between Israel and Gulf states",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "DDoS": {
+    "explanation": "flooding a site with fake traffic to crash it",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "API key": {
+    "explanation": "a password letting software use a paid service",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "NIST": {
+    "explanation": "US government standards agency",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "rogue AI agent": {
+    "explanation": "an AI agent acting without instruction",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "AI shopping agent": {
+    "explanation": "a bot that buys things for you",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "Iron Beam": {
+    "explanation": "Israel's laser air-defense system",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "pre-money valuation": {
+    "explanation": "company's worth before new money comes in",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "backlog": {
+    "explanation": "signed orders not yet delivered",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "CFDA": {
+    "explanation": "the Council of Fashion Designers of America",
+    "count": 1,
+    "last_used": "2026-10-21"
+  },
+  "whey protein": {
+    "explanation": "a milk protein powder",
+    "count": 1,
+    "last_used": "2026-10-21"
   }
 }
