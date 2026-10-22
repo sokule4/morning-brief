@@ -241,8 +241,8 @@
   },
   "runtime security": {
     "explanation": "protecting software while it's actually running",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-22"
   },
   "offensive security": {
     "explanation": "attacking your own systems to find holes",
@@ -716,8 +716,8 @@
   },
   "antitrust": {
     "explanation": "regulators' checks on monopolies",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-22"
   },
   "DLP": {
     "explanation": "data loss prevention, stopping data from leaking out",
@@ -831,8 +831,8 @@
   },
   "AIPAC": {
     "explanation": "main pro-Israel lobbying group in Washington",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-10-22"
   },
   "Europa League": {
     "explanation": "major European club soccer competition",
@@ -936,8 +936,8 @@
   },
   "comptroller": {
     "explanation": "official who manages the city's pension money",
-    "count": 2,
-    "last_used": "2026-10-19"
+    "count": 3,
+    "last_used": "2026-10-22"
   },
   "Israel Bonds": {
     "explanation": "bonds Israel sells to raise money abroad",
@@ -1186,8 +1186,8 @@
   },
   "franchise": {
     "explanation": "the right to run a brand locally",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-22"
   },
   "family office": {
     "explanation": "private firm managing one family's fortune",
@@ -1246,8 +1246,8 @@
   },
   "observational study": {
     "explanation": "shows a link, not proof of cause",
-    "count": 2,
-    "last_used": "2026-10-20"
+    "count": 3,
+    "last_used": "2026-10-22"
   },
   "wasted vote": {
     "explanation": "a vote for a party that won't win seats",
@@ -1366,8 +1366,8 @@
   },
   "super PAC": {
     "explanation": "political group that can spend unlimited money",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-10-22"
   },
   "data observability": {
     "explanation": "tools that catch broken data before it's used",
@@ -1428,5 +1428,100 @@
     "explanation": "a milk protein powder",
     "count": 1,
     "last_used": "2026-10-21"
+  },
+  "rotation agreement": {
+    "explanation": "two leaders take turns as prime minister",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "electioneering": {
+    "explanation": "using an official event to campaign",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "central bank": {
+    "explanation": "the bank that sets a country's interest rates",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "trilateral talks": {
+    "explanation": "three-way talks with all sides at one table",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "special committee": {
+    "explanation": "independent board members who negotiate when the boss has a conflict",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "secondaries": {
+    "explanation": "buying existing stakes from earlier investors or employees",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "payment clearing": {
+    "explanation": "processing card payments for merchants",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "misalignment monitor": {
+    "explanation": "tool flagging when an AI does unintended things",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "remote code execution": {
+    "explanation": "attackers running their own code on a server",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "last-mile delivery": {
+    "explanation": "the final step of delivery to your door",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "bench trial": {
+    "explanation": "a trial decided by a judge, not a jury",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "Competition Authority": {
+    "explanation": "Israel's antitrust regulator",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "IHRA definition": {
+    "explanation": "a widely used definition of antisemitism",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "persona non grata": {
+    "explanation": "diplomats declared unwelcome, meaning expelled",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "catalogue raisonné": {
+    "explanation": "the official list of an artist's works",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "epigenetic clock": {
+    "explanation": "test estimating biological age from changes on DNA",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "DASH diet": {
+    "explanation": "a diet designed to lower blood pressure",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "FCC": {
+    "explanation": "the US communications regulator",
+    "count": 1,
+    "last_used": "2026-10-22"
+  },
+  "minimalism (music)": {
+    "explanation": "repetitive, pulsing style of music",
+    "count": 1,
+    "last_used": "2026-10-22"
   }
 }
