@@ -16,8 +16,8 @@
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
-    "count": 1,
-    "last_used": "2026-10-07"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
@@ -201,8 +201,8 @@
   },
   "shadow fleet": {
     "explanation": "hidden tankers used to sneak oil past sanctions",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-10-23"
   },
   "Yellow Line": {
     "explanation": "boundary between Israeli-held and Hamas-held Gaza",
@@ -216,8 +216,8 @@
   },
   "fare evasion": {
     "explanation": "riding without paying, jumping the turnstiles",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "ISIS": {
     "explanation": "the Islamist terror group",
@@ -271,8 +271,8 @@
   },
   "run rate": {
     "explanation": "yearly earnings at your current pace",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-10-23"
   },
   "unicorn": {
     "explanation": "startup worth over a billion dollars",
@@ -536,8 +536,8 @@
   },
   "Palestinian Authority": {
     "explanation": "governs parts of the West Bank",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "PLO": {
     "explanation": "umbrella Palestinian leadership body",
@@ -706,8 +706,8 @@
   },
   "open-weight model": {
     "explanation": "AI model anyone can download and run",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "acqui-hire": {
     "explanation": "buying a company mainly to hire its team",
@@ -736,8 +736,8 @@
   },
   "all-stock deal": {
     "explanation": "buyer pays in its own shares",
-    "count": 2,
-    "last_used": "2026-10-19"
+    "count": 3,
+    "last_used": "2026-10-23"
   },
   "earnout": {
     "explanation": "part of a price paid later if results are hit",
@@ -891,8 +891,8 @@
   },
   "annual recurring revenue": {
     "explanation": "yearly value of subscriptions",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-10-23"
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
@@ -1091,8 +1091,8 @@
   },
   "Truth Social": {
     "explanation": "Trump's own social media platform",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "Otzma Yehudit": {
     "explanation": "Ben Gvir's far-right party",
@@ -1126,8 +1126,8 @@
   },
   "early voting": {
     "explanation": "in-person voting before Election Day",
-    "count": 2,
-    "last_used": "2026-10-20"
+    "count": 3,
+    "last_used": "2026-10-23"
   },
   "turnover": {
     "explanation": "giving the ball to the other team",
@@ -1366,8 +1366,8 @@
   },
   "super PAC": {
     "explanation": "political group that can spend unlimited money",
-    "count": 2,
-    "last_used": "2026-10-22"
+    "count": 3,
+    "last_used": "2026-10-23"
   },
   "data observability": {
     "explanation": "tools that catch broken data before it's used",
@@ -1411,8 +1411,8 @@
   },
   "pre-money valuation": {
     "explanation": "company's worth before new money comes in",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "backlog": {
     "explanation": "signed orders not yet delivered",
@@ -1471,8 +1471,8 @@
   },
   "remote code execution": {
     "explanation": "attackers running their own code on a server",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-10-23"
   },
   "last-mile delivery": {
     "explanation": "the final step of delivery to your door",
@@ -1523,5 +1523,80 @@
     "explanation": "repetitive, pulsing style of music",
     "count": 1,
     "last_used": "2026-10-22"
+  },
+  "ship-to-ship transfer": {
+    "explanation": "moving oil between tankers at sea",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "polling ban": {
+    "explanation": "law barring new polls in final days before a vote",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "foreign influence campaign": {
+    "explanation": "foreign government secretly trying to sway voters",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "veto-proof majority": {
+    "explanation": "enough votes to override the mayor's veto",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "medallion (carriage)": {
+    "explanation": "license to run a horse carriage",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "City Charter": {
+    "explanation": "New York City's constitution",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "rainy day fund": {
+    "explanation": "city's emergency savings account",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "anti-Zionist": {
+    "explanation": "opposed to Israel as a Jewish state",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "judicial overhaul": {
+    "explanation": "government's push to change the courts' powers",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "quant hedge fund": {
+    "explanation": "fund that trades using math models",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "speculative decoding": {
+    "explanation": "small model drafts words, big model checks them",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "constant exchange rates": {
+    "explanation": "sales growth ignoring currency swings",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "EP": {
+    "explanation": "a short album",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "VIP preview": {
+    "explanation": "early fair days for top collectors",
+    "count": 1,
+    "last_used": "2026-10-23"
+  },
+  "Julio-Claudian": {
+    "explanation": "Roman dynasty of emperors starting with Augustus",
+    "count": 1,
+    "last_used": "2026-10-23"
   }
 }
