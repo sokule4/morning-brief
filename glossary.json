@@ -536,8 +536,8 @@
   },
   "Palestinian Authority": {
     "explanation": "governs parts of the West Bank",
-    "count": 2,
-    "last_used": "2026-10-23"
+    "count": 3,
+    "last_used": "2026-10-24"
   },
   "PLO": {
     "explanation": "umbrella Palestinian leadership body",
@@ -661,8 +661,8 @@
   },
   "High Court": {
     "explanation": "Israel's Supreme Court hearing cases against the government",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-24"
   },
   "E1": {
     "explanation": "area between Ma'ale Adumim and East Jerusalem",
@@ -1041,8 +1041,8 @@
   },
   "Sephardi": {
     "explanation": "Jews with North African or Middle Eastern roots",
-    "count": 2,
-    "last_used": "2026-10-19"
+    "count": 3,
+    "last_used": "2026-10-24"
   },
   "zero-click": {
     "explanation": "hack needing no click from the victim",
@@ -1136,8 +1136,8 @@
   },
   "tefillin": {
     "explanation": "leather prayer boxes observant Jews wear",
-    "count": 2,
-    "last_used": "2026-10-20"
+    "count": 3,
+    "last_used": "2026-10-24"
   },
   "BDS": {
     "explanation": "boycott, divestment and sanctions campaign against Israel",
@@ -1246,8 +1246,8 @@
   },
   "observational study": {
     "explanation": "shows a link, not proof of cause",
-    "count": 3,
-    "last_used": "2026-10-22"
+    "count": 4,
+    "last_used": "2026-10-24"
   },
   "wasted vote": {
     "explanation": "a vote for a party that won't win seats",
@@ -1301,8 +1301,8 @@
   },
   "confidential computing": {
     "explanation": "keeping data encrypted while it's processed",
-    "count": 1,
-    "last_used": "2026-10-20"
+    "count": 2,
+    "last_used": "2026-10-24"
   },
   "EBITDA": {
     "explanation": "common measure of operating profit",
@@ -1411,8 +1411,8 @@
   },
   "pre-money valuation": {
     "explanation": "company's worth before new money comes in",
-    "count": 2,
-    "last_used": "2026-10-23"
+    "count": 3,
+    "last_used": "2026-10-24"
   },
   "backlog": {
     "explanation": "signed orders not yet delivered",
@@ -1598,5 +1598,105 @@
     "explanation": "Roman dynasty of emperors starting with Augustus",
     "count": 1,
     "last_used": "2026-10-23"
+  },
+  "closure (military)": {
+    "explanation": "army seals roads in and out of an area",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "Epic Fury": {
+    "explanation": "name of the US strikes on Iran begun in February",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "Director of National Intelligence": {
+    "explanation": "top US spy official",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "runoff": {
+    "explanation": "second-round vote between the top two candidates",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "judicial warrant": {
+    "explanation": "warrant signed by a judge",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "Chabad": {
+    "explanation": "Hasidic movement known for Jewish outreach",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "stablecoin": {
+    "explanation": "crypto token pegged to the dollar",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "production abroad": {
+    "explanation": "Israeli-designed goods made and sold overseas",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "memorandum of understanding": {
+    "explanation": "early non-binding agreement",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "direct-to-consumer": {
+    "explanation": "selling straight to buyers, not through stores",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "Taylor's Version": {
+    "explanation": "re-recorded Taylor Swift albums she fully owns",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "stop-motion": {
+    "explanation": "puppets moved and filmed frame by frame",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "chief brand creative officer": {
+    "explanation": "executive guarding how a brand looks everywhere",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "retrospective": {
+    "explanation": "exhibition covering an artist's whole career",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "intifada": {
+    "explanation": "Palestinian uprising",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "Oslo Accords": {
+    "explanation": "1990s Israeli-Palestinian peace deals",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "non-REM sleep": {
+    "explanation": "deep, restoring stage of sleep",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "epistemic humility": {
+    "explanation": "knowing what you don't know",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "executive communications": {
+    "explanation": "writing speeches and messaging for top leaders",
+    "count": 1,
+    "last_used": "2026-10-24"
+  },
+  "Fashion Fund (CFDA/Vogue)": {
+    "explanation": "US fashion prize for young designers",
+    "count": 1,
+    "last_used": "2026-10-24"
   }
 }
