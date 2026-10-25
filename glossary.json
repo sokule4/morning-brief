@@ -381,8 +381,8 @@
   },
   "CMO": {
     "explanation": "chief marketing officer",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-10-25"
   },
   "roll-up": {
     "explanation": "buying many companies and running them together",
@@ -871,8 +871,8 @@
   },
   "frontier model": {
     "explanation": "one of the most advanced AI models",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-10-25"
   },
   "tokens": {
     "explanation": "small chunks of text AI reads and writes",
@@ -1506,13 +1506,13 @@
   },
   "epigenetic clock": {
     "explanation": "test estimating biological age from changes on DNA",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-10-25"
   },
   "DASH diet": {
     "explanation": "a diet designed to lower blood pressure",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-10-25"
   },
   "FCC": {
     "explanation": "the US communications regulator",
@@ -1576,8 +1576,8 @@
   },
   "speculative decoding": {
     "explanation": "small model drafts words, big model checks them",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-10-25"
   },
   "constant exchange rates": {
     "explanation": "sales growth ignoring currency swings",
@@ -1616,8 +1616,8 @@
   },
   "runoff": {
     "explanation": "second-round vote between the top two candidates",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-10-25"
   },
   "judicial warrant": {
     "explanation": "warrant signed by a judge",
@@ -1698,5 +1698,160 @@
     "explanation": "US fashion prize for young designers",
     "count": 1,
     "last_used": "2026-10-24"
+  },
+  "NPT": {
+    "explanation": "global treaty against spreading nuclear weapons",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "Area C": {
+    "explanation": "West Bank zone under full Israeli control",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "collective punishment": {
+    "explanation": "punishing a whole community for a few",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "takfiri": {
+    "explanation": "extremists who brand other Muslims unbelievers",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "margin of error": {
+    "explanation": "range in which a poll could be wrong",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "prediction markets": {
+    "explanation": "sites where people bet money on outcomes",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "manslaughter": {
+    "explanation": "a killing without proof of a plan to kill",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "grand jury": {
+    "explanation": "citizen panel deciding if a case goes to trial",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "Mossad": {
+    "explanation": "Israel's foreign spy agency",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "ADL": {
+    "explanation": "Anti-Defamation League, Jewish civil rights group",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "Zionism": {
+    "explanation": "belief that Jews should have a state in their homeland",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "indicted": {
+    "explanation": "formally charged with a crime",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "crypto": {
+    "explanation": "digital currencies like Bitcoin",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "Bank of Israel": {
+    "explanation": "Israel's central bank",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "benchmark": {
+    "explanation": "standard test for comparing AI systems",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "capex": {
+    "explanation": "capital expenses, e.g. data centers",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "API": {
+    "explanation": "connections between software systems",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "B2B": {
+    "explanation": "marketing to businesses, not consumers",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "connected TV": {
+    "explanation": "ads on streaming TV apps",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "programmatic": {
+    "explanation": "ads bought automatically by software",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "false advertising": {
+    "explanation": "misleading claims in ads, illegal under US law",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "bots": {
+    "explanation": "computer-controlled players posing as people",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "archival": {
+    "explanation": "real piece from a brand's past collections",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "haute couture": {
+    "explanation": "handmade, made-to-measure top-end fashion",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "comparable sales": {
+    "explanation": "same-store sales, excluding new stores and currency",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "CEO": {
+    "explanation": "chief executive officer",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "provenance": {
+    "explanation": "ownership history of an artwork",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "biological age": {
+    "explanation": "how old your body seems at cell level",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "Hatikvah": {
+    "explanation": "Israel's national anthem",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "Nova festival": {
+    "explanation": "music festival attacked on October 7",
+    "count": 1,
+    "last_used": "2026-10-25"
+  },
+  "High-Tech Headquarters": {
+    "explanation": "Israeli tech industry's umbrella group",
+    "count": 1,
+    "last_used": "2026-10-25"
   }
 }
