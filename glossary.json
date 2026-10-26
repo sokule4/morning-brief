@@ -596,8 +596,8 @@
   },
   "CRM": {
     "explanation": "system sales teams use to track deals",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "spear-phishing": {
     "explanation": "targeted fake emails aimed at specific people",
@@ -731,8 +731,8 @@
   },
   "zero trust": {
     "explanation": "nobody gets more network access than needed",
-    "count": 2,
-    "last_used": "2026-10-19"
+    "count": 3,
+    "last_used": "2026-10-26"
   },
   "all-stock deal": {
     "explanation": "buyer pays in its own shares",
@@ -1261,8 +1261,8 @@
   },
   "two-thirds majority": {
     "explanation": "two out of every three lawmakers",
-    "count": 1,
-    "last_used": "2026-10-20"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "Satmar": {
     "explanation": "large Hasidic ultra-Orthodox group",
@@ -1301,8 +1301,8 @@
   },
   "confidential computing": {
     "explanation": "keeping data encrypted while it's processed",
-    "count": 2,
-    "last_used": "2026-10-24"
+    "count": 3,
+    "last_used": "2026-10-26"
   },
   "EBITDA": {
     "explanation": "common measure of operating profit",
@@ -1356,8 +1356,8 @@
   },
   "Shomrim": {
     "explanation": "Jewish volunteer neighborhood patrol",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "Ustasha": {
     "explanation": "Croatia's pro-Nazi regime in World War Two",
@@ -1601,8 +1601,8 @@
   },
   "closure (military)": {
     "explanation": "army seals roads in and out of an area",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "Epic Fury": {
     "explanation": "name of the US strikes on Iran begun in February",
@@ -1616,8 +1616,8 @@
   },
   "runoff": {
     "explanation": "second-round vote between the top two candidates",
-    "count": 2,
-    "last_used": "2026-10-25"
+    "count": 3,
+    "last_used": "2026-10-26"
   },
   "judicial warrant": {
     "explanation": "warrant signed by a judge",
@@ -1741,8 +1741,8 @@
   },
   "Mossad": {
     "explanation": "Israel's foreign spy agency",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "ADL": {
     "explanation": "Anti-Defamation League, Jewish civil rights group",
@@ -1761,13 +1761,13 @@
   },
   "crypto": {
     "explanation": "digital currencies like Bitcoin",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "Bank of Israel": {
     "explanation": "Israel's central bank",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "benchmark": {
     "explanation": "standard test for comparing AI systems",
@@ -1826,8 +1826,8 @@
   },
   "CEO": {
     "explanation": "chief executive officer",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-26"
   },
   "provenance": {
     "explanation": "ownership history of an artwork",
@@ -1853,5 +1853,125 @@
     "explanation": "Israeli tech industry's umbrella group",
     "count": 1,
     "last_used": "2026-10-25"
+  },
+  "chief of staff (IDF)": {
+    "explanation": "the army's top commander",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "military censor": {
+    "explanation": "office that can block security reporting",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "exit poll": {
+    "explanation": "TV surveys of voters leaving polling stations",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "annul": {
+    "explanation": "cancel an election result",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "snap election": {
+    "explanation": "early election called before the normal date",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "hate crime": {
+    "explanation": "crime motivated by bias against a group",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "Muslim Brotherhood": {
+    "explanation": "Islamist political movement founded in Egypt",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "Reform Judaism": {
+    "explanation": "largest liberal Jewish movement in America",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "S-1": {
+    "explanation": "company's detailed financial disclosure before an IPO",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "net loss": {
+    "explanation": "total losses after all costs",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "compute": {
+    "explanation": "computing power to train and run AI",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "Series D": {
+    "explanation": "late-stage funding round",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "post-money valuation": {
+    "explanation": "company's value including the new cash",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "sandbox": {
+    "explanation": "isolated space where AI-written code runs safely",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "ATS": {
+    "explanation": "applicant tracking system, recruiters' candidate software",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "spyware": {
+    "explanation": "software that secretly takes over a phone",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "environment variables": {
+    "explanation": "hidden app settings storing passwords and keys",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "AI inference provider": {
+    "explanation": "company that runs AI models for customers",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "customer engagement platform": {
+    "explanation": "software brands use to message customers",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "B2C": {
+    "explanation": "business-to-consumer",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "enterprise value": {
+    "explanation": "price for whole business, incl. debt and cash",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "acquisition premium": {
+    "explanation": "how far a deal price exceeds the stock price",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "abstract art": {
+    "explanation": "art that doesn't show recognizable objects",
+    "count": 1,
+    "last_used": "2026-10-26"
+  },
+  "deaccession": {
+    "explanation": "officially sell off from a collection",
+    "count": 1,
+    "last_used": "2026-10-26"
   }
 }
