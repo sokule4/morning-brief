@@ -31,8 +31,8 @@
   },
   "Houthis": {
     "explanation": "Iran-backed rebel group controlling much of Yemen",
-    "count": 3,
-    "last_used": "2026-10-20"
+    "count": 4,
+    "last_used": "2026-10-27"
   },
   "Bab el-Mandeb": {
     "explanation": "narrow sea passage key to world shipping",
@@ -471,8 +471,8 @@
   },
   "Board of Deputies": {
     "explanation": "main representative body of British Jews",
-    "count": 2,
-    "last_used": "2026-10-12"
+    "count": 3,
+    "last_used": "2026-10-27"
   },
   "law of armed conflict": {
     "explanation": "international rules of war",
@@ -596,8 +596,8 @@
   },
   "CRM": {
     "explanation": "system sales teams use to track deals",
-    "count": 2,
-    "last_used": "2026-10-26"
+    "count": 3,
+    "last_used": "2026-10-27"
   },
   "spear-phishing": {
     "explanation": "targeted fake emails aimed at specific people",
@@ -786,8 +786,8 @@
   },
   "caretaker prime minister": {
     "explanation": "PM who runs the government temporarily until a new one forms",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "surplus-vote deal": {
     "explanation": "two parties pool leftover votes",
@@ -1381,8 +1381,8 @@
   },
   "DDoS": {
     "explanation": "flooding a site with fake traffic to crash it",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "API key": {
     "explanation": "a password letting software use a paid service",
@@ -1741,13 +1741,13 @@
   },
   "Mossad": {
     "explanation": "Israel's foreign spy agency",
-    "count": 2,
-    "last_used": "2026-10-26"
+    "count": 3,
+    "last_used": "2026-10-27"
   },
   "ADL": {
     "explanation": "Anti-Defamation League, Jewish civil rights group",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "Zionism": {
     "explanation": "belief that Jews should have a state in their homeland",
@@ -1826,13 +1826,13 @@
   },
   "CEO": {
     "explanation": "chief executive officer",
-    "count": 2,
-    "last_used": "2026-10-26"
+    "count": 3,
+    "last_used": "2026-10-27"
   },
   "provenance": {
     "explanation": "ownership history of an artwork",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "biological age": {
     "explanation": "how old your body seems at cell level",
@@ -1856,8 +1856,8 @@
   },
   "chief of staff (IDF)": {
     "explanation": "the army's top commander",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "military censor": {
     "explanation": "office that can block security reporting",
@@ -1866,8 +1866,8 @@
   },
   "exit poll": {
     "explanation": "TV surveys of voters leaving polling stations",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "annul": {
     "explanation": "cancel an election result",
@@ -1881,8 +1881,8 @@
   },
   "hate crime": {
     "explanation": "crime motivated by bias against a group",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "Muslim Brotherhood": {
     "explanation": "Islamist political movement founded in Egypt",
@@ -1896,13 +1896,13 @@
   },
   "S-1": {
     "explanation": "company's detailed financial disclosure before an IPO",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "net loss": {
     "explanation": "total losses after all costs",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-10-27"
   },
   "compute": {
     "explanation": "computing power to train and run AI",
@@ -1973,5 +1973,120 @@
     "explanation": "officially sell off from a collection",
     "count": 1,
     "last_used": "2026-10-26"
+  },
+  "treason": {
+    "explanation": "betraying your own country",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "deputy minister": {
+    "explanation": "junior minister under a full minister",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "Mecca pact": {
+    "explanation": "Saudi-Turkey-Pakistan defense deal: attack on one is attack on all",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "mandate": {
+    "explanation": "official permission",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "prospectus": {
+    "explanation": "official document a company files before listing",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "Nasdaq": {
+    "explanation": "tech-heavy US stock exchange",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "ticker": {
+    "explanation": "a stock's short trading symbol",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "operating profit": {
+    "explanation": "profit from the actual business before one-time items",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "convertible notes": {
+    "explanation": "debt that can turn into shares",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "share of wallet": {
+    "explanation": "promise of a set portion of total spending",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "credentials": {
+    "explanation": "logins and keys that grant system access",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "webhook": {
+    "explanation": "automatic message sent between systems",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "hacktivist": {
+    "explanation": "hacker acting for a political cause",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "phishing": {
+    "explanation": "fake page or message built to steal your details",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "dark web": {
+    "explanation": "hidden part of the internet used for illegal trade",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "generative engine optimization": {
+    "explanation": "GEO: shaping what AI chatbots say about you",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "SEO": {
+    "explanation": "search engine optimization",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "PAC": {
+    "explanation": "political action committee, raises money for campaigns",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "CPO": {
+    "explanation": "chief product officer",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "CTO": {
+    "explanation": "chief technology officer",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "quantum computing": {
+    "explanation": "computing using particle physics to solve some problems faster",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "guaranteed (auction)": {
+    "explanation": "a buyer has already promised a set minimum",
+    "count": 1,
+    "last_used": "2026-10-27"
+  },
+  "units (Billboard)": {
+    "explanation": "sales and streams combined",
+    "count": 1,
+    "last_used": "2026-10-27"
   }
 }
