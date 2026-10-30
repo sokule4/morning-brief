@@ -6,18 +6,18 @@
   },
   "Shin Bet": {
     "explanation": "Israel's internal security service",
-    "count": 4,
-    "last_used": "2026-10-29"
+    "count": 5,
+    "last_used": "2026-10-30"
   },
   "Knesset": {
     "explanation": "Israel's parliament",
-    "count": 5,
-    "last_used": "2026-10-29"
+    "count": 6,
+    "last_used": "2026-10-30"
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
-    "count": 4,
-    "last_used": "2026-10-29"
+    "count": 5,
+    "last_used": "2026-10-30"
   },
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
@@ -66,8 +66,8 @@
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
-    "count": 5,
-    "last_used": "2026-10-29"
+    "count": 6,
+    "last_used": "2026-10-30"
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
@@ -101,8 +101,8 @@
   },
   "bloc": {
     "explanation": "group of allied parties",
-    "count": 5,
-    "last_used": "2026-10-29"
+    "count": 6,
+    "last_used": "2026-10-30"
   },
   "electoral threshold": {
     "explanation": "minimum vote share needed to win any seats",
@@ -126,13 +126,13 @@
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
-    "count": 4,
-    "last_used": "2026-10-28"
+    "count": 5,
+    "last_used": "2026-10-30"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
-    "count": 5,
-    "last_used": "2026-10-29"
+    "count": 6,
+    "last_used": "2026-10-30"
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
@@ -231,8 +231,8 @@
   },
   "Series A": {
     "explanation": "a startup's first big institutional funding round",
-    "count": 3,
-    "last_used": "2026-10-20"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "Series B": {
     "explanation": "a startup's second big funding round",
@@ -321,8 +321,8 @@
   },
   "ICE": {
     "explanation": "US immigration enforcement agency",
-    "count": 4,
-    "last_used": "2026-10-29"
+    "count": 5,
+    "last_used": "2026-10-30"
   },
   "DSA": {
     "explanation": "Democratic Socialists of America",
@@ -341,8 +341,8 @@
   },
   "far right": {
     "explanation": "the most nationalist end of politics",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "defamation": {
     "explanation": "damaging someone's reputation with false claims",
@@ -356,8 +356,8 @@
   },
   "green card": {
     "explanation": "US permanent residency",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "H-1B": {
     "explanation": "main US work visa for skilled foreigners",
@@ -381,8 +381,8 @@
   },
   "CMO": {
     "explanation": "chief marketing officer",
-    "count": 3,
-    "last_used": "2026-10-25"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "roll-up": {
     "explanation": "buying many companies and running them together",
@@ -611,8 +611,8 @@
   },
   "Unit 8200": {
     "explanation": "Israeli army's elite intelligence tech unit",
-    "count": 3,
-    "last_used": "2026-10-19"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "world model": {
     "explanation": "AI that simulates a realistic interactive environment",
@@ -646,13 +646,13 @@
   },
   "Brent crude": {
     "explanation": "the global oil price benchmark",
-    "count": 4,
-    "last_used": "2026-10-28"
+    "count": 5,
+    "last_used": "2026-10-30"
   },
   "Revolutionary Guard": {
     "explanation": "Iran's elite military force",
-    "count": 3,
-    "last_used": "2026-10-19"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "submunition": {
     "explanation": "small bomblet scattered by a cluster rocket",
@@ -766,8 +766,8 @@
   },
   "private equity": {
     "explanation": "investment firm that buys stakes in private companies",
-    "count": 3,
-    "last_used": "2026-10-20"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "organic growth": {
     "explanation": "growth without currency swings or acquisitions",
@@ -886,8 +886,8 @@
   },
   "shadow AI": {
     "explanation": "AI tools employees adopt without security approval",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "annual recurring revenue": {
     "explanation": "yearly value of subscriptions",
@@ -1021,8 +1021,8 @@
   },
   "unity government": {
     "explanation": "coalition joining the rival big parties",
-    "count": 3,
-    "last_used": "2026-10-29"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "normalization": {
     "explanation": "formal diplomatic ties between countries",
@@ -1626,8 +1626,8 @@
   },
   "Chabad": {
     "explanation": "Hasidic movement known for Jewish outreach",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "stablecoin": {
     "explanation": "crypto token pegged to the dollar",
@@ -1661,8 +1661,8 @@
   },
   "chief brand creative officer": {
     "explanation": "executive guarding how a brand looks everywhere",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "retrospective": {
     "explanation": "exhibition covering an artist's whole career",
@@ -1726,8 +1726,8 @@
   },
   "prediction markets": {
     "explanation": "sites where people bet money on outcomes",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "manslaughter": {
     "explanation": "a killing without proof of a plan to kill",
@@ -1776,8 +1776,8 @@
   },
   "capex": {
     "explanation": "capital expenses, e.g. data centers",
-    "count": 3,
-    "last_used": "2026-10-29"
+    "count": 4,
+    "last_used": "2026-10-30"
   },
   "API": {
     "explanation": "connections between software systems",
@@ -1816,8 +1816,8 @@
   },
   "haute couture": {
     "explanation": "handmade, made-to-measure top-end fashion",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "comparable sales": {
     "explanation": "same-store sales, excluding new stores and currency",
@@ -1826,8 +1826,8 @@
   },
   "CEO": {
     "explanation": "chief executive officer",
-    "count": 5,
-    "last_used": "2026-10-29"
+    "count": 6,
+    "last_used": "2026-10-30"
   },
   "provenance": {
     "explanation": "ownership history of an artwork",
@@ -2091,18 +2091,18 @@
   },
   "Joint List": {
     "explanation": "alliance of Arab-led parties in Israel",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-10-30"
   },
   "Ra'am": {
     "explanation": "Islamist Arab party led by Mansour Abbas",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-10-30"
   },
   "double-envelope ballots": {
     "explanation": "votes cast away from your home polling station",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-10-30"
   },
   "kingmaker": {
     "explanation": "small player who decides who wins",
@@ -2116,8 +2116,8 @@
   },
   "Kristallnacht": {
     "explanation": "Nazi night of attacks on Jews, November 1938",
-    "count": 1,
-    "last_used": "2026-10-28"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "Farhud": {
     "explanation": "1941 pogrom against Baghdad's Jews",
@@ -2181,8 +2181,8 @@
   },
   "free cash flow": {
     "explanation": "cash left after paying for investments",
-    "count": 1,
-    "last_used": "2026-10-29"
+    "count": 2,
+    "last_used": "2026-10-30"
   },
   "single sign-on": {
     "explanation": "one login that opens many apps",
@@ -2243,5 +2243,80 @@
     "explanation": "Serbia's special police force",
     "count": 1,
     "last_used": "2026-10-29"
+  },
+  "rotation": {
+    "explanation": "two leaders take turns as prime minister",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "Espionage Act": {
+    "explanation": "US law against leaking national defense secrets",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "ECB": {
+    "explanation": "European Central Bank, sets euro interest rates",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "AWS": {
+    "explanation": "Amazon's cloud business renting computing power",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "net revenue retention": {
+    "explanation": "how much existing customers spend vs. last year",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "robotaxi": {
+    "explanation": "driverless car you hail like an Uber",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "CFTC": {
+    "explanation": "federal agency overseeing futures trading",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "felony": {
+    "explanation": "the most serious class of crime",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "toss-up": {
+    "explanation": "a race too close to call",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "naturalization": {
+    "explanation": "legal process for a foreigner to become a citizen",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "Joint Chiefs of Staff": {
+    "explanation": "top US military commanders advising the president",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "Pentagon": {
+    "explanation": "US Defense Department headquarters",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "Controlled Unclassified Information": {
+    "explanation": "sensitive but not secret government data",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "Lewy body dementia": {
+    "explanation": "brain disease affecting memory, movement, thinking",
+    "count": 1,
+    "last_used": "2026-10-30"
+  },
+  "sportsbook": {
+    "explanation": "a betting company",
+    "count": 1,
+    "last_used": "2026-10-30"
   }
 }
