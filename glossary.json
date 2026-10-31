@@ -51,8 +51,8 @@
   },
   "minority government": {
     "explanation": "most seats but no majority on its own",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-10-31"
   },
   "referendum": {
     "explanation": "a public vote on a single question",
@@ -486,8 +486,8 @@
   },
   "retail media": {
     "explanation": "ads shown to shoppers inside the store",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "SASE": {
     "explanation": "networking and security delivered together from the cloud",
@@ -641,8 +641,8 @@
   },
   "interceptor": {
     "explanation": "missile that shoots down incoming missiles",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "Brent crude": {
     "explanation": "the global oil price benchmark",
@@ -716,8 +716,8 @@
   },
   "antitrust": {
     "explanation": "regulators' checks on monopolies",
-    "count": 2,
-    "last_used": "2026-10-22"
+    "count": 3,
+    "last_used": "2026-10-31"
   },
   "DLP": {
     "explanation": "data loss prevention, stopping data from leaking out",
@@ -1061,8 +1061,8 @@
   },
   "quota-carrying rep": {
     "explanation": "salesperson with a revenue target",
-    "count": 1,
-    "last_used": "2026-10-18"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "lob": {
     "explanation": "a long bob haircut",
@@ -1296,8 +1296,8 @@
   },
   "non-human identity": {
     "explanation": "identities of apps and machines, not people",
-    "count": 1,
-    "last_used": "2026-10-20"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "confidential computing": {
     "explanation": "keeping data encrypted while it's processed",
@@ -1416,8 +1416,8 @@
   },
   "backlog": {
     "explanation": "signed orders not yet delivered",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "CFDA": {
     "explanation": "the Council of Fashion Designers of America",
@@ -1561,13 +1561,13 @@
   },
   "anti-Zionist": {
     "explanation": "opposed to Israel as a Jewish state",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "judicial overhaul": {
     "explanation": "government's push to change the courts' powers",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "quant hedge fund": {
     "explanation": "fund that trades using math models",
@@ -1576,8 +1576,8 @@
   },
   "speculative decoding": {
     "explanation": "small model drafts words, big model checks them",
-    "count": 2,
-    "last_used": "2026-10-25"
+    "count": 3,
+    "last_used": "2026-10-31"
   },
   "constant exchange rates": {
     "explanation": "sales growth ignoring currency swings",
@@ -1586,8 +1586,8 @@
   },
   "EP": {
     "explanation": "a short album",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "VIP preview": {
     "explanation": "early fair days for top collectors",
@@ -1631,8 +1631,8 @@
   },
   "stablecoin": {
     "explanation": "crypto token pegged to the dollar",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "production abroad": {
     "explanation": "Israeli-designed goods made and sold overseas",
@@ -1681,8 +1681,8 @@
   },
   "non-REM sleep": {
     "explanation": "deep, restoring stage of sleep",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "epistemic humility": {
     "explanation": "knowing what you don't know",
@@ -1761,8 +1761,8 @@
   },
   "crypto": {
     "explanation": "digital currencies like Bitcoin",
-    "count": 2,
-    "last_used": "2026-10-26"
+    "count": 3,
+    "last_used": "2026-10-31"
   },
   "Bank of Israel": {
     "explanation": "Israel's central bank",
@@ -1816,8 +1816,8 @@
   },
   "haute couture": {
     "explanation": "handmade, made-to-measure top-end fashion",
-    "count": 2,
-    "last_used": "2026-10-30"
+    "count": 3,
+    "last_used": "2026-10-31"
   },
   "comparable sales": {
     "explanation": "same-store sales, excluding new stores and currency",
@@ -1961,8 +1961,8 @@
   },
   "acquisition premium": {
     "explanation": "how far a deal price exceeds the stock price",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "abstract art": {
     "explanation": "art that doesn't show recognizable objects",
@@ -2231,13 +2231,13 @@
   },
   "yeshiva": {
     "explanation": "Jewish religious seminary",
-    "count": 1,
-    "last_used": "2026-10-29"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "J Street": {
     "explanation": "liberal pro-Israel lobby in the US",
-    "count": 1,
-    "last_used": "2026-10-29"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "Gendarmerie": {
     "explanation": "Serbia's special police force",
@@ -2271,8 +2271,8 @@
   },
   "robotaxi": {
     "explanation": "driverless car you hail like an Uber",
-    "count": 1,
-    "last_used": "2026-10-30"
+    "count": 2,
+    "last_used": "2026-10-31"
   },
   "CFTC": {
     "explanation": "federal agency overseeing futures trading",
@@ -2318,5 +2318,60 @@
     "explanation": "a betting company",
     "count": 1,
     "last_used": "2026-10-30"
+  },
+  "junk rating": {
+    "explanation": "credit grade meaning riskier, costlier debt",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "investment grade": {
+    "explanation": "safest category of credit rating",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "defense tech": {
+    "explanation": "technology built for militaries",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "exit (startup)": {
+    "explanation": "a startup being sold or going public",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "hot wallet": {
+    "explanation": "crypto account kept online for quick withdrawals",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "proof of reserves": {
+    "explanation": "public snapshot showing an exchange holds customers' assets",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "limpet mine": {
+    "explanation": "bomb attached to a ship's hull",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "Knesset speaker": {
+    "explanation": "lawmaker who controls what comes to a vote",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "Constitutional Tribunal": {
+    "explanation": "Poland's top court for constitutional questions",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "TraderTraitor": {
+    "explanation": "North Korean hacking unit linked to Lazarus Group",
+    "count": 1,
+    "last_used": "2026-10-31"
+  },
+  "Law and Justice": {
+    "explanation": "Poland's nationalist right-wing party",
+    "count": 1,
+    "last_used": "2026-10-31"
   }
 }
