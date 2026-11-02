@@ -371,8 +371,8 @@
   },
   "open-source": {
     "explanation": "free code anyone can use",
-    "count": 2,
-    "last_used": "2026-10-13"
+    "count": 3,
+    "last_used": "2026-11-02"
   },
   "zero-day": {
     "explanation": "a flaw the maker doesn't know about yet",
@@ -706,8 +706,8 @@
   },
   "open-weight model": {
     "explanation": "AI model anyone can download and run",
-    "count": 2,
-    "last_used": "2026-10-23"
+    "count": 3,
+    "last_used": "2026-11-02"
   },
   "acqui-hire": {
     "explanation": "buying a company mainly to hire its team",
@@ -1116,8 +1116,8 @@
   },
   "OCHA": {
     "explanation": "the UN humanitarian office",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-11-02"
   },
   "UNIFIL": {
     "explanation": "UN peacekeeping force in south Lebanon",
@@ -1141,8 +1141,8 @@
   },
   "BDS": {
     "explanation": "boycott, divestment and sanctions campaign against Israel",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "bootstrapped": {
     "explanation": "built with no outside investors",
@@ -1171,13 +1171,13 @@
   },
   "supply-chain attack": {
     "explanation": "hacking victims through a vendor they trust",
-    "count": 2,
-    "last_used": "2026-10-20"
+    "count": 3,
+    "last_used": "2026-11-02"
   },
   "MFA": {
     "explanation": "the second login code on your phone",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "microsegmentation": {
     "explanation": "walling off parts of a network so breaches can't spread",
@@ -1311,8 +1311,8 @@
   },
   "Billboard 200": {
     "explanation": "main US album chart",
-    "count": 1,
-    "last_used": "2026-10-20"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "album units": {
     "explanation": "measure combining album sales and streams",
@@ -1421,8 +1421,8 @@
   },
   "CFDA": {
     "explanation": "the Council of Fashion Designers of America",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "whey protein": {
     "explanation": "a milk protein powder",
@@ -1701,8 +1701,8 @@
   },
   "NPT": {
     "explanation": "global treaty against spreading nuclear weapons",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "Area C": {
     "explanation": "West Bank zone under full Israeli control",
@@ -1991,8 +1991,8 @@
   },
   "mandate": {
     "explanation": "official permission",
-    "count": 2,
-    "last_used": "2026-11-01"
+    "count": 3,
+    "last_used": "2026-11-02"
   },
   "prospectus": {
     "explanation": "official document a company files before listing",
@@ -2266,8 +2266,8 @@
   },
   "net revenue retention": {
     "explanation": "how much existing customers spend vs. last year",
-    "count": 1,
-    "last_used": "2026-10-30"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "robotaxi": {
     "explanation": "driverless car you hail like an Uber",
@@ -2286,8 +2286,8 @@
   },
   "toss-up": {
     "explanation": "a race too close to call",
-    "count": 2,
-    "last_used": "2026-11-01"
+    "count": 3,
+    "last_used": "2026-11-02"
   },
   "naturalization": {
     "explanation": "legal process for a foreigner to become a citizen",
@@ -2336,8 +2336,8 @@
   },
   "exit (startup)": {
     "explanation": "a startup being sold or going public",
-    "count": 1,
-    "last_used": "2026-10-31"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "hot wallet": {
     "explanation": "crypto account kept online for quick withdrawals",
@@ -2361,8 +2361,8 @@
   },
   "Constitutional Tribunal": {
     "explanation": "Poland's top court for constitutional questions",
-    "count": 1,
-    "last_used": "2026-10-31"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "TraderTraitor": {
     "explanation": "North Korean hacking unit linked to Lazarus Group",
@@ -2371,8 +2371,8 @@
   },
   "Law and Justice": {
     "explanation": "Poland's nationalist right-wing party",
-    "count": 1,
-    "last_used": "2026-10-31"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "supreme leader": {
     "explanation": "Iran's top authority",
@@ -2411,8 +2411,8 @@
   },
   "generic ballot": {
     "explanation": "poll of which party people want for Congress",
-    "count": 1,
-    "last_used": "2026-11-01"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "straw poll": {
     "explanation": "an informal test vote",
@@ -2441,12 +2441,102 @@
   },
   "isometric exercise": {
     "explanation": "holding a position without moving",
-    "count": 1,
-    "last_used": "2026-11-01"
+    "count": 2,
+    "last_used": "2026-11-02"
   },
   "systolic pressure": {
     "explanation": "the top blood-pressure number",
     "count": 1,
     "last_used": "2026-11-01"
+  },
+  "restraining order": {
+    "explanation": "a court order to stop something",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "coup d'état": {
+    "explanation": "an illegal seizure of power",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "swing voters": {
+    "explanation": "voters who could go either way",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "megadonor": {
+    "explanation": "a very big political donor",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "write-in": {
+    "explanation": "writing a name not printed on the ballot",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "non-binding measure": {
+    "explanation": "a vote that sends a message but changes no law",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "agentic": {
+    "explanation": "AI agents acting on their own",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "backdoor": {
+    "explanation": "a hidden way back into a computer",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "SPAC": {
+    "explanation": "a shell company that lists, then merges with a real business",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "GEO": {
+    "explanation": "generative engine optimization: getting mentioned in AI answers",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "AI Overviews": {
+    "explanation": "Google's AI answers at the top of search",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "COO": {
+    "explanation": "chief operating officer, runs day-to-day operations",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "CIO": {
+    "explanation": "chief information officer, in charge of technology",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "deskless workers": {
+    "explanation": "people who don't work at a computer",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "presale": {
+    "explanation": "the early ticket-buying window",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "house ambassador": {
+    "explanation": "a celebrity face that represents a brand",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "consignment": {
+    "explanation": "art handed to an auction house to sell",
+    "count": 1,
+    "last_used": "2026-11-02"
+  },
+  "systolic": {
+    "explanation": "the top blood pressure number",
+    "count": 1,
+    "last_used": "2026-11-02"
   }
 }
