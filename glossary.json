@@ -11,8 +11,8 @@
   },
   "Knesset": {
     "explanation": "Israel's parliament",
-    "count": 7,
-    "last_used": "2026-11-01"
+    "count": 8,
+    "last_used": "2026-11-03"
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
@@ -51,8 +51,8 @@
   },
   "minority government": {
     "explanation": "most seats but no majority on its own",
-    "count": 4,
-    "last_used": "2026-11-01"
+    "count": 5,
+    "last_used": "2026-11-03"
   },
   "referendum": {
     "explanation": "a public vote on a single question",
@@ -66,8 +66,8 @@
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
-    "count": 6,
-    "last_used": "2026-10-30"
+    "count": 7,
+    "last_used": "2026-11-03"
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
@@ -76,8 +76,8 @@
   },
   "Series C": {
     "explanation": "a company's third big funding round",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "GTM": {
     "explanation": "go-to-market, how companies sell and market",
@@ -111,8 +111,8 @@
   },
   "coalition": {
     "explanation": "group of parties that together form a government",
-    "count": 6,
-    "last_used": "2026-11-01"
+    "count": 7,
+    "last_used": "2026-11-03"
   },
   "Visa Waiver Program": {
     "explanation": "lets Israelis visit the US without a visa",
@@ -126,18 +126,18 @@
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
-    "count": 6,
-    "last_used": "2026-11-01"
+    "count": 7,
+    "last_used": "2026-11-03"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
-    "count": 7,
-    "last_used": "2026-11-01"
+    "count": 8,
+    "last_used": "2026-11-03"
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
-    "count": 4,
-    "last_used": "2026-10-29"
+    "count": 5,
+    "last_used": "2026-11-03"
   },
   "mega-round": {
     "explanation": "a funding round of 100 million dollars or more",
@@ -191,8 +191,8 @@
   },
   "attorney general": {
     "explanation": "the government's top legal officer",
-    "count": 3,
-    "last_used": "2026-10-12"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "state commission of inquiry": {
     "explanation": "independent investigation led by a judge",
@@ -236,8 +236,8 @@
   },
   "Series B": {
     "explanation": "a startup's second big funding round",
-    "count": 3,
-    "last_used": "2026-10-15"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "runtime security": {
     "explanation": "protecting software while it's actually running",
@@ -306,8 +306,8 @@
   },
   "sanctions": {
     "explanation": "financial penalties that cut off money and business",
-    "count": 4,
-    "last_used": "2026-11-01"
+    "count": 5,
+    "last_used": "2026-11-03"
   },
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
@@ -426,8 +426,8 @@
   },
   "naval blockade": {
     "explanation": "warships stopping ships going in or out of a country",
-    "count": 5,
-    "last_used": "2026-11-01"
+    "count": 6,
+    "last_used": "2026-11-03"
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
@@ -486,8 +486,8 @@
   },
   "retail media": {
     "explanation": "ads shown to shoppers inside the store",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "SASE": {
     "explanation": "networking and security delivered together from the cloud",
@@ -536,8 +536,8 @@
   },
   "Palestinian Authority": {
     "explanation": "governs parts of the West Bank",
-    "count": 3,
-    "last_used": "2026-10-24"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "PLO": {
     "explanation": "umbrella Palestinian leadership body",
@@ -726,8 +726,8 @@
   },
   "seed round": {
     "explanation": "a startup's very first funding",
-    "count": 4,
-    "last_used": "2026-10-28"
+    "count": 5,
+    "last_used": "2026-11-03"
   },
   "zero trust": {
     "explanation": "nobody gets more network access than needed",
@@ -736,8 +736,8 @@
   },
   "all-stock deal": {
     "explanation": "buyer pays in its own shares",
-    "count": 3,
-    "last_used": "2026-10-23"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "earnout": {
     "explanation": "part of a price paid later if results are hit",
@@ -766,8 +766,8 @@
   },
   "private equity": {
     "explanation": "investment firm that buys stakes in private companies",
-    "count": 4,
-    "last_used": "2026-10-30"
+    "count": 5,
+    "last_used": "2026-11-03"
   },
   "organic growth": {
     "explanation": "growth without currency swings or acquisitions",
@@ -811,8 +811,8 @@
   },
   "sanctuary state": {
     "explanation": "state limiting cooperation with federal immigration enforcement",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "fracking": {
     "explanation": "drilling method for natural gas",
@@ -926,8 +926,8 @@
   },
   "buffer zone": {
     "explanation": "strip of land Israel holds past the border",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "free trade agreement": {
     "explanation": "deal removing taxes on goods between countries",
@@ -1126,8 +1126,8 @@
   },
   "early voting": {
     "explanation": "in-person voting before Election Day",
-    "count": 5,
-    "last_used": "2026-11-01"
+    "count": 6,
+    "last_used": "2026-11-03"
   },
   "turnover": {
     "explanation": "giving the ball to the other team",
@@ -1141,8 +1141,8 @@
   },
   "BDS": {
     "explanation": "boycott, divestment and sanctions campaign against Israel",
-    "count": 2,
-    "last_used": "2026-11-02"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "bootstrapped": {
     "explanation": "built with no outside investors",
@@ -1171,8 +1171,8 @@
   },
   "supply-chain attack": {
     "explanation": "hacking victims through a vendor they trust",
-    "count": 3,
-    "last_used": "2026-11-02"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "MFA": {
     "explanation": "the second login code on your phone",
@@ -1356,8 +1356,8 @@
   },
   "Shomrim": {
     "explanation": "Jewish volunteer neighborhood patrol",
-    "count": 2,
-    "last_used": "2026-10-26"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "Ustasha": {
     "explanation": "Croatia's pro-Nazi regime in World War Two",
@@ -1421,8 +1421,8 @@
   },
   "CFDA": {
     "explanation": "the Council of Fashion Designers of America",
-    "count": 2,
-    "last_used": "2026-11-02"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "whey protein": {
     "explanation": "a milk protein powder",
@@ -1516,8 +1516,8 @@
   },
   "FCC": {
     "explanation": "the US communications regulator",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "minimalism (music)": {
     "explanation": "repetitive, pulsing style of music",
@@ -1551,13 +1551,13 @@
   },
   "City Charter": {
     "explanation": "New York City's constitution",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "rainy day fund": {
     "explanation": "city's emergency savings account",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "anti-Zionist": {
     "explanation": "opposed to Israel as a Jewish state",
@@ -1721,13 +1721,13 @@
   },
   "margin of error": {
     "explanation": "range in which a poll could be wrong",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "prediction markets": {
     "explanation": "sites where people bet money on outcomes",
-    "count": 2,
-    "last_used": "2026-10-30"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "manslaughter": {
     "explanation": "a killing without proof of a plan to kill",
@@ -1791,8 +1791,8 @@
   },
   "connected TV": {
     "explanation": "ads on streaming TV apps",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "programmatic": {
     "explanation": "ads bought automatically by software",
@@ -1826,8 +1826,8 @@
   },
   "CEO": {
     "explanation": "chief executive officer",
-    "count": 7,
-    "last_used": "2026-11-01"
+    "count": 8,
+    "last_used": "2026-11-03"
   },
   "provenance": {
     "explanation": "ownership history of an artwork",
@@ -1881,8 +1881,8 @@
   },
   "hate crime": {
     "explanation": "crime motivated by bias against a group",
-    "count": 2,
-    "last_used": "2026-10-27"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "Muslim Brotherhood": {
     "explanation": "Islamist political movement founded in Egypt",
@@ -1961,8 +1961,8 @@
   },
   "acquisition premium": {
     "explanation": "how far a deal price exceeds the stock price",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "abstract art": {
     "explanation": "art that doesn't show recognizable objects",
@@ -1991,8 +1991,8 @@
   },
   "mandate": {
     "explanation": "official permission",
-    "count": 3,
-    "last_used": "2026-11-02"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "prospectus": {
     "explanation": "official document a company files before listing",
@@ -2001,13 +2001,13 @@
   },
   "Nasdaq": {
     "explanation": "tech-heavy US stock exchange",
-    "count": 2,
-    "last_used": "2026-11-01"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "ticker": {
     "explanation": "a stock's short trading symbol",
-    "count": 1,
-    "last_used": "2026-10-27"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "operating profit": {
     "explanation": "profit from the actual business before one-time items",
@@ -2071,8 +2071,8 @@
   },
   "CTO": {
     "explanation": "chief technology officer",
-    "count": 1,
-    "last_used": "2026-10-27"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "quantum computing": {
     "explanation": "computing using particle physics to solve some problems faster",
@@ -2091,13 +2091,13 @@
   },
   "Joint List": {
     "explanation": "alliance of Arab-led parties in Israel",
-    "count": 3,
-    "last_used": "2026-10-30"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "Ra'am": {
     "explanation": "Islamist Arab party led by Mansour Abbas",
-    "count": 3,
-    "last_used": "2026-10-30"
+    "count": 4,
+    "last_used": "2026-11-03"
   },
   "double-envelope ballots": {
     "explanation": "votes cast away from your home polling station",
@@ -2161,8 +2161,8 @@
   },
   "ad-tech": {
     "explanation": "software that buys and places online ads",
-    "count": 1,
-    "last_used": "2026-10-28"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "real-time bidding": {
     "explanation": "instant auction deciding which ad you see",
@@ -2246,8 +2246,8 @@
   },
   "rotation": {
     "explanation": "two leaders take turns as prime minister",
-    "count": 1,
-    "last_used": "2026-10-30"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "Espionage Act": {
     "explanation": "US law against leaking national defense secrets",
@@ -2356,8 +2356,8 @@
   },
   "Knesset speaker": {
     "explanation": "lawmaker who controls what comes to a vote",
-    "count": 1,
-    "last_used": "2026-10-31"
+    "count": 2,
+    "last_used": "2026-11-03"
   },
   "Constitutional Tribunal": {
     "explanation": "Poland's top court for constitutional questions",
@@ -2411,8 +2411,8 @@
   },
   "generic ballot": {
     "explanation": "poll of which party people want for Congress",
-    "count": 2,
-    "last_used": "2026-11-02"
+    "count": 3,
+    "last_used": "2026-11-03"
   },
   "straw poll": {
     "explanation": "an informal test vote",
@@ -2538,5 +2538,75 @@
     "explanation": "the top blood pressure number",
     "count": 1,
     "last_used": "2026-11-02"
+  },
+  "coalition whip": {
+    "explanation": "lawmaker who keeps the government's votes in line",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "UKMTO": {
+    "explanation": "British agency that tracks threats to ships",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "SNAP": {
+    "explanation": "US food stamp program",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "brand safety": {
+    "explanation": "keeping ads away from hateful or harmful content",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "roadshow": {
+    "explanation": "pitch meetings with investors before an IPO",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "reverse merger": {
+    "explanation": "private company merges into a listed one to go public",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "go-shop": {
+    "explanation": "window for a seller to seek a better offer",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "8-K": {
+    "explanation": "SEC filing companies make after major events",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "infostealer": {
+    "explanation": "malware that steals passwords and personal data",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "botnet": {
+    "explanation": "network of hijacked devices controlled by criminals",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "lead scoring": {
+    "explanation": "ranking which prospects are worth chasing",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "ground station": {
+    "explanation": "antenna on Earth that talks to satellites",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "DWI": {
+    "explanation": "driving while intoxicated",
+    "count": 1,
+    "last_used": "2026-11-03"
+  },
+  "MMA": {
+    "explanation": "mixed martial arts",
+    "count": 1,
+    "last_used": "2026-11-03"
   }
 }
