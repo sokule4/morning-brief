@@ -11,7 +11,7 @@ Co-founding an art agency. Loves celebs, fashion, culture. Still learning
 politics and world-news vocabulary.
 
 ## Format
-- Length: 4,200–4,600 words of spoken script (about 30 minutes).
+- Length: 5,600–6,000 words of spoken script (about 40 minutes).
 - Single host, "smart briefing" tone: clear, warm, fast. What happened and why it
   matters to her. Light personality, no fake banter, no filler.
 - Written for the ear: short sentences, no bullet lists, no URLs, no tables, no
@@ -47,7 +47,10 @@ Prefer fewer stories told properly over many stories in one line each.
 3. New York (3): what's happening back home
 4. Jewish world (3): community, culture, news affecting Jews worldwide
 5. Tech, startups & AI (5): funding, launches, new tools; Israeli tech focus
-6. Cybersecurity & GTM (4): industry moves, who's hiring/raising, marketing & growth trends
+   (cybersecurity funding and hires go in segment 6, not here)
+6. Cyber deals & hires watch (14): Sophie's daily cyber watch, in four parts (see
+   "Cyber deals & hires watch" below): funding & acquisitions, people moves,
+   marketing & growth trends, and "worth a look for you"
 7. Business story (3): one interesting company or founder story, told as a story
 8. Celebs, culture & fashion (4)
 9. Art & design (2): art market, galleries, auctions, interiors
@@ -55,6 +58,27 @@ Prefer fewer stories told properly over many stories in one line each.
 11. Sign-off (15 sec)
 
 Use a spoken transition between segments ("Next, back home in New York...").
+
+## Cyber deals & hires watch (segment 6)
+The longest segment and the one Sophie relies on most for her job search. Focus on
+the last ~48 hours (since the previous episode); older items only if they haven't
+been covered in the last 7 episodes. Israeli and Israel-founded companies first.
+1. Funding & acquisitions (~5 min): cybersecurity rounds from pre-seed to late
+   stage, companies coming out of stealth with funding, and acquisitions. For each:
+   what the company does in plain words, round and amount, lead investor, and
+   whether that's big for its stage. Merge the same round reported by several
+   outlets into one story.
+2. People moves (~4 min): new CEOs, CMOs, CROs, VPs/Heads of Marketing, GTM, Sales
+   and Partnerships at cyber companies; big hiring pushes (a new Israel office,
+   "doubling the Tel Aviv team") and notable layoffs. Marketing and GTM leadership
+   moves matter most. Say where the person came from when it's reported.
+3. Marketing & growth trends (~3 min): how cyber companies are marketing and
+   selling: campaigns, events, positioning shifts, AI in GTM.
+4. Worth a look for you (~2 min): 1–3 items from today that could mean a GTM or
+   marketing role for Sophie (e.g. a Seed–Series B Israeli company that just raised,
+   or a new CMO likely to build a team), and why in a sentence or two.
+Skip product launches, vulnerability/breach news and opinion pieces here. On a slow
+day, shorten this segment and give the time to others; never pad.
 
 ## Glossary rule (buzz words)
 `glossary.json` tracks jargon Sophie is learning, from ANY field: politics, world
@@ -83,7 +107,7 @@ aloud (they just add a short pause), so the spoken transition must be in the tex
 
 ## WhatsApp recap
 Also write `episodes/YYYY-MM-DD.recap.txt`: a short text recap sent to Sophie on
-WhatsApp. 6-10 lines, one per story, each starting with an emoji and a few words
+WhatsApp. 8-12 lines, one per story (include 2-3 lines from the cyber watch), each starting with an emoji and a few words
 (max ~15 words per line), grouped in rundown order. Plain text, no links, no
 markdown except *bold* for 1-2 key words. Example line:
 🗳️ Israel election: Likud and Bennett's Together tied at 24 seats in new poll
@@ -108,7 +132,9 @@ markdown except *bold* for 1-2 key words. Example line:
 ## Research tips
 - Sources that have worked well: timesofisrael.com (home page), ynetnews.com,
   jta.org, aljazeera.com/news, justsecurity.org "Early Edition" daily digest,
-  amny.com/news, calcalistech.com/ctechnews, techcrunch.com, securityweek.com,
+  amny.com/news, calcalistech.com/ctechnews, techcrunch.com, securityweek.com (incl. its funding
+  and "people on the move" roundups), globes.co.il/en, geektime.com, siliconangle.com,
+  PR Newswire / Business Wire press releases,
   goodmorningamerica.com/culture, news.artnet.com, theartnewspaper.com.
 - Don't mention where Sophie is or any travel; she's based in Israel and also
   follows New York closely.
