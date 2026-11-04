@@ -35,51 +35,59 @@ jobs:
           sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
           pip install -q edge-tts mutagen piper-tts
 
-      - name: Find new episode
+      - name: Find new episodes
         id: find
         run: |
-          if [ -n "${{ github.event.inputs.date }}" ]; then
-            f="episodes/${{ github.event.inputs.date }}.md"
-          else
-            # newest episode script that isn't in the feed yet
-            f=$(python3 -c "
+          # Every script in episodes/ that isn't in the feed yet (normally today's
+          # Morning Brief YYYY-MM-DD.md and Cyber Brief YYYY-MM-DD-cyber.md).
+          # With a date input, rebuild that day's episodes instead.
+          files=$(DATE_IN="${{ github.event.inputs.date }}" python3 -c "
           import json,glob,os
-          done={e['date'] for e in json.load(open('docs/episodes.json'))}
-          todo=sorted(p for p in glob.glob('episodes/*.md') if os.path.basename(p)[:-3] not in done)
-          print(todo[-1] if todo else '')
+          d=os.environ.get('DATE_IN','').strip()
+          if d:
+              todo=[p for p in (f'episodes/{d}.md', f'episodes/{d}-cyber.md') if os.path.exists(p)]
+          else:
+              done={e['date'] for e in json.load(open('docs/episodes.json'))}
+              todo=sorted(p for p in glob.glob('episodes/*.md') if os.path.basename(p)[:-3] not in done)
+              newest=max((os.path.basename(p)[:10] for p in todo), default='')
+              todo=[p for p in todo if os.path.basename(p).startswith(newest)]
+          print(' '.join(todo))
           ")
-          fi
-          echo "Building: '$f'"
-          echo "file=$f" >> "$GITHUB_OUTPUT"
-          echo "date=$(basename "$f" .md)" >> "$GITHUB_OUTPUT"
+          ids=$(for f in $files; do basename "$f" .md; done | tr '\n' ' ')
+          days=$(for f in $files; do basename "$f" | cut -c1-10; done | sort -u | tr '\n' ' ')
+          echo "Building: '$files'"
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          echo "ids=$ids" >> "$GITHUB_OUTPUT"
+          echo "days=$days" >> "$GITHUB_OUTPUT"
 
       - name: Make audio and feed
-        if: steps.find.outputs.file != ''
+        if: steps.find.outputs.files != ''
         env:
           TTS_VOICE: ${{ vars.TTS_VOICE }}
         run: |
           set -o pipefail
-          python scripts/build.py "${{ steps.find.outputs.file }}" 2>&1 | tee build.log
+          python scripts/build.py ${{ steps.find.outputs.files }} 2>&1 | tee build.log
 
-      - name: Store MP3 as a release
-        if: steps.find.outputs.file != ''
+      - name: Store MP3s as releases
+        if: steps.find.outputs.files != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          d="${{ steps.find.outputs.date }}"
-          gh release delete "ep-$d" --yes --cleanup-tag 2>/dev/null || true
-          gh release create "ep-$d" "out/$d.mp3" --title "Morning Brief $d" --notes "Daily episode"
+          for d in ${{ steps.find.outputs.ids }}; do
+            gh release delete "ep-$d" --yes --cleanup-tag 2>/dev/null || true
+            gh release create "ep-$d" "out/$d.mp3" --title "Morning Brief $d" --notes "Daily episode"
+          done
           for old in $(cat out/dropped.txt); do
             gh release delete "ep-$old" --yes --cleanup-tag 2>/dev/null || true
           done
 
       - name: Save feed
-        if: steps.find.outputs.file != ''
+        if: steps.find.outputs.files != ''
         run: |
           git config user.name "morning-brief-bot"
           git config user.email "actions@users.noreply.github.com"
           git add docs
-          git commit -m "Publish ${{ steps.find.outputs.date }}" || exit 0
+          git commit -m "Publish ${{ steps.find.outputs.ids }}" || exit 0
           git pull --rebase
           git push
 
@@ -103,12 +111,13 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Send WhatsApp recap
-        if: steps.find.outputs.file != ''
+        if: steps.find.outputs.files != ''
         continue-on-error: true
         env:
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
-        run: python scripts/whatsapp.py "${{ steps.find.outputs.date }}"
+        run: |
+          for d in ${{ steps.find.outputs.days }}; do python scripts/whatsapp.py "$d"; done
 
       - name: Save error log
         if: failure()

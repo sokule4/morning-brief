@@ -1,6 +1,8 @@
 """Turn an episode script into an MP3 and refresh the podcast feed (served via GitHub Pages).
 
-Usage: python scripts/build.py episodes/2026-10-07.md
+Usage: python scripts/build.py episodes/2026-10-07.md [episodes/2026-10-07-cyber.md ...]
+Each file is one feed item. Its id is the file name without .md ("2026-10-07" for the
+Morning Brief, "2026-10-07-cyber" for the Cyber Brief); the first 10 characters are the day.
 Env:   GITHUB_REPOSITORY (owner/repo), TTS_VOICE (optional)
 """
 import asyncio, json, os, re, sys, datetime, html, time
@@ -12,9 +14,9 @@ DOCS = ROOT / "docs"
 OUT = ROOT / "out"
 VOICE = os.environ.get("TTS_VOICE") or "en-US-AvaMultilingualNeural"
 RATE = os.environ.get("TTS_RATE") or "+0%"
-KEEP = 30  # episodes kept in the feed
+KEEP = 60  # feed items kept (two a day: Morning Brief + Cyber Brief)
 SHOW_TITLE = "Sophie's Morning Brief"
-SHOW_DESC = "A daily 40-minute news briefing made just for Sophie."
+SHOW_DESC = "A daily news briefing made just for Sophie: the Morning Brief (~20 min) and the Cyber Brief (~10 min)."
 
 
 def parse(md_path):
@@ -129,11 +131,21 @@ def duration(mp3_path):
     return int(MP3(str(mp3_path)).info.length)
 
 
+def is_cyber(ep_id):
+    return ep_id.endswith("-cyber")
+
+
+def day_of(ep_id):
+    return ep_id[:10]
+
+
 def dated_title(ep):
-    """Prefix the title with a short date, e.g. "10.12.26 · Title"."""
-    short = datetime.date.fromisoformat(ep["date"]).strftime("%m.%d.%y")
+    """Prefix the title with a short date, e.g. "10.12.26 · Title" or "10.12.26 · Cyber · Title"."""
+    short = datetime.date.fromisoformat(day_of(ep["date"])).strftime("%m.%d.%y")
     title = ep["title"]
-    return title if title.startswith(short) else f"{short} · {title}"
+    if title.startswith(short):
+        return title
+    return f"{short} · Cyber · {title}" if is_cyber(ep["date"]) else f"{short} · {title}"
 
 
 def write_feed(episodes, repo):
@@ -141,8 +153,9 @@ def write_feed(episodes, repo):
     site = f"https://{owner.lower()}.github.io/{name}/"
     items = []
     for ep in episodes:
-        d = datetime.datetime.fromisoformat(ep["date"]).replace(
-            hour=5, tzinfo=datetime.timezone.utc)
+        # Cyber Brief at 05:00 UTC, Morning Brief at 05:01, so the Morning Brief lists first
+        d = datetime.datetime.fromisoformat(day_of(ep["date"])).replace(
+            hour=5, minute=0 if is_cyber(ep["date"]) else 1, tzinfo=datetime.timezone.utc)
         items.append(f"""    <item>
       <title>{html.escape(dated_title(ep))}</title>
       <description>{html.escape(ep['summary'])}</description>
@@ -170,32 +183,45 @@ def write_feed(episodes, repo):
     (DOCS / "feed.xml").write_text(feed, encoding="utf-8")
 
 
-def main(md_path, audio=True):
-    repo = os.environ.get("GITHUB_REPOSITORY", "owner/morning-brief")
-    date = Path(md_path).stem
+def build_one(md_path, episodes, repo, audio=True):
+    ep_id = Path(md_path).stem
     meta, chunks = parse(md_path)
     OUT.mkdir(exist_ok=True)
-    mp3 = OUT / f"{date}.mp3"
+    mp3 = OUT / f"{ep_id}.mp3"
     if audio:
         make_audio(chunks, mp3)
-    episodes = json.loads((DOCS / "episodes.json").read_text())
-    episodes = [e for e in episodes if e["date"] != date]
+    default_title = f"Cyber Brief {day_of(ep_id)}" if is_cyber(ep_id) else f"Morning Brief {ep_id}"
+    episodes = [e for e in episodes if e["date"] != ep_id]
     episodes.append({
-        "date": date,
-        "title": meta.get("title", f"Morning Brief {date}"),
+        "date": ep_id,
+        "title": meta.get("title", default_title),
         "summary": meta.get("summary", ""),
-        "url": f"https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/audio/{date}.mp3",
+        "url": f"https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/audio/{ep_id}.mp3",
         "bytes": mp3.stat().st_size,
         "seconds": duration(mp3),
     })
-    episodes.sort(key=lambda e: e["date"], reverse=True)
+    print(f"Built {mp3} ({episodes[-1]['seconds'] // 60} min)")
+    return episodes
+
+
+def sort_key(e):
+    # newest day first; within a day the Morning Brief before the Cyber Brief
+    return (day_of(e["date"]), 0 if is_cyber(e["date"]) else 1)
+
+
+def main(md_paths, audio=True):
+    repo = os.environ.get("GITHUB_REPOSITORY", "owner/morning-brief")
+    episodes = json.loads((DOCS / "episodes.json").read_text())
+    for md_path in md_paths:
+        episodes = build_one(md_path, episodes, repo, audio)
+    episodes.sort(key=sort_key, reverse=True)
     dropped = episodes[KEEP:]
     episodes = episodes[:KEEP]
     (DOCS / "episodes.json").write_text(json.dumps(episodes, indent=2))
     (OUT / "dropped.txt").write_text("\n".join(e["date"] for e in dropped))
     write_feed(episodes, repo)
-    print(f"Built {mp3} ({episodes[0]['seconds'] // 60} min)")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], audio="--no-audio" not in sys.argv)
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    main(args, audio="--no-audio" not in sys.argv)
