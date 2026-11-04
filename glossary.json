@@ -151,8 +151,8 @@
   },
   "firewall": {
     "explanation": "device that guards a company's network",
-    "count": 1,
-    "last_used": "2026-10-08"
+    "count": 2,
+    "last_used": "2026-11-04"
   },
   "ransomware": {
     "explanation": "hackers lock your files and demand payment",
@@ -831,8 +831,8 @@
   },
   "AIPAC": {
     "explanation": "main pro-Israel lobbying group in Washington",
-    "count": 4,
-    "last_used": "2026-10-29"
+    "count": 5,
+    "last_used": "2026-11-04"
   },
   "Europa League": {
     "explanation": "major European club soccer competition",
@@ -1556,8 +1556,8 @@
   },
   "rainy day fund": {
     "explanation": "city's emergency savings account",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-04"
   },
   "anti-Zionist": {
     "explanation": "opposed to Israel as a Jewish state",
@@ -1641,8 +1641,8 @@
   },
   "memorandum of understanding": {
     "explanation": "early non-binding agreement",
-    "count": 2,
-    "last_used": "2026-10-28"
+    "count": 3,
+    "last_used": "2026-11-04"
   },
   "direct-to-consumer": {
     "explanation": "selling straight to buyers, not through stores",
@@ -1726,8 +1726,8 @@
   },
   "prediction markets": {
     "explanation": "sites where people bet money on outcomes",
-    "count": 3,
-    "last_used": "2026-11-03"
+    "count": 4,
+    "last_used": "2026-11-04"
   },
   "manslaughter": {
     "explanation": "a killing without proof of a plan to kill",
@@ -1896,8 +1896,8 @@
   },
   "S-1": {
     "explanation": "company's detailed financial disclosure before an IPO",
-    "count": 3,
-    "last_used": "2026-10-28"
+    "count": 4,
+    "last_used": "2026-11-04"
   },
   "net loss": {
     "explanation": "total losses after all costs",
@@ -2081,8 +2081,8 @@
   },
   "guaranteed (auction)": {
     "explanation": "a buyer has already promised a set minimum",
-    "count": 2,
-    "last_used": "2026-11-01"
+    "count": 3,
+    "last_used": "2026-11-04"
   },
   "units (Billboard)": {
     "explanation": "sales and streams combined",
@@ -2266,8 +2266,8 @@
   },
   "net revenue retention": {
     "explanation": "how much existing customers spend vs. last year",
-    "count": 2,
-    "last_used": "2026-11-02"
+    "count": 3,
+    "last_used": "2026-11-04"
   },
   "robotaxi": {
     "explanation": "driverless car you hail like an Uber",
@@ -2276,8 +2276,8 @@
   },
   "CFTC": {
     "explanation": "federal agency overseeing futures trading",
-    "count": 1,
-    "last_used": "2026-10-30"
+    "count": 2,
+    "last_used": "2026-11-04"
   },
   "felony": {
     "explanation": "the most serious class of crime",
@@ -2451,8 +2451,8 @@
   },
   "restraining order": {
     "explanation": "a court order to stop something",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-04"
   },
   "coup d'état": {
     "explanation": "an illegal seizure of power",
@@ -2608,5 +2608,130 @@
     "explanation": "mixed martial arts",
     "count": 1,
     "last_used": "2026-11-03"
+  },
+  "foreign military financing": {
+    "explanation": "US aid money that must be spent on American weapons",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "flip (election)": {
+    "explanation": "a seat moving from one party to the other",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "incumbent": {
+    "explanation": "the person already holding the seat",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "charter amendment": {
+    "explanation": "a change to the city's constitution",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "consultations (presidential)": {
+    "explanation": "meetings where parties recommend a PM to the president",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "under caution": {
+    "explanation": "questioned as a suspect",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "House of Representatives": {
+    "explanation": "the lower chamber of Congress",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "recursive self-improvement (RSI)": {
+    "explanation": "AI helping to build better AI",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "Responsible Scaling Policy": {
+    "explanation": "Anthropic's own AI safety rulebook",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "AI observability": {
+    "explanation": "recording and explaining what an AI agent did and why",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "prompt injection": {
+    "explanation": "hidden instructions that trick an AI into misbehaving",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "AI kill switch": {
+    "explanation": "a tool to shut down a rogue AI agent",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "secrets management": {
+    "explanation": "safely storing the passwords and keys software uses",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "Fortune Cyber 60": {
+    "explanation": "Fortune's annual ranking of promising venture-backed cyber companies",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "endpoint": {
+    "explanation": "employees' laptops and devices",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "CTEM": {
+    "explanation": "continuous threat exposure management, ongoing checks for weak spots",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "downgrade (stock)": {
+    "explanation": "an analyst cutting their rating on a stock",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "chief growth officer": {
+    "explanation": "executive owning marketing and other growth levers",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "CFO": {
+    "explanation": "chief financial officer, in charge of money, planning and investors",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "chief customer officer": {
+    "explanation": "executive running everything after the sale",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "channel partners": {
+    "explanation": "resellers and integrators who sell a vendor's products",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "partner marketing": {
+    "explanation": "training, incentives and campaigns for resellers",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "demand generation": {
+    "explanation": "marketers who fill the sales pipeline",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "method dressing": {
+    "explanation": "outfits that reference a character or story",
+    "count": 1,
+    "last_used": "2026-11-04"
+  },
+  "Horizon Europe": {
+    "explanation": "the EU's huge research funding program",
+    "count": 1,
+    "last_used": "2026-11-04"
   }
 }
