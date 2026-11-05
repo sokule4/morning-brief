@@ -3,16 +3,34 @@
   <channel>
     <title>Sophie's Morning Brief</title>
     <link>https://sokule4.github.io/morning-brief/</link>
-    <description>A daily 40-minute news briefing made just for Sophie.</description>
+    <description>A daily news briefing made just for Sophie: the Morning Brief (~20 min) and the Cyber Brief (~10 min).</description>
     <language>en-us</language>
     <itunes:author>Claude</itunes:author>
     <itunes:image href="https://sokule4.github.io/morning-brief/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>11.05.26 · Herzog&#x27;s final round, a Senate flip, Trump&#x27;s &quot;heavy hit</title>
+      <description>Herzog finishes coalition consultations today with Eisenkot climbing toward 61 as the Arab parties back him; Democrats win the Senate and JD Vance blames the Iran war and Israel; Trump talks of a &quot;heavy hit&quot; on Iran as Qatar pushes a three-day peace plan.</description>
+      <pubDate>Thu, 05 Nov 2026 05:01:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05</guid>
+      <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-05.mp3" length="7122909" type="audio/mpeg"/>
+      <itunes:duration>1187</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>11.05.26 · Cyber · Sentra&#x27;s $150M bet on AI agents, Brava&#x27;s seed, Axonius hires</title>
+      <description>Israel&#x27;s Sentra raises a 150 million dollar Series C led by Capital One to control what AI agents can reach; Unit 8200 and Microsoft veterans raise 15 million for Brava; Axonius names a new chief revenue officer and CTO.</description>
+      <pubDate>Thu, 05 Nov 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05-cyber</guid>
+      <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-05-cyber.mp3" length="3545805" type="audio/mpeg"/>
+      <itunes:duration>590</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11.04.26 · A blue night, an aid shock, Herzog starts talking</title>
       <description>Democrats win the House and flip Senate seats in Texas, North Carolina and South Carolina as the Senate stays too close to call; Trump says US military aid to Israel ends this year; Herzog opens coalition consultations today with Eisenkot expected to lead.</description>
-      <pubDate>Wed, 04 Nov 2026 05:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-11-04</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-04.mp3" length="13274877" type="audio/mpeg"/>
       <itunes:duration>2212</itunes:duration>
@@ -21,7 +39,7 @@
     <item>
       <title>11.03.26 · Liberman backs Eisenkot, a strike on Qeshm, America votes</title>
       <description>Avigdor Liberman will recommend Gadi Eisenkot for prime minister but rules out an Arab-backed minority government; the US quietly struck Iran&#x27;s Qeshm Island as Tehran offers a faster two-day peace plan; Americans vote today in midterms where Democrats lead the final polls.</description>
-      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-11-03</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-03.mp3" length="10338573" type="audio/mpeg"/>
       <itunes:duration>1723</itunes:duration>
@@ -30,7 +48,7 @@
     <item>
       <title>11.02.26 · Bennett picks Eisenkot, a tense call, America votes</title>
       <description>Naftali Bennett will recommend Gadi Eisenkot for prime minister as Herzog urges &quot;ladders&quot; before Wednesday&#x27;s talks; Trump and Netanyahu reportedly clash over when to strike Iran; Americans vote tomorrow in the midterms with Democrats leading the polls.</description>
-      <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-11-02</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-02.mp3" length="10607565" type="audio/mpeg"/>
       <itunes:duration>1767</itunes:duration>
@@ -39,7 +57,7 @@
     <item>
       <title>11.01.26 · Pickaxe Mountain, a Jewish-Arab rally, Reddit loses Google</title>
       <description>Trump says the US still has to &quot;take care of&quot; Iran&#x27;s Pickaxe Mountain as Gulf allies are warned strikes could start November fourth; thousands rally for a Jewish-Arab government as Eisenkot lays out his agenda before Wednesday&#x27;s coalition talks; Reddit loses over a million Google visits a week to AI search.</description>
-      <pubDate>Sun, 01 Nov 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-11-01</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-01.mp3" length="10518717" type="audio/mpeg"/>
       <itunes:duration>1753</itunes:duration>
@@ -48,7 +66,7 @@
     <item>
       <title>10.31.26 · Kingmakers in black hats, a $6.3B heist, DoorDash&#x27;s big buy</title>
       <description>Israel&#x27;s coalition maze gets stranger as an ultra-Orthodox faction reportedly weighs talking to the opposition and Yair Golan rejects a unity government; North Korean hackers are blamed for stealing 6.3 billion dollars from Binance in the biggest crypto heist ever; DoorDash agrees to buy Instacart for 17 billion dollars.</description>
-      <pubDate>Sat, 31 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-31</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-31.mp3" length="10185357" type="audio/mpeg"/>
       <itunes:duration>1697</itunes:duration>
@@ -57,7 +75,7 @@
     <item>
       <title>10.30.26 · The final count, a foreign-money probe, Kalshi&#x27;s $40B day</title>
       <description>Israel finishes counting with Likud at 27 seats and the deadlock unchanged as the elections chief asks the Shin Bet to probe suspected foreign funding; Iran says four tankers hit mines in Hormuz as the US tells allies to prepare for strikes after the midterms; Kalshi hits a 40 billion dollar valuation the same week Utah files criminal charges.</description>
-      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-30</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-30.mp3" length="10600077" type="audio/mpeg"/>
       <itunes:duration>1766</itunes:duration>
@@ -66,7 +84,7 @@
     <item>
       <title>10.29.26 · The soldiers&#x27; vote, a &quot;stolen&quot; claim, Bolsonaro in Miami</title>
       <description>Israel counts the last half million soldiers&#x27; and absentee ballots with Netanyahu&#x27;s bloc stuck at 53 seats as Likud claims Arab parties &quot;stole&quot; the election; Trump says a strike on Iran after the midterms is &quot;possible&quot; as Tehran weighs a Qatari peace draft; Brazil&#x27;s defeated Flávio Bolsonaro flees to Miami.</description>
-      <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-29</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-29.mp3" length="10528653" type="audio/mpeg"/>
       <itunes:duration>1754</itunes:duration>
@@ -75,7 +93,7 @@
     <item>
       <title>10.28.26 · Likud comes first, nobody wins, Jay-Z gets the Super Bowl</title>
       <description>Likud finishes as Israel&#x27;s largest party but neither bloc reaches 61 seats as a long count begins; Netanyahu calls Iran a &quot;historic, one-time opportunity&quot; as the US reportedly warns Gulf states of a short war after the midterms; Jay-Z will headline the Super Bowl halftime show.</description>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-28</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-28.mp3" length="10685757" type="audio/mpeg"/>
       <itunes:duration>1780</itunes:duration>
@@ -84,7 +102,7 @@
     <item>
       <title>10.27.26 · Israel votes, an Iran strike on hold, Intel&#x27;s quantum deal</title>
       <description>Israel votes today after reports that Netanyahu pushed Trump for a pre-election strike on Iran and was told to wait; Saudi, Turkish and Pakistani officials hold first-ever joint talks in Tehran; Intel buys Israeli quantum startup Classiq for two point three billion dollars.</description>
-      <pubDate>Tue, 27 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-27</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-27.mp3" length="10459677" type="audio/mpeg"/>
       <itunes:duration>1743</itunes:duration>
@@ -93,7 +111,7 @@
     <item>
       <title>10.26.26 · Lula&#x27;s comeback, a clash over Iran, Israel votes tomorrow</title>
       <description>Lula wins a fourth term in Brazil as Flávio Bolsonaro refuses to concede; Israel&#x27;s army chief reportedly resists a Netanyahu order on Iran a day before the election; Serbia&#x27;s Vučić concedes defeat to a student-led movement.</description>
-      <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-26</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-26.mp3" length="10577181" type="audio/mpeg"/>
       <itunes:duration>1762</itunes:duration>
@@ -102,7 +120,7 @@
     <item>
       <title>10.25.26 · Trump&#x27;s &quot;maybe tomorrow&quot;, a huge rally, Brazil decides</title>
       <description>Trump says a strike on Iran could come &quot;maybe tomorrow&quot; as an Iranian lawmaker raises nuclear weapons; tens of thousands rally in Tel Aviv for an October seventh inquiry two days before Israel votes; Brazil chooses between Lula and Flávio Bolsonaro today with the final polls at fifty-one to forty-nine.</description>
-      <pubDate>Sun, 25 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-25</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-25.mp3" length="10661709" type="audio/mpeg"/>
       <itunes:duration>1776</itunes:duration>
@@ -111,7 +129,7 @@
     <item>
       <title>10.24.26 · Hebron attack, a strike &quot;absolutely&quot; possible, Brazil votes</title>
       <description>Two Israeli soldiers are killed in a Hebron checkpoint attack and the city is sealed three days before Israel votes; a US envoy says a strike on Iran could &quot;absolutely&quot; come this weekend as Brent tops 117 dollars; Brazil picks between Lula and Flávio Bolsonaro in a dead-heat runoff tomorrow.</description>
-      <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-24</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-24.mp3" length="10399629" type="audio/mpeg"/>
       <itunes:duration>1733</itunes:duration>
@@ -120,7 +138,7 @@
     <item>
       <title>10.23.26 · Final polls, Hormuz flare-up, Art Basel shuts early</title>
       <description>The last Israeli polls before the ban show a dead heat four days before the vote; Iran&#x27;s Revolutionary Guard claims hits on seven ships as Brent tops 112 dollars; Art Basel Paris closes two days early as France braces for more protests.</description>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-23</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-23.mp3" length="10454781" type="audio/mpeg"/>
       <itunes:duration>1742</itunes:duration>
@@ -129,7 +147,7 @@
     <item>
       <title>10.22.26 · Iran strike plans, Eisenkot&#x27;s red line, Lander detained</title>
       <description>The US and Israel reportedly plan new strikes on Iran after the US midterms as Netanyahu orders the regime&#x27;s overthrow; Eisenkot rules out serving under Netanyahu five days before the vote; New York&#x27;s Brad Lander is detained by Israeli troops at a West Bank olive harvest.</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-22</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-22.mp3" length="10631901" type="audio/mpeg"/>
       <itunes:duration>1771</itunes:duration>
@@ -138,7 +156,7 @@
     <item>
       <title>10.21.26 · Eisenkot widens lead, Iran says no, Sixers spoil ring night</title>
       <description>New polls show Eisenkot&#x27;s Yashar ahead with neither bloc near 61 seats six days before Israel&#x27;s election; Iran tells mediators its enriched uranium will never leave the country as oil tops 111 dollars; the 76ers beat the Knicks on championship banner night.</description>
-      <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-21</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-21.mp3" length="10595757" type="audio/mpeg"/>
       <itunes:duration>1765</itunes:duration>
@@ -147,7 +165,7 @@
     <item>
       <title>10.20.26 · Gantz bows out, Egypt waits, Shashua&#x27;s $200M AI bet</title>
       <description>Benny Gantz pulls out of Israel&#x27;s election a week before the vote; Egypt&#x27;s parliament delays its vote on defending Saudi Arabia as Russia&#x27;s Lavrov lands in Tehran; Amnon Shashua&#x27;s new startup doubleAI launches with two hundred million dollars.</description>
-      <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-20</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-20.mp3" length="10653501" type="audio/mpeg"/>
       <itunes:duration>1775</itunes:duration>
@@ -156,7 +174,7 @@
     <item>
       <title>10.19.26 · Trump endorses Bibi, Egypt eyes war, Wiz buys McDonald&#x27;s?</title>
       <description>Trump gives Netanyahu his &quot;complete and total endorsement&quot; eight days before Israel&#x27;s election; Egypt moves toward defending Saudi Arabia against the Houthis; Wiz&#x27;s billionaire founders close in on buying McDonald&#x27;s Israel.</description>
-      <pubDate>Mon, 19 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-19</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-19.mp3" length="10733853" type="audio/mpeg"/>
       <itunes:duration>1788</itunes:duration>
@@ -165,7 +183,7 @@
     <item>
       <title>10.18.26 · Hormuz on fire, diplomats attacked, Varonis sells for $6.3B</title>
       <description>Iran claims tankers hit mines in Hormuz as oil nears $110; settlers attack European diplomats in the West Bank and Rubio steps in; Israeli data-security pioneer Varonis is sold to Proofpoint for six point three billion dollars.</description>
-      <pubDate>Sun, 18 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-18</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-18.mp3" length="10667325" type="audio/mpeg"/>
       <itunes:duration>1777</itunes:duration>
@@ -174,7 +192,7 @@
     <item>
       <title>10.15.26 · Escalation warnings, a Shin Bet lawsuit, a $42M Kandinsky</title>
       <description>Israel&#x27;s army chief warns of escalation before the election; ex-Shin Bet chief Ronen Bar sues Netanyahu over October 7 blame; Christie&#x27;s London makes $289 million, led by a restituted Kandinsky.</description>
-      <pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-15</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-15.mp3" length="10802253" type="audio/mpeg"/>
       <itunes:duration>1800</itunes:duration>
@@ -183,7 +201,7 @@
     <item>
       <title>10.14.26 · Iran before the vote, Aramco hit, and the Pope&#x27;s diagnosis</title>
       <description>Netanyahu reportedly pressed Trump to resume the Iran war before Israel&#x27;s election; the Houthis hit an Aramco building as the Saudi-Houthi war escalates; Pope Leo is diagnosed with lung cancer after surgery.</description>
-      <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-14</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-14.mp3" length="10559469" type="audio/mpeg"/>
       <itunes:duration>1759</itunes:duration>
@@ -192,7 +210,7 @@
     <item>
       <title>10.13.26 · Airlines quit Riyadh, a hike turns deadly, Orion&#x27;s $500M</title>
       <description>Qatar Airways and Etihad suspend flights to Saudi cities as Houthi strikes continue; a teenager is killed by an old Hezbollah bomblet on a school hike in the north; CrowdStrike is in advanced talks to buy Israeli startup Orion for about five hundred million dollars.</description>
-      <pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-13</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-13.mp3" length="9600717" type="audio/mpeg"/>
       <itunes:duration>1600</itunes:duration>
@@ -201,7 +219,7 @@
     <item>
       <title>10.12.26 · Riyadh hit again, Bennett&#x27;s phone line and a $7B Decart deal</title>
       <description>Riyadh&#x27;s airport is hit a fourth time as the FAA tells US airlines to use caution; Bennett tells Netanyahu he&#x27;s &quot;welcome to give me a call&quot;; Amazon is in talks to buy Israeli-founded AI startup Decart for about seven billion dollars.</description>
-      <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-12</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-12.mp3" length="9575949" type="audio/mpeg"/>
       <itunes:duration>1595</itunes:duration>
@@ -210,7 +228,7 @@
     <item>
       <title>10.11.26 · An American killed in Riyadh, and a race to the threshold</title>
       <description>The Riyadh airport death toll climbs to twelve including an American as Trump weighs strikes; Gantz and Winter refuse to quit Israel&#x27;s election race; Florence Pugh&#x27;s East of Eden tops Netflix.</description>
-      <pubDate>Sun, 11 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-11</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-11.mp3" length="10448013" type="audio/mpeg"/>
       <itunes:duration>1741</itunes:duration>
@@ -219,7 +237,7 @@
     <item>
       <title>10.10.26 · A Nobel snub, a Saint Laurent exit and a Gaza anniversary</title>
       <description>Navi Pillay wins the Nobel Peace Prize and the US sanctions the ICC hours later; the UAE confirms the flydubai copilot planned a 9/11-style attack; Gaza&#x27;s ceasefire turns one year old today.</description>
-      <pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-10</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-10.mp3" length="10610013" type="audio/mpeg"/>
       <itunes:duration>1768</itunes:duration>
@@ -228,7 +246,7 @@
     <item>
       <title>10.09.26 · Tampered records, a renamed consulate and a T. rex cousin</title>
       <description>Netanyahu&#x27;s former military secretary alleges October 7 records were altered; Britain&#x27;s Jerusalem consulate is downgraded and twenty diplomats leave; Trump says no strike on Iran before the US midterms.</description>
-      <pubDate>Fri, 09 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-09</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-09.mp3" length="10445133" type="audio/mpeg"/>
       <itunes:duration>1740</itunes:duration>
@@ -237,7 +255,7 @@
     <item>
       <title>10.08.26 · A tied race, a flydubai fallout and a Koons sale</title>
       <description>A new poll shows Israel&#x27;s election deadlocked; the flydubai scare puts Israelis&#x27; US visa waiver at risk; Mamdani&#x27;s October 7 statement sparks a firestorm in New York.</description>
-      <pubDate>Thu, 08 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-08</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-08.mp3" length="10697709" type="audio/mpeg"/>
       <itunes:duration>1782</itunes:duration>
@@ -246,7 +264,7 @@
     <item>
       <title>10.07.26 · Three years since October 7, and a race to the ballot box</title>
       <description>Israel marks three years since October 7; Arab parties cleared for the October 27 election; a 450 million dollar Van Gogh and Cézanne sale heads to New York.</description>
-      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-07</guid>
       <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-10-07.mp3" length="7141773" type="audio/mpeg"/>
       <itunes:duration>1190</itunes:duration>
