@@ -741,8 +741,8 @@
   },
   "earnout": {
     "explanation": "part of a price paid later if results are hit",
-    "count": 2,
-    "last_used": "2026-10-19"
+    "count": 3,
+    "last_used": "2026-11-05"
   },
   "post-quantum cryptography": {
     "explanation": "encryption quantum computers can't break",
@@ -896,8 +896,8 @@
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "Chapter 11": {
     "explanation": "bankruptcy that lets a company keep operating",
@@ -951,8 +951,8 @@
   },
   "pre-seed": {
     "explanation": "the very first money a startup raises",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "inference chip": {
     "explanation": "chip designed to run trained AI models",
@@ -1166,8 +1166,8 @@
   },
   "MSP": {
     "explanation": "IT firms that run tech for other companies",
-    "count": 2,
-    "last_used": "2026-10-20"
+    "count": 3,
+    "last_used": "2026-11-05"
   },
   "supply-chain attack": {
     "explanation": "hacking victims through a vendor they trust",
@@ -2071,8 +2071,8 @@
   },
   "CTO": {
     "explanation": "chief technology officer",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-05"
   },
   "quantum computing": {
     "explanation": "computing using particle physics to solve some problems faster",
@@ -2151,8 +2151,8 @@
   },
   "voluntary buyout": {
     "explanation": "package that pays employees to leave",
-    "count": 1,
-    "last_used": "2026-10-28"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "computer use (AI)": {
     "explanation": "AI operating software like a person",
@@ -2236,8 +2236,8 @@
   },
   "J Street": {
     "explanation": "liberal pro-Israel lobby in the US",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-05"
   },
   "Gendarmerie": {
     "explanation": "Serbia's special police force",
@@ -2376,8 +2376,8 @@
   },
   "supreme leader": {
     "explanation": "Iran's top authority",
-    "count": 1,
-    "last_used": "2026-11-01"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "fatwa": {
     "explanation": "a binding religious ruling",
@@ -2506,13 +2506,13 @@
   },
   "COO": {
     "explanation": "chief operating officer, runs day-to-day operations",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "CIO": {
     "explanation": "chief information officer, in charge of technology",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "deskless workers": {
     "explanation": "people who don't work at a computer",
@@ -2631,8 +2631,8 @@
   },
   "consultations (presidential)": {
     "explanation": "meetings where parties recommend a PM to the president",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "under caution": {
     "explanation": "questioned as a suspect",
@@ -2711,13 +2711,13 @@
   },
   "channel partners": {
     "explanation": "resellers and integrators who sell a vendor's products",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "partner marketing": {
     "explanation": "training, incentives and campaigns for resellers",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-05"
   },
   "demand generation": {
     "explanation": "marketers who fill the sales pipeline",
@@ -2733,5 +2733,140 @@
     "explanation": "the EU's huge research funding program",
     "count": 1,
     "last_used": "2026-11-04"
+  },
+  "Shas": {
+    "explanation": "Sephardi ultra-Orthodox party",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "Yisrael Beytenu": {
+    "explanation": "Liberman's right-wing secular party",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "Degel HaTorah": {
+    "explanation": "faction holding four of UTJ's seven seats",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "ranked-choice voting": {
+    "explanation": "voters rank candidates; lowest eliminated round by round",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "majority leader": {
+    "explanation": "senator who controls what reaches the floor",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "House Speaker": {
+    "explanation": "the leader of the House",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "confidence-building steps": {
+    "explanation": "small moves to rebuild trust",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "Vox": {
+    "explanation": "Spain's far-right party",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "pivot": {
+    "explanation": "a big change of direction for a company",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "bug bounty": {
+    "explanation": "a paid hunt for security flaws",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "material breach": {
+    "explanation": "a serious violation of a contract",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "guidance": {
+    "explanation": "a company's forecast for the coming period",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "after-hours trading": {
+    "explanation": "trading after the market closes",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "hate-watching": {
+    "explanation": "watching a show you love to mock",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "wholesale": {
+    "explanation": "selling collections to other stores",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "marquee sales": {
+    "explanation": "auction houses' top evening auctions",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "incubation period": {
+    "explanation": "time between infection and symptoms",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "prediabetes": {
+    "explanation": "blood sugar above normal, not yet diabetes",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "shanda": {
+    "explanation": "Yiddish for a disgrace",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "board seat": {
+    "explanation": "a vote on the company's board of directors",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "Talpiot": {
+    "explanation": "the army's elite science program",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "SOC": {
+    "explanation": "security operations center, the team watching for attacks",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "retention pool": {
+    "explanation": "stock that keeps acquired employees from leaving",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "asset intelligence": {
+    "explanation": "one list of every device, account and app a company has",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "buying group": {
+    "explanation": "team of people who decide a purchase together",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "micro-drama": {
+    "explanation": "short vertical episodes made for phones",
+    "count": 1,
+    "last_used": "2026-11-05"
+  },
+  "product marketing": {
+    "explanation": "shapes how a product is positioned and pitched",
+    "count": 1,
+    "last_used": "2026-11-05"
   }
 }
