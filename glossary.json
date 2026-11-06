@@ -431,8 +431,8 @@
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-11-06"
   },
   "Nukhba": {
     "explanation": "Hamas's elite commando force",
@@ -1666,8 +1666,8 @@
   },
   "retrospective": {
     "explanation": "exhibition covering an artist's whole career",
-    "count": 2,
-    "last_used": "2026-10-28"
+    "count": 3,
+    "last_used": "2026-11-06"
   },
   "intifada": {
     "explanation": "Palestinian uprising",
@@ -2336,8 +2336,8 @@
   },
   "exit (startup)": {
     "explanation": "a startup being sold or going public",
-    "count": 2,
-    "last_used": "2026-11-02"
+    "count": 3,
+    "last_used": "2026-11-06"
   },
   "hot wallet": {
     "explanation": "crypto account kept online for quick withdrawals",
@@ -2356,8 +2356,8 @@
   },
   "Knesset speaker": {
     "explanation": "lawmaker who controls what comes to a vote",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-06"
   },
   "Constitutional Tribunal": {
     "explanation": "Poland's top court for constitutional questions",
@@ -2481,8 +2481,8 @@
   },
   "agentic": {
     "explanation": "AI agents acting on their own",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-06"
   },
   "backdoor": {
     "explanation": "a hidden way back into a computer",
@@ -2631,8 +2631,8 @@
   },
   "consultations (presidential)": {
     "explanation": "meetings where parties recommend a PM to the president",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-06"
   },
   "under caution": {
     "explanation": "questioned as a suspect",
@@ -2681,8 +2681,8 @@
   },
   "endpoint": {
     "explanation": "employees' laptops and devices",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-06"
   },
   "CTEM": {
     "explanation": "continuous threat exposure management, ongoing checks for weak spots",
@@ -2721,8 +2721,8 @@
   },
   "demand generation": {
     "explanation": "marketers who fill the sales pipeline",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-06"
   },
   "method dressing": {
     "explanation": "outfits that reference a character or story",
@@ -2866,7 +2866,97 @@
   },
   "product marketing": {
     "explanation": "shapes how a product is positioned and pitched",
+    "count": 2,
+    "last_used": "2026-11-06"
+  },
+  "impeachment": {
+    "explanation": "a formal trial to remove a leader",
     "count": 1,
-    "last_used": "2026-11-05"
+    "last_used": "2026-11-06"
+  },
+  "three-alarm fire": {
+    "explanation": "a fire needing three waves of fire crews",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "lithium-ion battery": {
+    "explanation": "rechargeable battery in e-bikes, scooters and phones",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "Codex": {
+    "explanation": "OpenAI's AI coding agent",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "data center": {
+    "explanation": "giant warehouses full of computers that power AI",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "moratorium": {
+    "explanation": "a full, temporary pause",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "auteur": {
+    "explanation": "filmmaker with a strong personal style",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "Cruise collection": {
+    "explanation": "fashion's in-between-seasons collection",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "Costume Institute": {
+    "explanation": "the Met museum's fashion department",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "rotation (coalition)": {
+    "explanation": "two leaders taking turns as prime minister",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "Linux": {
+    "explanation": "free operating system running most of the world's servers",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "general partner": {
+    "explanation": "the person at a fund who decides where money goes",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "formal verification": {
+    "explanation": "mathematically proving software does exactly what it should",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "chief R&D officer": {
+    "explanation": "executive in charge of research and development",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "chief AI officer": {
+    "explanation": "executive who sets how a company uses AI",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "AI-washing": {
+    "explanation": "calling any product \"AI\" to ride the hype",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "return on ad spend": {
+    "explanation": "revenue each ad dollar brings back",
+    "count": 1,
+    "last_used": "2026-11-06"
+  },
+  "go-to-market": {
+    "explanation": "how a company brings its product to customers",
+    "count": 1,
+    "last_used": "2026-11-06"
   }
 }
