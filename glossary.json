@@ -246,8 +246,8 @@
   },
   "offensive security": {
     "explanation": "attacking your own systems to find holes",
-    "count": 2,
-    "last_used": "2026-10-28"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "pentest": {
     "explanation": "penetration test, hired hackers trying to break in",
@@ -896,8 +896,8 @@
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "Chapter 11": {
     "explanation": "bankruptcy that lets a company keep operating",
@@ -1091,8 +1091,8 @@
   },
   "Truth Social": {
     "explanation": "Trump's own social media platform",
-    "count": 2,
-    "last_used": "2026-10-23"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "Otzma Yehudit": {
     "explanation": "Ben Gvir's far-right party",
@@ -1111,8 +1111,8 @@
   },
   "pogrom": {
     "explanation": "a violent mob attack on a community",
-    "count": 2,
-    "last_used": "2026-10-28"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "OCHA": {
     "explanation": "the UN humanitarian office",
@@ -1296,8 +1296,8 @@
   },
   "non-human identity": {
     "explanation": "identities of apps and machines, not people",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "confidential computing": {
     "explanation": "keeping data encrypted while it's processed",
@@ -1321,8 +1321,8 @@
   },
   "IAEA": {
     "explanation": "the UN's nuclear watchdog",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "Davos in the Desert": {
     "explanation": "Saudi Arabia's big annual investment conference",
@@ -2076,8 +2076,8 @@
   },
   "quantum computing": {
     "explanation": "computing using particle physics to solve some problems faster",
-    "count": 1,
-    "last_used": "2026-10-27"
+    "count": 2,
+    "last_used": "2026-11-07"
   },
   "guaranteed (auction)": {
     "explanation": "a buyer has already promised a set minimum",
@@ -2116,8 +2116,8 @@
   },
   "Kristallnacht": {
     "explanation": "Nazi night of attacks on Jews, November 1938",
-    "count": 2,
-    "last_used": "2026-10-30"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "Farhud": {
     "explanation": "1941 pogrom against Baghdad's Jews",
@@ -2481,8 +2481,8 @@
   },
   "agentic": {
     "explanation": "AI agents acting on their own",
-    "count": 2,
-    "last_used": "2026-11-06"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "backdoor": {
     "explanation": "a hidden way back into a computer",
@@ -2716,13 +2716,13 @@
   },
   "partner marketing": {
     "explanation": "training, incentives and campaigns for resellers",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "demand generation": {
     "explanation": "marketers who fill the sales pipeline",
-    "count": 2,
-    "last_used": "2026-11-06"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "method dressing": {
     "explanation": "outfits that reference a character or story",
@@ -2736,13 +2736,13 @@
   },
   "Shas": {
     "explanation": "Sephardi ultra-Orthodox party",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-07"
   },
   "Yisrael Beytenu": {
     "explanation": "Liberman's right-wing secular party",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-07"
   },
   "Degel HaTorah": {
     "explanation": "faction holding four of UTJ's seven seats",
@@ -2866,8 +2866,8 @@
   },
   "product marketing": {
     "explanation": "shapes how a product is positioned and pitched",
-    "count": 2,
-    "last_used": "2026-11-06"
+    "count": 3,
+    "last_used": "2026-11-07"
   },
   "impeachment": {
     "explanation": "a formal trial to remove a leader",
@@ -2891,8 +2891,8 @@
   },
   "data center": {
     "explanation": "giant warehouses full of computers that power AI",
-    "count": 1,
-    "last_used": "2026-11-06"
+    "count": 2,
+    "last_used": "2026-11-07"
   },
   "moratorium": {
     "explanation": "a full, temporary pause",
@@ -2956,7 +2956,102 @@
   },
   "go-to-market": {
     "explanation": "how a company brings its product to customers",
+    "count": 2,
+    "last_used": "2026-11-07"
+  },
+  "White House chief of staff": {
+    "explanation": "president's top aide who runs the White House",
     "count": 1,
-    "last_used": "2026-11-06"
+    "last_used": "2026-11-07"
+  },
+  "Rewards for Justice": {
+    "explanation": "State Department's bounty program for tips",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "weapons-grade": {
+    "explanation": "uranium pure enough for a bomb",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "Channel 12": {
+    "explanation": "Israel's leading TV news channel",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "United Torah Judaism": {
+    "explanation": "Ashkenazi ultra-Orthodox party alliance",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "ANC": {
+    "explanation": "African National Congress, Mandela's party",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "apartheid": {
+    "explanation": "South Africa's old system of white minority rule",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "Democratic Alliance": {
+    "explanation": "South Africa's main opposition party",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "MTA": {
+    "explanation": "agency that runs NYC subways and buses",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "Ashkenazi": {
+    "explanation": "Jews of European roots",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "Western Conference": {
+    "explanation": "the NBA's western half",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "Kering": {
+    "explanation": "French luxury group owning Gucci and Balenciaga",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "Christmas Number One": {
+    "explanation": "UK's top song in Christmas week",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "randomized trial": {
+    "explanation": "study assigning people to groups by chance",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "consolidation": {
+    "explanation": "startups merging or being bought",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "continuous penetration testing": {
+    "explanation": "ongoing simulated attacks to find holes",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "VP": {
+    "explanation": "vice president",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "president of revenue": {
+    "explanation": "executive running all of sales and go-to-market",
+    "count": 1,
+    "last_used": "2026-11-07"
+  },
+  "operating partner": {
+    "explanation": "investor who advises portfolio companies hands-on",
+    "count": 1,
+    "last_used": "2026-11-07"
   }
 }
