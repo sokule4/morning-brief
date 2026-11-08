@@ -39,7 +39,7 @@ jobs:
         id: find
         run: |
           # Every script in episodes/ that isn't in the feed yet (normally today's
-          # Morning Brief YYYY-MM-DD.md and Cyber Brief YYYY-MM-DD-cyber.md).
+          # episode YYYY-MM-DD.md; older days may also have a -cyber.md part).
           # With a date input, rebuild that day's episodes instead.
           files=$(DATE_IN="${{ github.event.inputs.date }}" python3 -c "
           import json,glob,os
@@ -109,15 +109,6 @@ jobs:
 
       - id: deploy
         uses: actions/deploy-pages@v4
-
-      - name: Send WhatsApp recap
-        if: steps.find.outputs.files != ''
-        continue-on-error: true
-        env:
-          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
-          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
-        run: |
-          for d in ${{ steps.find.outputs.days }}; do python scripts/whatsapp.py "$d"; done
 
       - name: Save error log
         if: failure()

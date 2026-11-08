@@ -11,21 +11,22 @@ Co-founding an art agency. Loves celebs, fashion, culture. Still learning
 politics and world-news vocabulary.
 
 ## Format
-Every morning there are TWO episodes, both published by 8:00 Israel time:
-- **The Morning Brief** (`episodes/YYYY-MM-DD.md`): about 20 minutes, 2,800–3,000
-  words of spoken script. Sophie's interests: world and Israel news and politics,
-  New York, the Jewish world, tech and AI, a business story, pop culture and
-  fashion, art, travel, wellness. No cybersecurity deals or hires here.
-- **The Cyber Brief** (`episodes/YYYY-MM-DD-cyber.md`): about 10 minutes, 1,400–1,500
-  words. Sophie's daily cyber watch for her job search (see "The Cyber Brief" below).
+ONE episode a day, about 30 minutes, live by 8:00 Israel time, in two parts:
+- **Part 1: Sophie's interests** (~20 minutes, 2,700–2,900 words of spoken
+  script): Israeli and world politics and news, pop culture, travel, and
+  anything trending. No cybersecurity deals, funding or hires here.
+- **Part 2: Cyber Watch** (~10 minutes, 1,300–1,500 words): cyber funding,
+  acquisitions, executive hires and how cyber companies market and sell. This is
+  for her job search (see "Part 2: Cyber Watch" below).
+- Total about 4,200 words. Both parts live in the same script file.
 - Single host, "smart briefing" tone: clear, warm, fast. What happened and why it
   matters to her. Light personality, no fake banter, no filler.
 - Written for the ear: short sentences, no bullet lists, no URLs, no tables, no
   emojis, no abbreviations a voice would stumble on (write "percent", "million",
   "US", "AI" is fine). Spell out numbers that read oddly.
-- Real news found by searching (see "How to pick stories" below). Never invent
-  stories, quotes or numbers. If a segment has a slow day, shorten it and give
-  the time to a busier one. Never pad to hit a word count.
+- Real news only, found by searching (see "How to pick stories" below). Check the
+  date of every item. Never invent stories, quotes, facts or numbers. If a segment
+  has a slow day, shorten it and give the time to a busier one. Never pad.
 
 ## Depth: explain, don't just report (IMPORTANT)
 Sophie wants to actually understand each story, not just hear that it happened.
@@ -47,45 +48,45 @@ Prefer fewer stories told properly over many stories in one line each.
 - After the main facts of a big story, add one line on why it matters to Sophie
   or to Israel/New York.
 
-## The Morning Brief: rundown (approx. minutes)
-1. Cold open (30 sec): date, "Good morning Sophie", the 3 biggest stories in one line each.
-2. Headlines, world + Israel (5): politics included; explain the background.
-3. New York (2): what's happening back home
-4. Jewish world (2): community, culture, news affecting Jews worldwide
-5. Tech, startups & AI (2): launches, new tools, big tech and AI news; Israeli tech
-   focus (cybersecurity funding, hires and cyber marketing go in the Cyber Brief, not here)
-6. Business story (2): one interesting company or founder story, told as a story
-7. Pop culture, celebs & fashion (3)
-8. Art & design (1.5): art market, galleries, auctions, interiors
-9. Travel (1.5): one destination, trend or practical travel story (new routes from
-   Tel Aviv, festivals, a great city break, travel deals and rules)
-10. Wellness (1): one practical fitness, food or health idea
-11. Sign-off (15 sec): mention that today's Cyber Brief is also waiting in the feed.
+## Part 1: Sophie's interests (rundown, approx. minutes)
+1. Cold open (30 sec): date, "Good morning Sophie", the 3 biggest stories of the
+   day in one line each (from either part).
+2. Israel news & politics (6): government, elections, security, the economy,
+   society. Explain the background (see Depth).
+3. World news & politics (5): the biggest international stories, US politics
+   included; explain who, what, why.
+4. Pop culture (4): celebrities, entertainment, fashion, music, TV and film.
+5. Travel (2): one destination, trend or practical travel story (new routes from
+   Tel Aviv, festivals, a great city break, travel deals and rules).
+6. Trending (2): what people are talking about online this week (see "What
+   people are talking about" below), confirmed in real news sources.
+7. Bridge (10 sec): "Now, Part 2, your Cyber Watch."
 
-Use a spoken transition between segments ("Next, back home in New York...").
+Use a spoken transition between segments ("Next, around the world...").
 
-## The Cyber Brief (separate ~10-minute episode)
-Sophie's daily cyber watch, the episode she relies on for her job search. Focus on
-the last ~48 hours (since the previous Cyber Brief); older items only if they haven't
-been covered in the last 7 Cyber Briefs. Israeli and Israel-founded companies first.
-1. Cold open (20 sec): "Good morning Sophie, this is your Cyber Brief" and the top 2 items.
-2. Funding & acquisitions (~3.5 min): cybersecurity rounds from pre-seed to late
+## Part 2: Cyber Watch (rundown, ~10 minutes)
+Sophie's daily cyber watch, the part she relies on for her job search. Focus on
+the last ~48 hours (since the previous episode); older items only if they haven't
+been covered in the last 7 days of episodes. Israeli and Israel-founded companies
+first. Cyber deals and hires appear ONLY in Part 2, never in Part 1.
+1. Funding & acquisitions (~3.5 min): cybersecurity rounds from pre-seed to late
    stage, companies coming out of stealth with funding, and acquisitions. For each:
    what the company does in plain words, round and amount, lead investor, and
    whether that's big for its stage. Merge the same round reported by several
    outlets into one story.
-3. People moves (~2.5 min): new CEOs, CMOs, CROs, VPs/Heads of Marketing, GTM, Sales
-   and Partnerships at cyber companies; big hiring pushes (a new Israel office,
-   "doubling the Tel Aviv team") and notable layoffs. Marketing and GTM leadership
-   moves matter most. Say where the person came from when it's reported.
-4. Marketing & growth trends (~2 min): how cyber companies are marketing and
-   selling: campaigns, events, positioning shifts, AI in GTM.
-5. Worth a look for you (~1.5 min): 1–3 items from today that could mean a GTM or
-   marketing role for Sophie (e.g. a Seed–Series B Israeli company that just raised,
-   or a new CMO likely to build a team), and why in a sentence or two.
-6. Sign-off (10 sec).
-Skip product launches, vulnerability/breach news and opinion pieces here. On a slow
-day, make it shorter (even 6–7 minutes); never pad.
+2. Executive hires (~2.5 min): new CMOs, VPs/Heads of Marketing and other marketing
+   leaders first, then CEOs, CROs, GTM, Sales and Partnerships leaders at cyber
+   companies; big hiring pushes (a new Israel office) and notable layoffs. Say where
+   the person came from when it's reported.
+3. How cyber companies market and sell (~2.5 min): campaigns, events, positioning
+   shifts, pricing and packaging, partnerships and channels, AI in go-to-market.
+   Explain what they did and why it works or doesn't, from a marketer's angle.
+4. Worth a look for you (~1.5 min): 1–3 items from today that could mean a
+   marketing or GTM role for Sophie (e.g. a Seed–Series B Israeli company that
+   just raised, or a new CMO likely to build a team), and why in a sentence or two.
+5. Sign-off (10 sec).
+Skip product launches, vulnerability/breach news and opinion pieces in Part 2. On
+a slow cyber day, Part 2 can be shorter (even 6–7 minutes); never pad.
 
 ## Glossary rule (buzz words)
 `glossary.json` tracks jargon Sophie is learning, from ANY field: politics, world
@@ -99,8 +100,7 @@ news, tech, AI, finance, startups, cyber, fashion, art, internet slang, etc.
 - Keep explanations to under ~10 words.
 
 ## File format
-Save the Morning Brief to `episodes/YYYY-MM-DD.md` and the Cyber Brief to
-`episodes/YYYY-MM-DD-cyber.md`, both like this:
+Save the whole episode (both parts) to `episodes/YYYY-MM-DD.md`:
 
 ```
 ---
@@ -110,28 +110,20 @@ summary: <one sentence listing the top 3 stories>
 <script paragraphs, separated by blank lines>
 ```
 
-Segment headings may be written as lines starting with `## `; they are NOT read
-aloud (they just add a short pause), so the spoken transition must be in the text.
-Episodes before 2026-11-05 were a single ~40-minute show with the cyber watch
-inside it; when checking for repeats, read those too.
-
-## WhatsApp recap
-Write one recap per episode, sent to Sophie together in one WhatsApp message:
-- `episodes/YYYY-MM-DD.recap.txt`: 7-10 lines for the Morning Brief.
-- `episodes/YYYY-MM-DD-cyber.recap.txt`: 3-5 lines for the Cyber Brief.
-One line per story, each starting with an emoji and a few words (max ~15 words per
-line), in rundown order. Plain text, no links, no markdown except *bold* for 1-2
-key words. Example line:
-🗳️ Israel election: Likud and Bennett's Together tied at 24 seats in new poll
+Segment headings may be written as lines starting with `## ` (e.g. `## Part 2:
+Cyber Watch`); they are NOT read aloud (they just add a short pause), so the
+spoken transition must be in the text. No recap files.
+When checking for repeats, read every script from the last 7 days: before
+2026-11-09 some days were split into `YYYY-MM-DD.md` + `YYYY-MM-DD-cyber.md`.
 
 ## How to pick stories
 - Search wide, then choose: for each segment, look at the last ~7 days of news,
   not just today. Pick the stories that matter most, with a strong preference for
   the newest ones.
 - An older story (2-7 days) earns a spot only if it's big, still developing, or
-  hasn't been covered in a previous episode (check the last 7 files in episodes/).
+  hasn't been covered in the last 7 days of episodes.
   If it's older, say so naturally ("in case you missed it, last Thursday...").
-- Never repeat a story already covered unless there's genuinely new news on it.
+- Never repeat a story covered in the last 7 days unless there's genuinely new news on it.
 - Many sites return stale cached pages: check the date on every item and drop
   anything you can't date.
 - What people are talking about (use sometimes, not every day): when reachable,
@@ -148,5 +140,5 @@ key words. Example line:
   and "people on the move" roundups), globes.co.il/en, geektime.com, siliconangle.com,
   PR Newswire / Business Wire press releases,
   goodmorningamerica.com/culture, news.artnet.com, theartnewspaper.com.
-- Don't mention where Sophie is or any travel; she's based in Israel and also
+- Don't mention where Sophie is or her own trips; she's based in Israel and also
   follows New York closely.

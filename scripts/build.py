@@ -16,7 +16,7 @@ VOICE = os.environ.get("TTS_VOICE") or "en-US-AvaMultilingualNeural"
 RATE = os.environ.get("TTS_RATE") or "+0%"
 KEEP = 60  # feed items kept (two a day: Morning Brief + Cyber Brief)
 SHOW_TITLE = "Sophie's Morning Brief"
-SHOW_DESC = "A daily news briefing made just for Sophie: the Morning Brief (~20 min) and the Cyber Brief (~10 min)."
+SHOW_DESC = "A daily 30-minute news briefing made just for Sophie: her interests, then the Cyber Watch."
 
 
 def parse(md_path):
