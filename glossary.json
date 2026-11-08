@@ -516,8 +516,8 @@
   },
   "CinemaScore": {
     "explanation": "grade opening-night audiences give a movie",
-    "count": 2,
-    "last_used": "2026-10-18"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "Grade II listed": {
     "explanation": "protected as a historic building in Britain",
@@ -776,8 +776,8 @@
   },
   "restitution": {
     "explanation": "returning art to heirs of owners who lost it",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "GLP-1": {
     "explanation": "gut hormone the weight loss drugs mimic",
@@ -1096,8 +1096,8 @@
   },
   "Otzma Yehudit": {
     "explanation": "Ben Gvir's far-right party",
-    "count": 2,
-    "last_used": "2026-10-29"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "term limits": {
     "explanation": "a cap on how long someone can serve",
@@ -1786,8 +1786,8 @@
   },
   "B2B": {
     "explanation": "marketing to businesses, not consumers",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-08"
   },
   "connected TV": {
     "explanation": "ads on streaming TV apps",
@@ -1831,8 +1831,8 @@
   },
   "provenance": {
     "explanation": "ownership history of an artwork",
-    "count": 2,
-    "last_used": "2026-10-27"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "biological age": {
     "explanation": "how old your body seems at cell level",
@@ -2121,8 +2121,8 @@
   },
   "Farhud": {
     "explanation": "1941 pogrom against Baghdad's Jews",
-    "count": 1,
-    "last_used": "2026-10-28"
+    "count": 2,
+    "last_used": "2026-11-08"
   },
   "parochet": {
     "explanation": "curtain in front of the Torah ark",
@@ -2176,8 +2176,8 @@
   },
   "caretaker government": {
     "explanation": "temporary government with no fresh mandate",
-    "count": 1,
-    "last_used": "2026-10-28"
+    "count": 2,
+    "last_used": "2026-11-08"
   },
   "free cash flow": {
     "explanation": "cash left after paying for investments",
@@ -2231,8 +2231,8 @@
   },
   "yeshiva": {
     "explanation": "Jewish religious seminary",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "J Street": {
     "explanation": "liberal pro-Israel lobby in the US",
@@ -2891,8 +2891,8 @@
   },
   "data center": {
     "explanation": "giant warehouses full of computers that power AI",
-    "count": 2,
-    "last_used": "2026-11-07"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "moratorium": {
     "explanation": "a full, temporary pause",
@@ -2956,8 +2956,8 @@
   },
   "go-to-market": {
     "explanation": "how a company brings its product to customers",
-    "count": 2,
-    "last_used": "2026-11-07"
+    "count": 3,
+    "last_used": "2026-11-08"
   },
   "White House chief of staff": {
     "explanation": "president's top aide who runs the White House",
@@ -2986,8 +2986,8 @@
   },
   "ANC": {
     "explanation": "African National Congress, Mandela's party",
-    "count": 1,
-    "last_used": "2026-11-07"
+    "count": 2,
+    "last_used": "2026-11-08"
   },
   "apartheid": {
     "explanation": "South Africa's old system of white minority rule",
@@ -3031,8 +3031,8 @@
   },
   "consolidation": {
     "explanation": "startups merging or being bought",
-    "count": 1,
-    "last_used": "2026-11-07"
+    "count": 2,
+    "last_used": "2026-11-08"
   },
   "continuous penetration testing": {
     "explanation": "ongoing simulated attacks to find holes",
@@ -3053,5 +3053,90 @@
     "explanation": "investor who advises portfolio companies hands-on",
     "count": 1,
     "last_used": "2026-11-07"
+  },
+  "Council of Torah Sages": {
+    "explanation": "Shas's ruling body of senior rabbis",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "Caspian Sea": {
+    "explanation": "huge inland sea north of Iran",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "mines": {
+    "explanation": "explosives hidden in the water",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "Shomer Shabbos caucus": {
+    "explanation": "Sabbath-observant Orthodox Jewish state lawmakers",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "Diaspora Affairs Ministry": {
+    "explanation": "Israeli ministry for Jewish communities abroad and antisemitism",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "Religious Zionism": {
+    "explanation": "far-right religious nationalist party",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "developer preview": {
+    "explanation": "early test version just for app builders",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "kibbutzim": {
+    "explanation": "Israel's collective farming communities",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "liquidation": {
+    "explanation": "company closed, assets sold to pay debts",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "Singles' Day": {
+    "explanation": "big November eleventh online shopping day",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "meteor shower": {
+    "explanation": "night with many shooting stars",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "A24": {
+    "explanation": "indie film studio",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "chief strategy officer": {
+    "explanation": "executive who sets long-term direction",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "corporate development": {
+    "explanation": "team handling acquisitions and partnerships",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "M&A": {
+    "explanation": "mergers and acquisitions",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "Fortune 500": {
+    "explanation": "America's largest corporations",
+    "count": 1,
+    "last_used": "2026-11-08"
+  },
+  "analyst relations": {
+    "explanation": "working with research firms like Forrester",
+    "count": 1,
+    "last_used": "2026-11-08"
   }
 }
