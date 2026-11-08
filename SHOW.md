@@ -13,8 +13,9 @@ politics and world-news vocabulary.
 ## Format
 ONE episode a day, about 30 minutes, live by 8:00 Israel time, in two parts:
 - **Part 1: Sophie's interests** (~20 minutes, 2,700–2,900 words of spoken
-  script): Israeli and world politics and news, pop culture, travel, and
-  anything trending. No cybersecurity deals, funding or hires here.
+  script): Israeli and world politics and news, New York, the Jewish world, tech
+  and AI, a business story, pop culture, art, travel, trending, wellness. No
+  cybersecurity deals, funding or hires here.
 - **Part 2: Cyber Watch** (~10 minutes, 1,300–1,500 words): cyber funding,
   acquisitions, executive hires and how cyber companies market and sell. This is
   for her job search (see "Part 2: Cyber Watch" below).
@@ -51,18 +52,28 @@ Prefer fewer stories told properly over many stories in one line each.
 ## Part 1: Sophie's interests (rundown, approx. minutes)
 1. Cold open (30 sec): date, "Good morning Sophie", the 3 biggest stories of the
    day in one line each (from either part).
-2. Israel news & politics (6): government, elections, security, the economy,
+2. Israel news & politics (4): government, elections, security, the economy,
    society. Explain the background (see Depth).
-3. World news & politics (5): the biggest international stories, US politics
+3. World news & politics (3.5): the biggest international stories, US politics
    included; explain who, what, why.
-4. Pop culture (4): celebrities, entertainment, fashion, music, TV and film.
-5. Travel (2): one destination, trend or practical travel story (new routes from
-   Tel Aviv, festivals, a great city break, travel deals and rules).
-6. Trending (2): what people are talking about online this week (see "What
-   people are talking about" below), confirmed in real news sources.
-7. Bridge (10 sec): "Now, Part 2, your Cyber Watch."
+4. New York (1.5): what's happening back home.
+5. Jewish world (1.5): community, culture, news affecting Jews worldwide.
+6. Tech, startups & AI (1.5): launches, new tools, big tech and AI news; Israeli
+   tech focus. No cybersecurity funding, deals or hires (those are Part 2 only).
+7. Business story (1.5): one interesting company or founder story, told as a story.
+8. Pop culture (2.5): celebrities, entertainment, fashion, music, TV and film.
+9. Art & design (1): art market, galleries, auctions, interiors.
+10. Travel (1.5): one destination, trend or practical travel story (new routes
+    from Tel Aviv, festivals, a great city break, travel deals and rules).
+11. Trending (1): what people are talking about online this week (see "What
+    people are talking about" below), confirmed in real news sources.
+12. Wellness (1): one practical fitness, food or health idea.
+13. Bridge (10 sec): "Now, Part 2, your Cyber Watch."
 
-Use a spoken transition between segments ("Next, around the world...").
+Many segments share ~20 minutes, so keep the short ones tight (one story told
+well beats three rushed ones). On a slow day a short segment can be skipped and
+its time given to a busier one; Israel, world and pop culture are never skipped.
+Use a spoken transition between segments ("Next, back home in New York...").
 
 ## Part 2: Cyber Watch (rundown, ~10 minutes)
 Sophie's daily cyber watch, the part she relies on for her job search. Focus on
