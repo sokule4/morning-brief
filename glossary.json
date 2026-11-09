@@ -1146,13 +1146,13 @@
   },
   "bootstrapped": {
     "explanation": "built with no outside investors",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-09"
   },
   "reverse engineering": {
     "explanation": "taking finished software apart to see how it works",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-09"
   },
   "air-gapped": {
     "explanation": "fully cut off from the internet",
@@ -2486,8 +2486,8 @@
   },
   "backdoor": {
     "explanation": "a hidden way back into a computer",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-09"
   },
   "SPAC": {
     "explanation": "a shell company that lists, then merges with a real business",
@@ -2736,8 +2736,8 @@
   },
   "Shas": {
     "explanation": "Sephardi ultra-Orthodox party",
-    "count": 2,
-    "last_used": "2026-11-07"
+    "count": 3,
+    "last_used": "2026-11-09"
   },
   "Yisrael Beytenu": {
     "explanation": "Liberman's right-wing secular party",
@@ -2791,8 +2791,8 @@
   },
   "guidance": {
     "explanation": "a company's forecast for the coming period",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-09"
   },
   "after-hours trading": {
     "explanation": "trading after the market closes",
@@ -2981,8 +2981,8 @@
   },
   "United Torah Judaism": {
     "explanation": "Ashkenazi ultra-Orthodox party alliance",
-    "count": 1,
-    "last_used": "2026-11-07"
+    "count": 2,
+    "last_used": "2026-11-09"
   },
   "ANC": {
     "explanation": "African National Congress, Mandela's party",
@@ -3101,8 +3101,8 @@
   },
   "Singles' Day": {
     "explanation": "big November eleventh online shopping day",
-    "count": 1,
-    "last_used": "2026-11-08"
+    "count": 2,
+    "last_used": "2026-11-09"
   },
   "meteor shower": {
     "explanation": "night with many shooting stars",
@@ -3138,5 +3138,75 @@
     "explanation": "working with research firms like Forrester",
     "count": 1,
     "last_used": "2026-11-08"
+  },
+  "emergency government": {
+    "explanation": "broad coalition formed around a national crisis",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "60 Minutes": {
+    "explanation": "CBS news magazine show",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "Ministry of State Security": {
+    "explanation": "China's main spy agency",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "independent directors": {
+    "explanation": "board members who don't work for the company",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "Cybercab": {
+    "explanation": "Tesla's planned driverless taxi",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "digital creator": {
+    "explanation": "internet-born star who makes their own videos",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "cortisol": {
+    "explanation": "the stress hormone",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "case-control study": {
+    "explanation": "comparing sick and healthy people after the fact",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "special votes": {
+    "explanation": "ballots like overseas votes, counted later",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "acquihire": {
+    "explanation": "a deal mostly to hire the team",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "letter of intent": {
+    "explanation": "preliminary agreement before final terms",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "sovereign AI": {
+    "explanation": "AI that countries or companies run under their own control",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "employer branding": {
+    "explanation": "a company marketing itself to people it wants to hire",
+    "count": 1,
+    "last_used": "2026-11-09"
+  },
+  "attack surface": {
+    "explanation": "all the places a hacker could get in",
+    "count": 1,
+    "last_used": "2026-11-09"
   }
 }
