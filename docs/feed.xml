@@ -3,12 +3,21 @@
   <channel>
     <title>Sophie's Morning Brief</title>
     <link>https://sokule4.github.io/morning-brief/</link>
-    <description>A daily news briefing made just for Sophie: the Morning Brief (~20 min) and the Cyber Brief (~10 min).</description>
+    <description>A daily 30-minute news briefing made just for Sophie: her interests, then the Cyber Watch.</description>
     <language>en-us</language>
     <itunes:author>Claude</itunes:author>
     <itunes:image href="https://sokule4.github.io/morning-brief/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>11.09.26 · Eisenkot&#x27;s &quot;emergency&quot; pitch, Trump on Israel, Nvidia&#x27;s scandal</title>
+      <description>Gadi Eisenkot gets the mandate and pitches a &quot;national emergency government&quot;; Trump says new Iran strikes are &quot;highly unlikely&quot; and blames a &quot;great dislike&quot; for Israel for his midterm losses; Nvidia&#x27;s board investigates Jensen Huang&#x27;s affair with an alleged Chinese spy.</description>
+      <pubDate>Mon, 09 Nov 2026 05:01:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-09</guid>
+      <enclosure url="https://sokule4.github.io/morning-brief/audio/2026-11-09.mp3" length="9724557" type="audio/mpeg"/>
+      <itunes:duration>1620</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11.08.26 · Eisenkot gets the mandate, Iron Gate, Godzilla roars</title>
       <description>Herzog hands Gadi Eisenkot the mandate to form a government today as Netanyahu calls for &quot;unity&quot;; the US launches Task Force Iron Gate to choke Iran&#x27;s land routes as tankers hit mines; Godzilla Minus Zero heads for a record opening as Tnuva revives its IPO.</description>
