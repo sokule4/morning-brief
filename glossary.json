@@ -12,7 +12,7 @@
   "Knesset": {
     "explanation": "Israel's parliament",
     "count": 8,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
@@ -22,7 +22,7 @@
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
     "count": 3,
-    "last_used": "2026-10-19"
+    "last_used": "2026-11-10"
   },
   "the draft": {
     "explanation": "mandatory military service",
@@ -72,7 +72,7 @@
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
     "count": 5,
-    "last_used": "2026-11-01"
+    "last_used": "2026-11-10"
   },
   "Series C": {
     "explanation": "a company's third big funding round",
@@ -112,7 +112,7 @@
   "coalition": {
     "explanation": "group of parties that together form a government",
     "count": 7,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "Visa Waiver Program": {
     "explanation": "lets Israelis visit the US without a visa",
@@ -127,17 +127,17 @@
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
     "count": 7,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
     "count": 8,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
     "count": 5,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "mega-round": {
     "explanation": "a funding round of 100 million dollars or more",
@@ -197,7 +197,7 @@
   "state commission of inquiry": {
     "explanation": "independent investigation led by a judge",
     "count": 4,
-    "last_used": "2026-11-01"
+    "last_used": "2026-11-10"
   },
   "shadow fleet": {
     "explanation": "hidden tankers used to sneak oil past sanctions",
@@ -241,8 +241,8 @@
   },
   "runtime security": {
     "explanation": "protecting software while it's actually running",
-    "count": 2,
-    "last_used": "2026-10-22"
+    "count": 3,
+    "last_used": "2026-11-10"
   },
   "offensive security": {
     "explanation": "attacking your own systems to find holes",
@@ -267,7 +267,7 @@
   "CRO": {
     "explanation": "chief revenue officer, the executive over all sales",
     "count": 3,
-    "last_used": "2026-10-20"
+    "last_used": "2026-11-10"
   },
   "run rate": {
     "explanation": "yearly earnings at your current pace",
@@ -277,7 +277,7 @@
   "unicorn": {
     "explanation": "startup worth over a billion dollars",
     "count": 4,
-    "last_used": "2026-10-28"
+    "last_used": "2026-11-10"
   },
   "showrunner": {
     "explanation": "the person who runs a TV series",
@@ -427,7 +427,7 @@
   "naval blockade": {
     "explanation": "warships stopping ships going in or out of a country",
     "count": 6,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
@@ -727,7 +727,7 @@
   "seed round": {
     "explanation": "a startup's very first funding",
     "count": 5,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "zero trust": {
     "explanation": "nobody gets more network access than needed",
@@ -861,8 +861,8 @@
   },
   "pre-dismissal hearing": {
     "explanation": "step Israeli law requires before a layoff",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-10"
   },
   "hypersonic missile": {
     "explanation": "flies over five times the speed of sound",
@@ -877,7 +877,7 @@
   "tokens": {
     "explanation": "small chunks of text AI reads and writes",
     "count": 3,
-    "last_used": "2026-10-28"
+    "last_used": "2026-11-10"
   },
   "stealth": {
     "explanation": "startup operating secretly before announcing itself",
@@ -892,7 +892,7 @@
   "annual recurring revenue": {
     "explanation": "yearly value of subscriptions",
     "count": 4,
-    "last_used": "2026-10-29"
+    "last_used": "2026-11-10"
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
@@ -976,8 +976,8 @@
   },
   "exposure management": {
     "explanation": "helping teams decide which flaws to fix first",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-11-10"
   },
   "oversubscribed": {
     "explanation": "investors wanted in for more than offered",
@@ -1142,7 +1142,7 @@
   "BDS": {
     "explanation": "boycott, divestment and sanctions campaign against Israel",
     "count": 3,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "bootstrapped": {
     "explanation": "built with no outside investors",
@@ -1311,8 +1311,8 @@
   },
   "Billboard 200": {
     "explanation": "main US album chart",
-    "count": 2,
-    "last_used": "2026-11-02"
+    "count": 3,
+    "last_used": "2026-11-10"
   },
   "album units": {
     "explanation": "measure combining album sales and streams",
@@ -1642,7 +1642,7 @@
   "memorandum of understanding": {
     "explanation": "early non-binding agreement",
     "count": 3,
-    "last_used": "2026-11-04"
+    "last_used": "2026-11-10"
   },
   "direct-to-consumer": {
     "explanation": "selling straight to buyers, not through stores",
@@ -1827,7 +1827,7 @@
   "CEO": {
     "explanation": "chief executive officer",
     "count": 8,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "provenance": {
     "explanation": "ownership history of an artwork",
@@ -1992,7 +1992,7 @@
   "mandate": {
     "explanation": "official permission",
     "count": 4,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "prospectus": {
     "explanation": "official document a company files before listing",
@@ -2072,7 +2072,7 @@
   "CTO": {
     "explanation": "chief technology officer",
     "count": 3,
-    "last_used": "2026-11-05"
+    "last_used": "2026-11-10"
   },
   "quantum computing": {
     "explanation": "computing using particle physics to solve some problems faster",
@@ -2097,7 +2097,7 @@
   "Ra'am": {
     "explanation": "Islamist Arab party led by Mansour Abbas",
     "count": 4,
-    "last_used": "2026-11-03"
+    "last_used": "2026-11-10"
   },
   "double-envelope ballots": {
     "explanation": "votes cast away from your home polling station",
@@ -2356,8 +2356,8 @@
   },
   "Knesset speaker": {
     "explanation": "lawmaker who controls what comes to a vote",
-    "count": 3,
-    "last_used": "2026-11-06"
+    "count": 4,
+    "last_used": "2026-11-10"
   },
   "Constitutional Tribunal": {
     "explanation": "Poland's top court for constitutional questions",
@@ -2611,8 +2611,8 @@
   },
   "foreign military financing": {
     "explanation": "US aid money that must be spent on American weapons",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-10"
   },
   "flip (election)": {
     "explanation": "a seat moving from one party to the other",
@@ -2646,8 +2646,8 @@
   },
   "recursive self-improvement (RSI)": {
     "explanation": "AI helping to build better AI",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-10"
   },
   "Responsible Scaling Policy": {
     "explanation": "Anthropic's own AI safety rulebook",
@@ -2711,8 +2711,8 @@
   },
   "channel partners": {
     "explanation": "resellers and integrators who sell a vendor's products",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-10"
   },
   "partner marketing": {
     "explanation": "training, incentives and campaigns for resellers",
@@ -2737,7 +2737,7 @@
   "Shas": {
     "explanation": "Sephardi ultra-Orthodox party",
     "count": 3,
-    "last_used": "2026-11-09"
+    "last_used": "2026-11-10"
   },
   "Yisrael Beytenu": {
     "explanation": "Liberman's right-wing secular party",
@@ -2791,8 +2791,8 @@
   },
   "guidance": {
     "explanation": "a company's forecast for the coming period",
-    "count": 2,
-    "last_used": "2026-11-09"
+    "count": 3,
+    "last_used": "2026-11-10"
   },
   "after-hours trading": {
     "explanation": "trading after the market closes",
@@ -2871,8 +2871,8 @@
   },
   "impeachment": {
     "explanation": "a formal trial to remove a leader",
-    "count": 1,
-    "last_used": "2026-11-06"
+    "count": 2,
+    "last_used": "2026-11-10"
   },
   "three-alarm fire": {
     "explanation": "a fire needing three waves of fire crews",
@@ -2957,7 +2957,7 @@
   "go-to-market": {
     "explanation": "how a company brings its product to customers",
     "count": 3,
-    "last_used": "2026-11-08"
+    "last_used": "2026-11-10"
   },
   "White House chief of staff": {
     "explanation": "president's top aide who runs the White House",
@@ -2981,8 +2981,8 @@
   },
   "United Torah Judaism": {
     "explanation": "Ashkenazi ultra-Orthodox party alliance",
-    "count": 2,
-    "last_used": "2026-11-09"
+    "count": 3,
+    "last_used": "2026-11-10"
   },
   "ANC": {
     "explanation": "African National Congress, Mandela's party",
@@ -3041,8 +3041,8 @@
   },
   "VP": {
     "explanation": "vice president",
-    "count": 1,
-    "last_used": "2026-11-07"
+    "count": 2,
+    "last_used": "2026-11-10"
   },
   "president of revenue": {
     "explanation": "executive running all of sales and go-to-market",
@@ -3208,5 +3208,105 @@
     "explanation": "all the places a hacker could get in",
     "count": 1,
     "last_used": "2026-11-09"
+  },
+  "articles of impeachment": {
+    "explanation": "formal charges in an impeachment",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "COP": {
+    "explanation": "UN climate summit, Conference of the Parties",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "Paris Agreement": {
+    "explanation": "2015 global climate deal",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "1.5 degree target": {
+    "explanation": "warming limit agreed in Paris",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "Code Blue": {
+    "explanation": "NYC emergency cold protections for homeless people",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "nonbinding": {
+    "explanation": "symbolic, no legal force",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "anti-BDS law": {
+    "explanation": "bars state funds from firms boycotting Israel",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "enriched uranium": {
+    "explanation": "nuclear fuel refined close to bomb grade",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "GPU": {
+    "explanation": "chips that train and run AI",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "foundation model": {
+    "explanation": "big general-purpose AI model",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "non-quota carriers": {
+    "explanation": "staff without a personal sales target",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "upmarket": {
+    "explanation": "toward bigger enterprise customers",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "AI credits": {
+    "explanation": "prepaid units customers spend on AI features",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "advent calendar": {
+    "explanation": "holiday countdown box, a gift each day",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "attribution (art)": {
+    "explanation": "deciding who really painted a work",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "VAT": {
+    "explanation": "value added tax",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "Lithuanian (Haredi) wing": {
+    "explanation": "non-Hasidic yeshiva world",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "compliance": {
+    "explanation": "following rules and standards auditors demand",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "R and D center": {
+    "explanation": "research and development center",
+    "count": 1,
+    "last_used": "2026-11-10"
+  },
+  "sales engineering": {
+    "explanation": "technical team that demos and sets up product",
+    "count": 1,
+    "last_used": "2026-11-10"
   }
 }
