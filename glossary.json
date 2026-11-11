@@ -416,8 +416,8 @@
   },
   "microbiome": {
     "explanation": "the community of good bacteria in your gut",
-    "count": 1,
-    "last_used": "2026-10-10"
+    "count": 2,
+    "last_used": "2026-11-11"
   },
   "CENTCOM": {
     "explanation": "US military command for the Middle East",
@@ -926,8 +926,8 @@
   },
   "buffer zone": {
     "explanation": "strip of land Israel holds past the border",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-11"
   },
   "free trade agreement": {
     "explanation": "deal removing taxes on goods between countries",
@@ -971,8 +971,8 @@
   },
   "CISA": {
     "explanation": "America's cyber defense agency",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-11-11"
   },
   "exposure management": {
     "explanation": "helping teams decide which flaws to fix first",
@@ -1121,8 +1121,8 @@
   },
   "UNIFIL": {
     "explanation": "UN peacekeeping force in south Lebanon",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-11"
   },
   "early voting": {
     "explanation": "in-person voting before Election Day",
@@ -1486,8 +1486,8 @@
   },
   "Competition Authority": {
     "explanation": "Israel's antitrust regulator",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-11-11"
   },
   "IHRA definition": {
     "explanation": "a widely used definition of antisemitism",
@@ -1766,8 +1766,8 @@
   },
   "Bank of Israel": {
     "explanation": "Israel's central bank",
-    "count": 2,
-    "last_used": "2026-10-26"
+    "count": 3,
+    "last_used": "2026-11-11"
   },
   "benchmark": {
     "explanation": "standard test for comparing AI systems",
@@ -1841,8 +1841,8 @@
   },
   "Hatikvah": {
     "explanation": "Israel's national anthem",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-11"
   },
   "Nova festival": {
     "explanation": "music festival attacked on October 7",
@@ -2006,8 +2006,8 @@
   },
   "ticker": {
     "explanation": "a stock's short trading symbol",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-11"
   },
   "operating profit": {
     "explanation": "profit from the actual business before one-time items",
@@ -2386,8 +2386,8 @@
   },
   "Basic Law": {
     "explanation": "one of Israel's quasi-constitutional laws",
-    "count": 1,
-    "last_used": "2026-11-01"
+    "count": 2,
+    "last_used": "2026-11-11"
   },
   "direct election of the prime minister": {
     "explanation": "voters pick the PM separately from parliament",
@@ -2871,8 +2871,8 @@
   },
   "impeachment": {
     "explanation": "a formal trial to remove a leader",
-    "count": 2,
-    "last_used": "2026-11-10"
+    "count": 3,
+    "last_used": "2026-11-11"
   },
   "three-alarm fire": {
     "explanation": "a fire needing three waves of fire crews",
@@ -3308,5 +3308,80 @@
     "explanation": "technical team that demos and sets up product",
     "count": 1,
     "last_used": "2026-11-10"
+  },
+  "Supreme National Security Council": {
+    "explanation": "Iran's top body setting defense and security policy",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "Iron Gate": {
+    "explanation": "US task force blocking smuggling over Iran's land borders",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "dual-use goods": {
+    "explanation": "items with both civilian and military uses",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "Hot 100": {
+    "explanation": "Billboard's main US singles chart",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "right of first refusal": {
+    "explanation": "the right to match another buyer's offer",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "Crown Court": {
+    "explanation": "England's court for serious criminal cases",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "Bloomsbury Group": {
+    "explanation": "early 1900s circle of British artists and writers",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "boomerang hire": {
+    "explanation": "someone rehired by a former employer",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "account-based marketing": {
+    "explanation": "marketing aimed at a hand-picked list of target companies",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "out-of-home advertising": {
+    "explanation": "billboards and ads in public places",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "S&P (rating agency)": {
+    "explanation": "credit rating agency judging how safe a borrower is",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "conditional banking license": {
+    "explanation": "permission to build a bank before serving customers",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "refer to committee": {
+    "explanation": "sending a bill to committee, often quietly killing it",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "Rosh Chodesh": {
+    "explanation": "the start of a Hebrew month",
+    "count": 1,
+    "last_used": "2026-11-11"
+  },
+  "guardian agent": {
+    "explanation": "an AI agent that polices another AI agent",
+    "count": 1,
+    "last_used": "2026-11-11"
   }
 }
