@@ -11,8 +11,8 @@
   },
   "Knesset": {
     "explanation": "Israel's parliament",
-    "count": 8,
-    "last_used": "2026-11-10"
+    "count": 9,
+    "last_used": "2026-11-12"
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
@@ -21,13 +21,13 @@
   },
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
-    "count": 3,
-    "last_used": "2026-11-10"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "the draft": {
     "explanation": "mandatory military service",
-    "count": 3,
-    "last_used": "2026-10-21"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "Houthis": {
     "explanation": "Iran-backed rebel group controlling much of Yemen",
@@ -66,13 +66,13 @@
   },
   "valuation": {
     "explanation": "what investors say the whole company is worth",
-    "count": 7,
-    "last_used": "2026-11-03"
+    "count": 8,
+    "last_used": "2026-11-12"
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
-    "count": 5,
-    "last_used": "2026-11-10"
+    "count": 6,
+    "last_used": "2026-11-12"
   },
   "Series C": {
     "explanation": "a company's third big funding round",
@@ -126,8 +126,8 @@
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
-    "count": 7,
-    "last_used": "2026-11-10"
+    "count": 8,
+    "last_used": "2026-11-12"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
@@ -136,8 +136,8 @@
   },
   "IPO": {
     "explanation": "initial public offering, listing on the stock market",
-    "count": 5,
-    "last_used": "2026-11-10"
+    "count": 6,
+    "last_used": "2026-11-12"
   },
   "mega-round": {
     "explanation": "a funding round of 100 million dollars or more",
@@ -191,8 +191,8 @@
   },
   "attorney general": {
     "explanation": "the government's top legal officer",
-    "count": 4,
-    "last_used": "2026-11-03"
+    "count": 5,
+    "last_used": "2026-11-12"
   },
   "state commission of inquiry": {
     "explanation": "independent investigation led by a judge",
@@ -231,8 +231,8 @@
   },
   "Series A": {
     "explanation": "a startup's first big institutional funding round",
-    "count": 5,
-    "last_used": "2026-11-01"
+    "count": 6,
+    "last_used": "2026-11-12"
   },
   "Series B": {
     "explanation": "a startup's second big funding round",
@@ -246,8 +246,8 @@
   },
   "offensive security": {
     "explanation": "attacking your own systems to find holes",
-    "count": 3,
-    "last_used": "2026-11-07"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "pentest": {
     "explanation": "penetration test, hired hackers trying to break in",
@@ -256,8 +256,8 @@
   },
   "red team": {
     "explanation": "ethical hackers who test defenses",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "social engineering": {
     "explanation": "tricking a person instead of hacking a computer",
@@ -266,8 +266,8 @@
   },
   "CRO": {
     "explanation": "chief revenue officer, the executive over all sales",
-    "count": 3,
-    "last_used": "2026-11-10"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "run rate": {
     "explanation": "yearly earnings at your current pace",
@@ -306,8 +306,8 @@
   },
   "sanctions": {
     "explanation": "financial penalties that cut off money and business",
-    "count": 5,
-    "last_used": "2026-11-03"
+    "count": 6,
+    "last_used": "2026-11-12"
   },
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
@@ -381,8 +381,8 @@
   },
   "CMO": {
     "explanation": "chief marketing officer",
-    "count": 5,
-    "last_used": "2026-11-01"
+    "count": 6,
+    "last_used": "2026-11-12"
   },
   "roll-up": {
     "explanation": "buying many companies and running them together",
@@ -426,8 +426,8 @@
   },
   "naval blockade": {
     "explanation": "warships stopping ships going in or out of a country",
-    "count": 6,
-    "last_used": "2026-11-10"
+    "count": 7,
+    "last_used": "2026-11-12"
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
@@ -496,8 +496,8 @@
   },
   "MDR": {
     "explanation": "managed detection and response, round-the-clock attack monitoring",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "security certificate": {
     "explanation": "digital ID behind the lock next to a web address",
@@ -566,8 +566,8 @@
   },
   "day school": {
     "explanation": "a full-time Jewish school",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-11-12"
   },
   "diasporist": {
     "explanation": "centered on Jewish life outside Israel",
@@ -636,8 +636,8 @@
   },
   "artist record": {
     "explanation": "highest price ever paid for an artist's work",
-    "count": 3,
-    "last_used": "2026-10-20"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "interceptor": {
     "explanation": "missile that shoots down incoming missiles",
@@ -666,8 +666,8 @@
   },
   "E1": {
     "explanation": "area between Ma'ale Adumim and East Jerusalem",
-    "count": 1,
-    "last_used": "2026-10-13"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "hybrid activities": {
     "explanation": "sabotage and attacks short of open war",
@@ -786,8 +786,8 @@
   },
   "caretaker prime minister": {
     "explanation": "PM who runs the government temporarily until a new one forms",
-    "count": 4,
-    "last_used": "2026-10-29"
+    "count": 5,
+    "last_used": "2026-11-12"
   },
   "surplus-vote deal": {
     "explanation": "two parties pool leftover votes",
@@ -981,8 +981,8 @@
   },
   "oversubscribed": {
     "explanation": "investors wanted in for more than offered",
-    "count": 1,
-    "last_used": "2026-10-15"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "doxxing": {
     "explanation": "posting someone's personal details online",
@@ -1096,8 +1096,8 @@
   },
   "Otzma Yehudit": {
     "explanation": "Ben Gvir's far-right party",
-    "count": 3,
-    "last_used": "2026-11-08"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "term limits": {
     "explanation": "a cap on how long someone can serve",
@@ -1296,8 +1296,8 @@
   },
   "non-human identity": {
     "explanation": "identities of apps and machines, not people",
-    "count": 3,
-    "last_used": "2026-11-07"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "confidential computing": {
     "explanation": "keeping data encrypted while it's processed",
@@ -1561,8 +1561,8 @@
   },
   "anti-Zionist": {
     "explanation": "opposed to Israel as a Jewish state",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-12"
   },
   "judicial overhaul": {
     "explanation": "government's push to change the courts' powers",
@@ -1671,8 +1671,8 @@
   },
   "intifada": {
     "explanation": "Palestinian uprising",
-    "count": 1,
-    "last_used": "2026-10-24"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "Oslo Accords": {
     "explanation": "1990s Israeli-Palestinian peace deals",
@@ -1751,8 +1751,8 @@
   },
   "Zionism": {
     "explanation": "belief that Jews should have a state in their homeland",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "indicted": {
     "explanation": "formally charged with a crime",
@@ -1856,8 +1856,8 @@
   },
   "chief of staff (IDF)": {
     "explanation": "the army's top commander",
-    "count": 2,
-    "last_used": "2026-10-27"
+    "count": 3,
+    "last_used": "2026-11-12"
   },
   "military censor": {
     "explanation": "office that can block security reporting",
@@ -1956,8 +1956,8 @@
   },
   "enterprise value": {
     "explanation": "price for whole business, incl. debt and cash",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "acquisition premium": {
     "explanation": "how far a deal price exceeds the stock price",
@@ -2096,8 +2096,8 @@
   },
   "Ra'am": {
     "explanation": "Islamist Arab party led by Mansour Abbas",
-    "count": 4,
-    "last_used": "2026-11-10"
+    "count": 5,
+    "last_used": "2026-11-12"
   },
   "double-envelope ballots": {
     "explanation": "votes cast away from your home polling station",
@@ -2231,8 +2231,8 @@
   },
   "yeshiva": {
     "explanation": "Jewish religious seminary",
-    "count": 3,
-    "last_used": "2026-11-08"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "J Street": {
     "explanation": "liberal pro-Israel lobby in the US",
@@ -2506,8 +2506,8 @@
   },
   "COO": {
     "explanation": "chief operating officer, runs day-to-day operations",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-12"
   },
   "CIO": {
     "explanation": "chief information officer, in charge of technology",
@@ -2521,8 +2521,8 @@
   },
   "presale": {
     "explanation": "the early ticket-buying window",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "house ambassador": {
     "explanation": "a celebrity face that represents a brand",
@@ -2561,8 +2561,8 @@
   },
   "roadshow": {
     "explanation": "pitch meetings with investors before an IPO",
-    "count": 1,
-    "last_used": "2026-11-03"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "reverse merger": {
     "explanation": "private company merges into a listed one to go public",
@@ -2736,8 +2736,8 @@
   },
   "Shas": {
     "explanation": "Sephardi ultra-Orthodox party",
-    "count": 3,
-    "last_used": "2026-11-10"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "Yisrael Beytenu": {
     "explanation": "Liberman's right-wing secular party",
@@ -2956,8 +2956,8 @@
   },
   "go-to-market": {
     "explanation": "how a company brings its product to customers",
-    "count": 3,
-    "last_used": "2026-11-10"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "White House chief of staff": {
     "explanation": "president's top aide who runs the White House",
@@ -2981,8 +2981,8 @@
   },
   "United Torah Judaism": {
     "explanation": "Ashkenazi ultra-Orthodox party alliance",
-    "count": 3,
-    "last_used": "2026-11-10"
+    "count": 4,
+    "last_used": "2026-11-12"
   },
   "ANC": {
     "explanation": "African National Congress, Mandela's party",
@@ -3246,8 +3246,8 @@
   },
   "enriched uranium": {
     "explanation": "nuclear fuel refined close to bomb grade",
-    "count": 1,
-    "last_used": "2026-11-10"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "GPU": {
     "explanation": "chips that train and run AI",
@@ -3311,8 +3311,8 @@
   },
   "Supreme National Security Council": {
     "explanation": "Iran's top body setting defense and security policy",
-    "count": 1,
-    "last_used": "2026-11-11"
+    "count": 2,
+    "last_used": "2026-11-12"
   },
   "Iron Gate": {
     "explanation": "US task force blocking smuggling over Iran's land borders",
@@ -3383,5 +3383,65 @@
     "explanation": "an AI agent that polices another AI agent",
     "count": 1,
     "last_used": "2026-11-11"
+  },
+  "Arrangements Committee": {
+    "explanation": "panel running the Knesset's business until a government forms",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "plea deal": {
+    "explanation": "agreement to end a case without a full verdict",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "Case 4000": {
+    "explanation": "Netanyahu case over favors for a news site's coverage",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "Reconstruction": {
+    "explanation": "the period right after the US Civil War",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "NDAA": {
+    "explanation": "the yearly US defense budget law",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "lidar": {
+    "explanation": "laser sensors that help cars see",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "kibbutz": {
+    "explanation": "one of Israel's collective farming communities",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "drip irrigation": {
+    "explanation": "feeding water drop by drop to a plant's roots",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "residency": {
+    "explanation": "a run of shows in one venue",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "Theosophical Society": {
+    "explanation": "a spiritual movement Hilma af Klint followed",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "amino acids": {
+    "explanation": "the building blocks of protein",
+    "count": 1,
+    "last_used": "2026-11-12"
+  },
+  "hackathon": {
+    "explanation": "a short coding marathon",
+    "count": 1,
+    "last_used": "2026-11-12"
   }
 }
