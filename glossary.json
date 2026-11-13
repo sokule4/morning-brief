@@ -311,8 +311,8 @@
   },
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
-    "count": 2,
-    "last_used": "2026-10-15"
+    "count": 3,
+    "last_used": "2026-11-13"
   },
   "technocratic government": {
     "explanation": "government run by non-political experts",
@@ -331,8 +331,8 @@
   },
   "Strategic Response Group": {
     "explanation": "NYPD's protest and riot unit",
-    "count": 2,
-    "last_used": "2026-10-13"
+    "count": 3,
+    "last_used": "2026-11-13"
   },
   "ground lease": {
     "explanation": "renting the land under a building",
@@ -661,8 +661,8 @@
   },
   "High Court": {
     "explanation": "Israel's Supreme Court hearing cases against the government",
-    "count": 2,
-    "last_used": "2026-10-24"
+    "count": 3,
+    "last_used": "2026-11-13"
   },
   "E1": {
     "explanation": "area between Ma'ale Adumim and East Jerusalem",
@@ -2176,8 +2176,8 @@
   },
   "caretaker government": {
     "explanation": "temporary government with no fresh mandate",
-    "count": 2,
-    "last_used": "2026-11-08"
+    "count": 3,
+    "last_used": "2026-11-13"
   },
   "free cash flow": {
     "explanation": "cash left after paying for investments",
@@ -2701,8 +2701,8 @@
   },
   "CFO": {
     "explanation": "chief financial officer, in charge of money, planning and investors",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-13"
   },
   "chief customer officer": {
     "explanation": "executive running everything after the sale",
@@ -3443,5 +3443,180 @@
     "explanation": "a short coding marathon",
     "count": 1,
     "last_used": "2026-11-12"
+  },
+  "Foreign Affairs and Defense Committee": {
+    "explanation": "Knesset panel overseeing army and intelligence",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "Hasidim": {
+    "explanation": "a main stream of ultra-Orthodox Judaism",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "override clause": {
+    "explanation": "lets the Knesset re-pass laws the court struck down",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "abstain": {
+    "explanation": "not vote at all",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "Kaminitz Law": {
+    "explanation": "law easing demolition of illegally built homes",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "European Commission": {
+    "explanation": "the EU's executive arm",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "EU-Israel Association Agreement": {
+    "explanation": "treaty behind most Israel-EU trade",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "early-warning radar": {
+    "explanation": "radar that spots incoming missiles and planes",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "First Amendment": {
+    "explanation": "US constitutional right to free speech and protest",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "executive order": {
+    "explanation": "direct order from the mayor or president",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "reboot": {
+    "explanation": "a new version of an old film",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "law and economics": {
+    "explanation": "using economic thinking to analyze legal rules",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "Seventh Circuit": {
+    "explanation": "federal appeals court in Chicago",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "interim CEO": {
+    "explanation": "temporary boss",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "board chair": {
+    "explanation": "person who leads the board of directors",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "wet lease": {
+    "explanation": "renting planes with foreign crews",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "Histadrut": {
+    "explanation": "Israel's main labor federation",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "labor dispute": {
+    "explanation": "formal step that allows a strike later",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "headliner": {
+    "explanation": "top act of the night",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "high estimate": {
+    "explanation": "top of the auction house's expected price range",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "city break": {
+    "explanation": "a short trip to a city",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "peer-reviewed": {
+    "explanation": "checked by independent scientists",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "cardiac arrest": {
+    "explanation": "when the heart suddenly stops",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "firmware": {
+    "explanation": "low-level code built into physical devices",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "SBOM": {
+    "explanation": "software bill of materials, a code ingredients list",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "Cyber Resilience Act": {
+    "explanation": "EU law requiring secure connected products",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "product security": {
+    "explanation": "securing the code inside products companies sell",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "severance": {
+    "explanation": "pay given to laid-off workers",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "fiscal year": {
+    "explanation": "a company's twelve-month accounting year",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "digital sovereignty": {
+    "explanation": "keeping control of your own data and tech",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "distributor": {
+    "explanation": "wholesaler between vendors and resellers",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "SIEM": {
+    "explanation": "systems that collect and analyze security logs",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "NIS2": {
+    "explanation": "EU cyber rules for critical industries",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "DORA": {
+    "explanation": "EU cyber resilience law for banks",
+    "count": 1,
+    "last_used": "2026-11-13"
+  },
+  "Vulnpocalypse": {
+    "explanation": "flood of AI-found security holes",
+    "count": 1,
+    "last_used": "2026-11-13"
   }
 }
