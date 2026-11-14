@@ -581,8 +581,8 @@
   },
   "stock options": {
     "explanation": "right to buy company shares at a set price",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "CISO": {
     "explanation": "chief information security officer, head of a company's security",
@@ -1626,8 +1626,8 @@
   },
   "Chabad": {
     "explanation": "Hasidic movement known for Jewish outreach",
-    "count": 2,
-    "last_used": "2026-10-30"
+    "count": 3,
+    "last_used": "2026-11-14"
   },
   "stablecoin": {
     "explanation": "crypto token pegged to the dollar",
@@ -2026,8 +2026,8 @@
   },
   "credentials": {
     "explanation": "logins and keys that grant system access",
-    "count": 1,
-    "last_used": "2026-10-27"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "webhook": {
     "explanation": "automatic message sent between systems",
@@ -2551,8 +2551,8 @@
   },
   "SNAP": {
     "explanation": "US food stamp program",
-    "count": 1,
-    "last_used": "2026-11-03"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "brand safety": {
     "explanation": "keeping ads away from hateful or harmful content",
@@ -2701,8 +2701,8 @@
   },
   "CFO": {
     "explanation": "chief financial officer, in charge of money, planning and investors",
-    "count": 2,
-    "last_used": "2026-11-13"
+    "count": 3,
+    "last_used": "2026-11-14"
   },
   "chief customer officer": {
     "explanation": "executive running everything after the sale",
@@ -2741,8 +2741,8 @@
   },
   "Yisrael Beytenu": {
     "explanation": "Liberman's right-wing secular party",
-    "count": 2,
-    "last_used": "2026-11-07"
+    "count": 3,
+    "last_used": "2026-11-14"
   },
   "Degel HaTorah": {
     "explanation": "faction holding four of UTJ's seven seats",
@@ -3066,8 +3066,8 @@
   },
   "mines": {
     "explanation": "explosives hidden in the water",
-    "count": 1,
-    "last_used": "2026-11-08"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "Shomer Shabbos caucus": {
     "explanation": "Sabbath-observant Orthodox Jewish state lawmakers",
@@ -3446,8 +3446,8 @@
   },
   "Foreign Affairs and Defense Committee": {
     "explanation": "Knesset panel overseeing army and intelligence",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "Hasidim": {
     "explanation": "a main stream of ultra-Orthodox Judaism",
@@ -3466,8 +3466,8 @@
   },
   "Kaminitz Law": {
     "explanation": "law easing demolition of illegally built homes",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "European Commission": {
     "explanation": "the EU's executive arm",
@@ -3591,8 +3591,8 @@
   },
   "digital sovereignty": {
     "explanation": "keeping control of your own data and tech",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-14"
   },
   "distributor": {
     "explanation": "wholesaler between vendors and resellers",
@@ -3618,5 +3618,110 @@
     "explanation": "flood of AI-found security holes",
     "count": 1,
     "last_used": "2026-11-13"
+  },
+  "ground stop": {
+    "explanation": "order keeping every plane on the ground from taking off",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "Eurocontrol": {
+    "explanation": "European body coordinating air traffic, Israel included",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "router": {
+    "explanation": "equipment that moves data between systems",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "demagogic": {
+    "explanation": "playing to emotions for political gain",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "bodega": {
+    "explanation": "New York's small corner stores",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "foreign agent": {
+    "explanation": "someone officially working for a foreign group",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "ZAKA": {
+    "explanation": "Israeli volunteer rescue and victim-recovery organization",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "TSA": {
+    "explanation": "American airport security agency",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "Copilot": {
+    "explanation": "Microsoft's AI assistant",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "Euronext": {
+    "explanation": "European stock exchange operator",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "Spin Paintings": {
+    "explanation": "Hirst's works made by pouring paint on a spinning canvas",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "tranche": {
+    "explanation": "one installment of an investment, each at its own price",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "exercise price": {
+    "explanation": "the price an employee pays to buy option shares",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "identity security": {
+    "explanation": "watching who and what uses a company's logins",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "shadow agents": {
+    "explanation": "AI bots working outside a company's rules",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "LNG": {
+    "explanation": "liquefied natural gas",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "hypnic jerks": {
+    "explanation": "sudden jolts while falling asleep, also called sleep starts",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "cognitive behavioral therapy for insomnia": {
+    "explanation": "short talk therapy that retrains sleep habits",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "Gartner": {
+    "explanation": "big tech research and advisory firm",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "Real-Time Rail": {
+    "explanation": "Canada's new instant-payments system",
+    "count": 1,
+    "last_used": "2026-11-14"
+  },
+  "chief business officer": {
+    "explanation": "executive running channel, alliances and partnerships",
+    "count": 1,
+    "last_used": "2026-11-14"
   }
 }
