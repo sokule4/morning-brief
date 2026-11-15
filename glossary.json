@@ -806,8 +806,8 @@
   },
   "IMF": {
     "explanation": "International Monetary Fund",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "sanctuary state": {
     "explanation": "state limiting cooperation with federal immigration enforcement",
@@ -846,8 +846,8 @@
   },
   "Righteous Among the Nations": {
     "explanation": "non-Jews who saved Jews in the Holocaust",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "mainframe": {
     "explanation": "giant old computers that run banks and airlines",
@@ -1431,8 +1431,8 @@
   },
   "rotation agreement": {
     "explanation": "two leaders take turns as prime minister",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "electioneering": {
     "explanation": "using an official event to campaign",
@@ -2836,8 +2836,8 @@
   },
   "Talpiot": {
     "explanation": "the army's elite science program",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "SOC": {
     "explanation": "security operations center, the team watching for attacks",
@@ -3081,8 +3081,8 @@
   },
   "Religious Zionism": {
     "explanation": "far-right religious nationalist party",
-    "count": 1,
-    "last_used": "2026-11-08"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "developer preview": {
     "explanation": "early test version just for app builders",
@@ -3246,8 +3246,8 @@
   },
   "enriched uranium": {
     "explanation": "nuclear fuel refined close to bomb grade",
-    "count": 2,
-    "last_used": "2026-11-12"
+    "count": 3,
+    "last_used": "2026-11-15"
   },
   "GPU": {
     "explanation": "chips that train and run AI",
@@ -3446,8 +3446,8 @@
   },
   "Foreign Affairs and Defense Committee": {
     "explanation": "Knesset panel overseeing army and intelligence",
-    "count": 2,
-    "last_used": "2026-11-14"
+    "count": 3,
+    "last_used": "2026-11-15"
   },
   "Hasidim": {
     "explanation": "a main stream of ultra-Orthodox Judaism",
@@ -3461,8 +3461,8 @@
   },
   "abstain": {
     "explanation": "not vote at all",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "Kaminitz Law": {
     "explanation": "law easing demolition of illegally built homes",
@@ -3601,8 +3601,8 @@
   },
   "SIEM": {
     "explanation": "systems that collect and analyze security logs",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "NIS2": {
     "explanation": "EU cyber rules for critical industries",
@@ -3621,8 +3621,8 @@
   },
   "ground stop": {
     "explanation": "order keeping every plane on the ground from taking off",
-    "count": 1,
-    "last_used": "2026-11-14"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "Eurocontrol": {
     "explanation": "European body coordinating air traffic, Israel included",
@@ -3631,8 +3631,8 @@
   },
   "router": {
     "explanation": "equipment that moves data between systems",
-    "count": 1,
-    "last_used": "2026-11-14"
+    "count": 2,
+    "last_used": "2026-11-15"
   },
   "demagogic": {
     "explanation": "playing to emotions for political gain",
@@ -3723,5 +3723,75 @@
     "explanation": "executive running channel, alliances and partnerships",
     "count": 1,
     "last_used": "2026-11-14"
+  },
+  "GDP": {
+    "explanation": "total value of everything an economy produces",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "APEC": {
+    "explanation": "yearly summit of Pacific Rim economies",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "ASEAN": {
+    "explanation": "Southeast Asian nations' bloc and summit",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "payment token": {
+    "explanation": "stand-in code replacing a real card number",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "Starlink": {
+    "explanation": "SpaceX's satellite internet service",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "Artemis program": {
+    "explanation": "US program to return astronauts to the Moon",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "esports": {
+    "explanation": "competitive video gaming",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "meta-analysis": {
+    "explanation": "study combining many earlier studies",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "Reich flight tax": {
+    "explanation": "Nazi levy on people fleeing Germany",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "Washington Principles": {
+    "explanation": "non-binding guidelines for returning Nazi-looted art",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "telemetry": {
+    "explanation": "digital traces systems record about activity",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "control plane": {
+    "explanation": "central layer that controls everything from one place",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "co-selling": {
+    "explanation": "two companies selling together",
+    "count": 1,
+    "last_used": "2026-11-15"
+  },
+  "newsjacking": {
+    "explanation": "jumping on a big headline to promote yourself",
+    "count": 1,
+    "last_used": "2026-11-15"
   }
 }
