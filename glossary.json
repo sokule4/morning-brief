@@ -36,8 +36,8 @@
   },
   "Bab el-Mandeb": {
     "explanation": "narrow sea passage key to world shipping",
-    "count": 2,
-    "last_used": "2026-10-11"
+    "count": 3,
+    "last_used": "2026-11-16"
   },
   "consulate": {
     "explanation": "a mini embassy",
@@ -2081,8 +2081,8 @@
   },
   "guaranteed (auction)": {
     "explanation": "a buyer has already promised a set minimum",
-    "count": 3,
-    "last_used": "2026-11-04"
+    "count": 4,
+    "last_used": "2026-11-16"
   },
   "units (Billboard)": {
     "explanation": "sales and streams combined",
@@ -2421,8 +2421,8 @@
   },
   "blood libel": {
     "explanation": "medieval lie that Jews use Christian blood in rituals",
-    "count": 1,
-    "last_used": "2026-11-01"
+    "count": 2,
+    "last_used": "2026-11-16"
   },
   "leak site": {
     "explanation": "dark-web page where hackers post their victims",
@@ -2821,8 +2821,8 @@
   },
   "prediabetes": {
     "explanation": "blood sugar above normal, not yet diabetes",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-16"
   },
   "shanda": {
     "explanation": "Yiddish for a disgrace",
@@ -3511,8 +3511,8 @@
   },
   "interim CEO": {
     "explanation": "temporary boss",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-16"
   },
   "board chair": {
     "explanation": "person who leads the board of directors",
@@ -3551,8 +3551,8 @@
   },
   "peer-reviewed": {
     "explanation": "checked by independent scientists",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-16"
   },
   "cardiac arrest": {
     "explanation": "when the heart suddenly stops",
@@ -3736,8 +3736,8 @@
   },
   "ASEAN": {
     "explanation": "Southeast Asian nations' bloc and summit",
-    "count": 1,
-    "last_used": "2026-11-15"
+    "count": 2,
+    "last_used": "2026-11-16"
   },
   "payment token": {
     "explanation": "stand-in code replacing a real card number",
@@ -3793,5 +3793,80 @@
     "explanation": "jumping on a big headline to promote yourself",
     "count": 1,
     "last_used": "2026-11-15"
+  },
+  "wiretap": {
+    "explanation": "secretly listening in on someone's phone calls",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "chief of staff (Prime Minister's Office)": {
+    "explanation": "the prime minister's top aide",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "supertanker": {
+    "explanation": "one of the largest kinds of oil ship",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "SHSAT": {
+    "explanation": "exam for New York's elite public high schools",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "budget gap": {
+    "explanation": "shortfall a government must close",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "earnings report": {
+    "explanation": "results public companies release every three months",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "primary care": {
+    "explanation": "everyday doctor visits, not specialists",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "box office bomb": {
+    "explanation": "big-budget movie that flops",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "consumer price index": {
+    "explanation": "official measure of what everyday things cost",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "special purpose vehicle (SPV)": {
+    "explanation": "separate fund created for one investment",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "cap table": {
+    "explanation": "list of who owns a company",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "limited partners": {
+    "explanation": "investors who put money into a venture fund",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "platformization": {
+    "explanation": "replacing many security tools with one vendor platform",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "proof point": {
+    "explanation": "hard evidence behind a marketing claim",
+    "count": 1,
+    "last_used": "2026-11-16"
+  },
+  "venture arm": {
+    "explanation": "a big company's in-house startup investing unit",
+    "count": 1,
+    "last_used": "2026-11-16"
   }
 }
