@@ -276,8 +276,8 @@
   },
   "unicorn": {
     "explanation": "startup worth over a billion dollars",
-    "count": 4,
-    "last_used": "2026-11-10"
+    "count": 5,
+    "last_used": "2026-11-17"
   },
   "showrunner": {
     "explanation": "the person who runs a TV series",
@@ -896,8 +896,8 @@
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
-    "count": 3,
-    "last_used": "2026-11-07"
+    "count": 4,
+    "last_used": "2026-11-17"
   },
   "Chapter 11": {
     "explanation": "bankruptcy that lets a company keep operating",
@@ -1486,8 +1486,8 @@
   },
   "Competition Authority": {
     "explanation": "Israel's antitrust regulator",
-    "count": 2,
-    "last_used": "2026-11-11"
+    "count": 3,
+    "last_used": "2026-11-17"
   },
   "IHRA definition": {
     "explanation": "a widely used definition of antisemitism",
@@ -1891,8 +1891,8 @@
   },
   "Reform Judaism": {
     "explanation": "largest liberal Jewish movement in America",
-    "count": 1,
-    "last_used": "2026-10-26"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "S-1": {
     "explanation": "company's detailed financial disclosure before an IPO",
@@ -2491,8 +2491,8 @@
   },
   "SPAC": {
     "explanation": "a shell company that lists, then merges with a real business",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "GEO": {
     "explanation": "generative engine optimization: getting mentioned in AI answers",
@@ -2546,8 +2546,8 @@
   },
   "UKMTO": {
     "explanation": "British agency that tracks threats to ships",
-    "count": 1,
-    "last_used": "2026-11-03"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "SNAP": {
     "explanation": "US food stamp program",
@@ -2721,8 +2721,8 @@
   },
   "demand generation": {
     "explanation": "marketers who fill the sales pipeline",
-    "count": 3,
-    "last_used": "2026-11-07"
+    "count": 4,
+    "last_used": "2026-11-17"
   },
   "method dressing": {
     "explanation": "outfits that reference a character or story",
@@ -3016,8 +3016,8 @@
   },
   "Kering": {
     "explanation": "French luxury group owning Gucci and Balenciaga",
-    "count": 1,
-    "last_used": "2026-11-07"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "Christmas Number One": {
     "explanation": "UK's top song in Christmas week",
@@ -3136,8 +3136,8 @@
   },
   "analyst relations": {
     "explanation": "working with research firms like Forrester",
-    "count": 1,
-    "last_used": "2026-11-08"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "emergency government": {
     "explanation": "broad coalition formed around a national crisis",
@@ -3191,13 +3191,13 @@
   },
   "letter of intent": {
     "explanation": "preliminary agreement before final terms",
-    "count": 1,
-    "last_used": "2026-11-09"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "sovereign AI": {
     "explanation": "AI that countries or companies run under their own control",
-    "count": 1,
-    "last_used": "2026-11-09"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "employer branding": {
     "explanation": "a company marketing itself to people it wants to hire",
@@ -3256,8 +3256,8 @@
   },
   "foundation model": {
     "explanation": "big general-purpose AI model",
-    "count": 1,
-    "last_used": "2026-11-10"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "non-quota carriers": {
     "explanation": "staff without a personal sales target",
@@ -3526,8 +3526,8 @@
   },
   "Histadrut": {
     "explanation": "Israel's main labor federation",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "labor dispute": {
     "explanation": "formal step that allows a strike later",
@@ -3731,13 +3731,13 @@
   },
   "APEC": {
     "explanation": "yearly summit of Pacific Rim economies",
-    "count": 1,
-    "last_used": "2026-11-15"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "ASEAN": {
     "explanation": "Southeast Asian nations' bloc and summit",
-    "count": 2,
-    "last_used": "2026-11-16"
+    "count": 3,
+    "last_used": "2026-11-17"
   },
   "payment token": {
     "explanation": "stand-in code replacing a real card number",
@@ -3861,12 +3861,122 @@
   },
   "proof point": {
     "explanation": "hard evidence behind a marketing claim",
-    "count": 1,
-    "last_used": "2026-11-16"
+    "count": 2,
+    "last_used": "2026-11-17"
   },
   "venture arm": {
     "explanation": "a big company's in-house startup investing unit",
     "count": 1,
     "last_used": "2026-11-16"
+  },
+  "deputy speaker": {
+    "explanation": "members who run Knesset sessions when the speaker is away",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "state attorney": {
+    "explanation": "Israel's chief prosecutor",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "Finance Committee": {
+    "explanation": "Knesset committee that oversees the state budget",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "Beqaa Valley": {
+    "explanation": "eastern Lebanese farming region near the Syrian border",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "measles elimination status": {
+    "explanation": "label meaning measles no longer spreads continuously in a country",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "Kerch Strait bridge": {
+    "explanation": "bridge linking Russia to occupied Crimea",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "kettling": {
+    "explanation": "surrounding protesters to trap them",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "Hillel": {
+    "explanation": "Jewish student organization",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "CUNY": {
+    "explanation": "New York's city university system",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "consensus estimate": {
+    "explanation": "average analyst forecast",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "gross margin": {
+    "explanation": "share of each sale left after production costs",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "spatial intelligence": {
+    "explanation": "AI that understands three-dimensional space",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "Big Four (Grammys)": {
+    "explanation": "top categories: album, record, song, new artist",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "jet stream": {
+    "explanation": "fast high-altitude wind blowing west to east",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "Psagot": {
+    "explanation": "elite IDF intelligence technology program",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "private placement": {
+    "explanation": "shares sold directly to investors, not on the open market",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "debt sale": {
+    "explanation": "borrowing money from investors",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "GTM engineering": {
+    "explanation": "people who build the tools behind go-to-market",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "category creation": {
+    "explanation": "inventing a new category so you're not compared to rivals",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "repositioning": {
+    "explanation": "changing how the market sees you",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "information warfare": {
+    "explanation": "fighting with propaganda and fake accounts",
+    "count": 1,
+    "last_used": "2026-11-17"
+  },
+  "brand architecture": {
+    "explanation": "how a company names and organizes its brands",
+    "count": 1,
+    "last_used": "2026-11-17"
   }
 }
