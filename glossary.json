@@ -256,8 +256,8 @@
   },
   "red team": {
     "explanation": "ethical hackers who test defenses",
-    "count": 2,
-    "last_used": "2026-11-12"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "social engineering": {
     "explanation": "tricking a person instead of hacking a computer",
@@ -666,8 +666,8 @@
   },
   "E1": {
     "explanation": "area between Ma'ale Adumim and East Jerusalem",
-    "count": 2,
-    "last_used": "2026-11-12"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "hybrid activities": {
     "explanation": "sabotage and attacks short of open war",
@@ -951,8 +951,8 @@
   },
   "pre-seed": {
     "explanation": "the very first money a startup raises",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "inference chip": {
     "explanation": "chip designed to run trained AI models",
@@ -1416,8 +1416,8 @@
   },
   "backlog": {
     "explanation": "signed orders not yet delivered",
-    "count": 2,
-    "last_used": "2026-10-31"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "CFDA": {
     "explanation": "the Council of Fashion Designers of America",
@@ -2196,8 +2196,8 @@
   },
   "take private": {
     "explanation": "buy all shares so a company leaves the stock market",
-    "count": 1,
-    "last_used": "2026-10-29"
+    "count": 2,
+    "last_used": "2026-11-18"
   },
   "Vision Zero": {
     "explanation": "city goal of zero traffic deaths",
@@ -2246,8 +2246,8 @@
   },
   "rotation": {
     "explanation": "two leaders take turns as prime minister",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "Espionage Act": {
     "explanation": "US law against leaking national defense secrets",
@@ -2551,8 +2551,8 @@
   },
   "SNAP": {
     "explanation": "US food stamp program",
-    "count": 2,
-    "last_used": "2026-11-14"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "brand safety": {
     "explanation": "keeping ads away from hateful or harmful content",
@@ -2561,8 +2561,8 @@
   },
   "roadshow": {
     "explanation": "pitch meetings with investors before an IPO",
-    "count": 2,
-    "last_used": "2026-11-12"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "reverse merger": {
     "explanation": "private company merges into a listed one to go public",
@@ -2841,8 +2841,8 @@
   },
   "SOC": {
     "explanation": "security operations center, the team watching for attacks",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-18"
   },
   "retention pool": {
     "explanation": "stock that keeps acquired employees from leaving",
@@ -2906,8 +2906,8 @@
   },
   "Cruise collection": {
     "explanation": "fashion's in-between-seasons collection",
-    "count": 1,
-    "last_used": "2026-11-06"
+    "count": 2,
+    "last_used": "2026-11-18"
   },
   "Costume Institute": {
     "explanation": "the Met museum's fashion department",
@@ -3126,8 +3126,8 @@
   },
   "M&A": {
     "explanation": "mergers and acquisitions",
-    "count": 1,
-    "last_used": "2026-11-08"
+    "count": 2,
+    "last_used": "2026-11-18"
   },
   "Fortune 500": {
     "explanation": "America's largest corporations",
@@ -3511,8 +3511,8 @@
   },
   "interim CEO": {
     "explanation": "temporary boss",
-    "count": 2,
-    "last_used": "2026-11-16"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "board chair": {
     "explanation": "person who leads the board of directors",
@@ -3601,8 +3601,8 @@
   },
   "SIEM": {
     "explanation": "systems that collect and analyze security logs",
-    "count": 2,
-    "last_used": "2026-11-15"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "NIS2": {
     "explanation": "EU cyber rules for critical industries",
@@ -3731,8 +3731,8 @@
   },
   "APEC": {
     "explanation": "yearly summit of Pacific Rim economies",
-    "count": 2,
-    "last_used": "2026-11-17"
+    "count": 3,
+    "last_used": "2026-11-18"
   },
   "ASEAN": {
     "explanation": "Southeast Asian nations' bloc and summit",
@@ -3856,8 +3856,8 @@
   },
   "platformization": {
     "explanation": "replacing many security tools with one vendor platform",
-    "count": 1,
-    "last_used": "2026-11-16"
+    "count": 2,
+    "last_used": "2026-11-18"
   },
   "proof point": {
     "explanation": "hard evidence behind a marketing claim",
@@ -3978,5 +3978,80 @@
     "explanation": "how a company names and organizes its brands",
     "count": 1,
     "last_used": "2026-11-17"
+  },
+  "filibuster": {
+    "explanation": "talking for hours to delay a vote",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "Area A": {
+    "explanation": "West Bank zone under full Palestinian Authority control",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "annualized": {
+    "explanation": "the pace if it continued for a full year",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "Quad": {
+    "explanation": "US partnership with Australia, India and Japan",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "dirty bomb": {
+    "explanation": "explosive that spreads radioactive material",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "Title VI": {
+    "explanation": "civil rights law barring discrimination in funded schools",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "stock buyback": {
+    "explanation": "company buys its own shares to return cash",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "dividend": {
+    "explanation": "cash payout to shareholders",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "CMA Awards": {
+    "explanation": "Country Music Association's yearly awards show",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "prequel": {
+    "explanation": "story set before the original",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "leveraged buyout": {
+    "explanation": "purchase paid for mostly with borrowed money",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "digital forensics": {
+    "explanation": "pulling evidence from phones and computers",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "blue team": {
+    "explanation": "security team that detects and investigates attacks",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "green team": {
+    "explanation": "security team that fixes weaknesses",
+    "count": 1,
+    "last_used": "2026-11-18"
+  },
+  "deferred compensation": {
+    "explanation": "pay held back to keep key people",
+    "count": 1,
+    "last_used": "2026-11-18"
   }
 }
