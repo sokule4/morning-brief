@@ -1161,8 +1161,8 @@
   },
   "usage-based pricing": {
     "explanation": "paying for how much you use",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "MSP": {
     "explanation": "IT firms that run tech for other companies",
@@ -1336,8 +1336,8 @@
   },
   "bond yield": {
     "explanation": "interest rate a government pays to borrow",
-    "count": 1,
-    "last_used": "2026-10-21"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "internal poll": {
     "explanation": "a poll paid for by a campaign",
@@ -1491,8 +1491,8 @@
   },
   "IHRA definition": {
     "explanation": "a widely used definition of antisemitism",
-    "count": 1,
-    "last_used": "2026-10-22"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "persona non grata": {
     "explanation": "diplomats declared unwelcome, meaning expelled",
@@ -1506,8 +1506,8 @@
   },
   "epigenetic clock": {
     "explanation": "test estimating biological age from changes on DNA",
-    "count": 2,
-    "last_used": "2026-10-25"
+    "count": 3,
+    "last_used": "2026-11-19"
   },
   "DASH diet": {
     "explanation": "a diet designed to lower blood pressure",
@@ -2141,8 +2141,8 @@
   },
   "AI inference": {
     "explanation": "when an AI model answers rather than trains",
-    "count": 1,
-    "last_used": "2026-10-28"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "analog AI chip": {
     "explanation": "chip computing with continuous signals, not ones and zeros",
@@ -2706,8 +2706,8 @@
   },
   "chief customer officer": {
     "explanation": "executive running everything after the sale",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "channel partners": {
     "explanation": "resellers and integrators who sell a vendor's products",
@@ -2761,8 +2761,8 @@
   },
   "House Speaker": {
     "explanation": "the leader of the House",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "confidence-building steps": {
     "explanation": "small moves to rebuild trust",
@@ -3031,8 +3031,8 @@
   },
   "consolidation": {
     "explanation": "startups merging or being bought",
-    "count": 2,
-    "last_used": "2026-11-08"
+    "count": 3,
+    "last_used": "2026-11-19"
   },
   "continuous penetration testing": {
     "explanation": "ongoing simulated attacks to find holes",
@@ -3136,13 +3136,13 @@
   },
   "analyst relations": {
     "explanation": "working with research firms like Forrester",
-    "count": 2,
-    "last_used": "2026-11-17"
+    "count": 3,
+    "last_used": "2026-11-19"
   },
   "emergency government": {
     "explanation": "broad coalition formed around a national crisis",
-    "count": 1,
-    "last_used": "2026-11-09"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "60 Minutes": {
     "explanation": "CBS news magazine show",
@@ -3456,8 +3456,8 @@
   },
   "override clause": {
     "explanation": "lets the Knesset re-pass laws the court struck down",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "abstain": {
     "explanation": "not vote at all",
@@ -3946,8 +3946,8 @@
   },
   "private placement": {
     "explanation": "shares sold directly to investors, not on the open market",
-    "count": 1,
-    "last_used": "2026-11-17"
+    "count": 2,
+    "last_used": "2026-11-19"
   },
   "debt sale": {
     "explanation": "borrowing money from investors",
@@ -4053,5 +4053,60 @@
     "explanation": "pay held back to keep key people",
     "count": 1,
     "last_used": "2026-11-18"
+  },
+  "New START": {
+    "explanation": "last treaty capping US and Russian nuclear arsenals",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "quantum technology": {
+    "explanation": "computers and sensors using the physics of tiny particles",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "tariff refund": {
+    "explanation": "government paying back import taxes",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "Rotten Tomatoes": {
+    "explanation": "site that averages critics' movie reviews",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "Metacritic": {
+    "explanation": "site that averages critics' review scores",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "semaglutide": {
+    "explanation": "the drug in Ozempic",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "Erez crossing": {
+    "explanation": "northern crossing point into Gaza",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "operating margin": {
+    "explanation": "share of revenue left as profit",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "identity verification": {
+    "explanation": "checking a person online is who they claim",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "AI security engineering": {
+    "explanation": "enforcing security rules on in-house AI agents",
+    "count": 1,
+    "last_used": "2026-11-19"
+  },
+  "Network Edge Security Management": {
+    "explanation": "Huskeys' category: controlling web traffic hitting a network",
+    "count": 1,
+    "last_used": "2026-11-19"
   }
 }
