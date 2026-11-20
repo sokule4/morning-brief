@@ -186,8 +186,8 @@
   },
   "state comptroller": {
     "explanation": "official watchdog who audits the government",
-    "count": 1,
-    "last_used": "2026-10-09"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "attorney general": {
     "explanation": "the government's top legal officer",
@@ -981,8 +981,8 @@
   },
   "oversubscribed": {
     "explanation": "investors wanted in for more than offered",
-    "count": 2,
-    "last_used": "2026-11-12"
+    "count": 3,
+    "last_used": "2026-11-20"
   },
   "doxxing": {
     "explanation": "posting someone's personal details online",
@@ -2401,8 +2401,8 @@
   },
   "G20": {
     "explanation": "club of the world's biggest economies",
-    "count": 1,
-    "last_used": "2026-11-01"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "communiqué": {
     "explanation": "joint statement issued after a summit",
@@ -3461,8 +3461,8 @@
   },
   "abstain": {
     "explanation": "not vote at all",
-    "count": 2,
-    "last_used": "2026-11-15"
+    "count": 3,
+    "last_used": "2026-11-20"
   },
   "Kaminitz Law": {
     "explanation": "law easing demolition of illegally built homes",
@@ -3721,8 +3721,8 @@
   },
   "chief business officer": {
     "explanation": "executive running channel, alliances and partnerships",
-    "count": 1,
-    "last_used": "2026-11-14"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "GDP": {
     "explanation": "total value of everything an economy produces",
@@ -3906,8 +3906,8 @@
   },
   "Hillel": {
     "explanation": "Jewish student organization",
-    "count": 1,
-    "last_used": "2026-11-17"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "CUNY": {
     "explanation": "New York's city university system",
@@ -4026,8 +4026,8 @@
   },
   "prequel": {
     "explanation": "story set before the original",
-    "count": 1,
-    "last_used": "2026-11-18"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "leveraged buyout": {
     "explanation": "purchase paid for mostly with borrowed money",
@@ -4056,8 +4056,8 @@
   },
   "New START": {
     "explanation": "last treaty capping US and Russian nuclear arsenals",
-    "count": 1,
-    "last_used": "2026-11-19"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "quantum technology": {
     "explanation": "computers and sensors using the physics of tiny particles",
@@ -4071,8 +4071,8 @@
   },
   "Rotten Tomatoes": {
     "explanation": "site that averages critics' movie reviews",
-    "count": 1,
-    "last_used": "2026-11-19"
+    "count": 2,
+    "last_used": "2026-11-20"
   },
   "Metacritic": {
     "explanation": "site that averages critics' review scores",
@@ -4108,5 +4108,120 @@
     "explanation": "Huskeys' category: controlling web traffic hitting a network",
     "count": 1,
     "last_used": "2026-11-19"
+  },
+  "Molotov cocktail": {
+    "explanation": "a bottle of fuel set on fire and thrown",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "Beqaa": {
+    "explanation": "Lebanon's farming region near Syria",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "Kerch Bridge": {
+    "explanation": "bridge linking Russia to occupied Crimea",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "Public Investment Fund": {
+    "explanation": "Saudi Arabia's giant state investment fund",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "medallion": {
+    "explanation": "license a carriage or taxi driver owns",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "proselytize": {
+    "explanation": "pressure someone to convert",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "money left on the table": {
+    "explanation": "what a company lost by pricing shares too low",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "incubator": {
+    "explanation": "company that builds and launches startups",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "tech transfer office": {
+    "explanation": "university team turning research into products",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "Infinity Nets": {
+    "explanation": "Kusama's paintings of endless tiny loops",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "European Innovation Council": {
+    "explanation": "EU program funding risky deep-tech companies",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "photonics": {
+    "explanation": "technology that works with light itself",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "harvest now, decrypt later": {
+    "explanation": "steal encrypted data now, crack it with quantum later",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "post-quantum": {
+    "explanation": "security built to survive quantum computers",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "software supply chain": {
+    "explanation": "outside code and tools used to build software",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "open source": {
+    "explanation": "free code anyone can use",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "CI/CD": {
+    "explanation": "automated systems that build and ship code",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "re:Invent": {
+    "explanation": "Amazon's big cloud conference",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "AWS Marketplace": {
+    "explanation": "Amazon's online store for business software",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "co-sell": {
+    "explanation": "sell alongside a partner",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "MSSP": {
+    "explanation": "managed security service provider, runs security for others",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "deal registration": {
+    "explanation": "protects a partner's deal from rival sellers",
+    "count": 1,
+    "last_used": "2026-11-20"
+  },
+  "market development funds": {
+    "explanation": "money a vendor gives partners for marketing",
+    "count": 1,
+    "last_used": "2026-11-20"
   }
 }
