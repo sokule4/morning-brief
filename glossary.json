@@ -46,8 +46,8 @@
   },
   "NATO": {
     "explanation": "Western military alliance; attack on one is attack on all",
-    "count": 2,
-    "last_used": "2026-10-21"
+    "count": 3,
+    "last_used": "2026-11-21"
   },
   "minority government": {
     "explanation": "most seats but no majority on its own",
@@ -151,8 +151,8 @@
   },
   "firewall": {
     "explanation": "device that guards a company's network",
-    "count": 2,
-    "last_used": "2026-11-04"
+    "count": 3,
+    "last_used": "2026-11-21"
   },
   "ransomware": {
     "explanation": "hackers lock your files and demand payment",
@@ -616,8 +616,8 @@
   },
   "world model": {
     "explanation": "AI that simulates a realistic interactive environment",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-11-21"
   },
   "due diligence": {
     "explanation": "deep check of a company before buying it",
@@ -626,8 +626,8 @@
   },
   "capsule collection": {
     "explanation": "a small limited fashion line",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-11-21"
   },
   "evening sale": {
     "explanation": "prestige auction night for the biggest works",
@@ -2681,8 +2681,8 @@
   },
   "endpoint": {
     "explanation": "employees' laptops and devices",
-    "count": 2,
-    "last_used": "2026-11-06"
+    "count": 3,
+    "last_used": "2026-11-21"
   },
   "CTEM": {
     "explanation": "continuous threat exposure management, ongoing checks for weak spots",
@@ -2796,8 +2796,8 @@
   },
   "after-hours trading": {
     "explanation": "trading after the market closes",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-21"
   },
   "hate-watching": {
     "explanation": "watching a show you love to mock",
@@ -3856,8 +3856,8 @@
   },
   "platformization": {
     "explanation": "replacing many security tools with one vendor platform",
-    "count": 2,
-    "last_used": "2026-11-18"
+    "count": 3,
+    "last_used": "2026-11-21"
   },
   "proof point": {
     "explanation": "hard evidence behind a marketing claim",
@@ -4026,8 +4026,8 @@
   },
   "prequel": {
     "explanation": "story set before the original",
-    "count": 2,
-    "last_used": "2026-11-20"
+    "count": 3,
+    "last_used": "2026-11-21"
   },
   "leveraged buyout": {
     "explanation": "purchase paid for mostly with borrowed money",
@@ -4121,8 +4121,8 @@
   },
   "Kerch Bridge": {
     "explanation": "bridge linking Russia to occupied Crimea",
-    "count": 1,
-    "last_used": "2026-11-20"
+    "count": 2,
+    "last_used": "2026-11-21"
   },
   "Public Investment Fund": {
     "explanation": "Saudi Arabia's giant state investment fund",
@@ -4196,8 +4196,8 @@
   },
   "re:Invent": {
     "explanation": "Amazon's big cloud conference",
-    "count": 1,
-    "last_used": "2026-11-20"
+    "count": 2,
+    "last_used": "2026-11-21"
   },
   "AWS Marketplace": {
     "explanation": "Amazon's online store for business software",
@@ -4223,5 +4223,120 @@
     "explanation": "money a vendor gives partners for marketing",
     "count": 1,
     "last_used": "2026-11-20"
+  },
+  "ultra-Orthodox": {
+    "explanation": "strictly religious Jews; the Haredi community",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "draft evader": {
+    "explanation": "someone who ignores a military call-up",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "stun grenade": {
+    "explanation": "device with a loud bang and flash to scatter crowds",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "International Court of Justice": {
+    "explanation": "the UN's top court, settles disputes between countries",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "genocide": {
+    "explanation": "acts meant to destroy a national, ethnic or religious group",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "Rohingya": {
+    "explanation": "mostly Muslim minority in Myanmar",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "clearance operations": {
+    "explanation": "Myanmar army's term for its 2017 crackdown",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "coup": {
+    "explanation": "when the army seizes power",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "national cyber director": {
+    "explanation": "the US president's top cybersecurity adviser",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "Achilles tendon": {
+    "explanation": "tendon at the back of the ankle",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "Zio": {
+    "explanation": "slur for Zionists from far-right circles",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "venture capital fund": {
+    "explanation": "fund investing in young startups for a stake",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "exit": {
+    "explanation": "when investors get paid because a company is sold or goes public",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "previews": {
+    "explanation": "early screenings before a film officially opens",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "biopic": {
+    "explanation": "a film about a real person's life",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "estimate": {
+    "explanation": "price range an auction house predicts",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "monochrome": {
+    "explanation": "a single-color painting",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "code-share": {
+    "explanation": "two airlines selling seats on each other's flights",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "premium": {
+    "explanation": "price paid above the current share price",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "VPN": {
+    "explanation": "secure tunnel workers use to reach the office network",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "SAML": {
+    "explanation": "standard for logging into many apps with one account",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "authorization": {
+    "explanation": "controlling what users and agents are allowed to do",
+    "count": 1,
+    "last_used": "2026-11-21"
+  },
+  "resilience": {
+    "explanation": "staying running when something breaks",
+    "count": 1,
+    "last_used": "2026-11-21"
   }
 }
