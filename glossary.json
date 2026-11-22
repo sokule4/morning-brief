@@ -491,8 +491,8 @@
   },
   "SASE": {
     "explanation": "networking and security delivered together from the cloud",
-    "count": 1,
-    "last_used": "2026-10-11"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "MDR": {
     "explanation": "managed detection and response, round-the-clock attack monitoring",
@@ -1231,8 +1231,8 @@
   },
   "low estimate": {
     "explanation": "bottom of an auction house's predicted price range",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "ultra-processed food": {
     "explanation": "industrial foods like chips and sweetened cereals",
@@ -1306,8 +1306,8 @@
   },
   "EBITDA": {
     "explanation": "common measure of operating profit",
-    "count": 1,
-    "last_used": "2026-10-20"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "Billboard 200": {
     "explanation": "main US album chart",
@@ -1526,8 +1526,8 @@
   },
   "ship-to-ship transfer": {
     "explanation": "moving oil between tankers at sea",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "polling ban": {
     "explanation": "law barring new polls in final days before a vote",
@@ -2661,8 +2661,8 @@
   },
   "prompt injection": {
     "explanation": "hidden instructions that trick an AI into misbehaving",
-    "count": 1,
-    "last_used": "2026-11-04"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "AI kill switch": {
     "explanation": "a tool to shut down a rogue AI agent",
@@ -2746,8 +2746,8 @@
   },
   "Degel HaTorah": {
     "explanation": "faction holding four of UTJ's seven seats",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "ranked-choice voting": {
     "explanation": "voters rank candidates; lowest eliminated round by round",
@@ -2781,8 +2781,8 @@
   },
   "bug bounty": {
     "explanation": "a paid hunt for security flaws",
-    "count": 1,
-    "last_used": "2026-11-05"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "material breach": {
     "explanation": "a serious violation of a contract",
@@ -2796,8 +2796,8 @@
   },
   "after-hours trading": {
     "explanation": "trading after the market closes",
-    "count": 2,
-    "last_used": "2026-11-21"
+    "count": 3,
+    "last_used": "2026-11-22"
   },
   "hate-watching": {
     "explanation": "watching a show you love to mock",
@@ -4121,8 +4121,8 @@
   },
   "Kerch Bridge": {
     "explanation": "bridge linking Russia to occupied Crimea",
-    "count": 2,
-    "last_used": "2026-11-21"
+    "count": 3,
+    "last_used": "2026-11-22"
   },
   "Public Investment Fund": {
     "explanation": "Saudi Arabia's giant state investment fund",
@@ -4226,8 +4226,8 @@
   },
   "ultra-Orthodox": {
     "explanation": "strictly religious Jews; the Haredi community",
-    "count": 1,
-    "last_used": "2026-11-21"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "draft evader": {
     "explanation": "someone who ignores a military call-up",
@@ -4286,8 +4286,8 @@
   },
   "exit": {
     "explanation": "when investors get paid because a company is sold or goes public",
-    "count": 1,
-    "last_used": "2026-11-21"
+    "count": 2,
+    "last_used": "2026-11-22"
   },
   "previews": {
     "explanation": "early screenings before a film officially opens",
@@ -4338,5 +4338,55 @@
     "explanation": "staying running when something breaks",
     "count": 1,
     "last_used": "2026-11-21"
+  },
+  "national emergency government": {
+    "explanation": "government formed to handle the war",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "double-tap strike": {
+    "explanation": "hitting a spot again when rescuers arrive",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "lethal autonomous weapons": {
+    "explanation": "weapons that choose targets without a human",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "ZOA": {
+    "explanation": "Zionist Organization of America, right-wing pro-Israel group",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "vibe coding": {
+    "explanation": "describe an app in words, AI builds it",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "Rule of 40": {
+    "explanation": "growth plus cash flow margin should reach forty percent",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "couturier": {
+    "explanation": "designer of made-to-order high fashion",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "Gen Z": {
+    "explanation": "people born after the late nineties",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "with fees": {
+    "explanation": "price including the auction house commission",
+    "count": 1,
+    "last_used": "2026-11-22"
+  },
+  "cross-selling": {
+    "explanation": "selling a second product to existing customers",
+    "count": 1,
+    "last_used": "2026-11-22"
   }
 }
