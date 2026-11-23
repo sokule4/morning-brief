@@ -251,8 +251,8 @@
   },
   "pentest": {
     "explanation": "penetration test, hired hackers trying to break in",
-    "count": 2,
-    "last_used": "2026-10-20"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "red team": {
     "explanation": "ethical hackers who test defenses",
@@ -1101,8 +1101,8 @@
   },
   "term limits": {
     "explanation": "a cap on how long someone can serve",
-    "count": 1,
-    "last_used": "2026-10-19"
+    "count": 2,
+    "last_used": "2026-11-23"
   },
   "GCC": {
     "explanation": "Gulf Cooperation Council, six Gulf monarchies",
@@ -1756,8 +1756,8 @@
   },
   "indicted": {
     "explanation": "formally charged with a crime",
-    "count": 2,
-    "last_used": "2026-10-28"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "crypto": {
     "explanation": "digital currencies like Bitcoin",
@@ -2261,8 +2261,8 @@
   },
   "AWS": {
     "explanation": "Amazon's cloud business renting computing power",
-    "count": 1,
-    "last_used": "2026-10-30"
+    "count": 2,
+    "last_used": "2026-11-23"
   },
   "net revenue retention": {
     "explanation": "how much existing customers spend vs. last year",
@@ -2546,8 +2546,8 @@
   },
   "UKMTO": {
     "explanation": "British agency that tracks threats to ships",
-    "count": 2,
-    "last_used": "2026-11-17"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "SNAP": {
     "explanation": "US food stamp program",
@@ -2746,8 +2746,8 @@
   },
   "Degel HaTorah": {
     "explanation": "faction holding four of UTJ's seven seats",
-    "count": 2,
-    "last_used": "2026-11-22"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "ranked-choice voting": {
     "explanation": "voters rank candidates; lowest eliminated round by round",
@@ -2821,8 +2821,8 @@
   },
   "prediabetes": {
     "explanation": "blood sugar above normal, not yet diabetes",
-    "count": 2,
-    "last_used": "2026-11-16"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "shanda": {
     "explanation": "Yiddish for a disgrace",
@@ -3041,8 +3041,8 @@
   },
   "VP": {
     "explanation": "vice president",
-    "count": 2,
-    "last_used": "2026-11-10"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "president of revenue": {
     "explanation": "executive running all of sales and go-to-market",
@@ -4196,13 +4196,13 @@
   },
   "re:Invent": {
     "explanation": "Amazon's big cloud conference",
-    "count": 2,
-    "last_used": "2026-11-21"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "AWS Marketplace": {
     "explanation": "Amazon's online store for business software",
-    "count": 1,
-    "last_used": "2026-11-20"
+    "count": 2,
+    "last_used": "2026-11-23"
   },
   "co-sell": {
     "explanation": "sell alongside a partner",
@@ -4226,8 +4226,8 @@
   },
   "ultra-Orthodox": {
     "explanation": "strictly religious Jews; the Haredi community",
-    "count": 2,
-    "last_used": "2026-11-22"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "draft evader": {
     "explanation": "someone who ignores a military call-up",
@@ -4286,8 +4286,8 @@
   },
   "exit": {
     "explanation": "when investors get paid because a company is sold or goes public",
-    "count": 2,
-    "last_used": "2026-11-22"
+    "count": 3,
+    "last_used": "2026-11-23"
   },
   "previews": {
     "explanation": "early screenings before a film officially opens",
@@ -4316,8 +4316,8 @@
   },
   "premium": {
     "explanation": "price paid above the current share price",
-    "count": 1,
-    "last_used": "2026-11-21"
+    "count": 2,
+    "last_used": "2026-11-23"
   },
   "VPN": {
     "explanation": "secure tunnel workers use to reach the office network",
@@ -4388,5 +4388,80 @@
     "explanation": "selling a second product to existing customers",
     "count": 1,
     "last_used": "2026-11-22"
+  },
+  "preliminary reading": {
+    "explanation": "first of several Knesset votes a bill needs",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "Patriot": {
+    "explanation": "American air defense missile system",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "war-risk insurance": {
+    "explanation": "extra cover ships buy to sail through a conflict zone",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "secret ballot": {
+    "explanation": "a vote where nobody sees how you voted",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "mezuzah": {
+    "explanation": "small scroll case Jews hang on the doorpost",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "Mélenchon": {
+    "explanation": "leader of France's hard left",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "correction": {
+    "explanation": "a fall of ten percent from a recent peak",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "SEC": {
+    "explanation": "US agency that polices the stock market",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "circuit breaker": {
+    "explanation": "automatic trading pause when prices fall too fast",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "TA-125": {
+    "explanation": "Tel Aviv's main index of its biggest companies",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "lexicographer": {
+    "explanation": "person who writes dictionary definitions",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "ketogenic diet": {
+    "explanation": "very low-carb, high-fat diet",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "Art Basel": {
+    "explanation": "world's most important art fair",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "Black Hat Europe": {
+    "explanation": "big hacker and security conference in London",
+    "count": 1,
+    "last_used": "2026-11-23"
+  },
+  "integration": {
+    "explanation": "combining a bought company into the bigger one",
+    "count": 1,
+    "last_used": "2026-11-23"
   }
 }
