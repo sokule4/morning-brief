@@ -6,8 +6,8 @@
   },
   "Shin Bet": {
     "explanation": "Israel's internal security service",
-    "count": 5,
-    "last_used": "2026-10-30"
+    "count": 6,
+    "last_used": "2026-11-24"
   },
   "Knesset": {
     "explanation": "Israel's parliament",
@@ -16,8 +16,8 @@
   },
   "Central Elections Committee": {
     "explanation": "body that approves who can run in elections",
-    "count": 5,
-    "last_used": "2026-10-30"
+    "count": 6,
+    "last_used": "2026-11-24"
   },
   "Haredi": {
     "explanation": "ultra-Orthodox Jews",
@@ -46,13 +46,13 @@
   },
   "NATO": {
     "explanation": "Western military alliance; attack on one is attack on all",
-    "count": 3,
-    "last_used": "2026-11-21"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "minority government": {
     "explanation": "most seats but no majority on its own",
-    "count": 5,
-    "last_used": "2026-11-03"
+    "count": 6,
+    "last_used": "2026-11-24"
   },
   "referendum": {
     "explanation": "a public vote on a single question",
@@ -71,8 +71,8 @@
   },
   "AI agents": {
     "explanation": "AI tools that take actions on their own",
-    "count": 6,
-    "last_used": "2026-11-12"
+    "count": 7,
+    "last_used": "2026-11-24"
   },
   "Series C": {
     "explanation": "a company's third big funding round",
@@ -126,8 +126,8 @@
   },
   "Strait of Hormuz": {
     "explanation": "narrow Gulf waterway a fifth of world oil passes",
-    "count": 8,
-    "last_used": "2026-11-12"
+    "count": 9,
+    "last_used": "2026-11-24"
   },
   "midterms": {
     "explanation": "US congressional elections halfway through a president's term",
@@ -306,8 +306,8 @@
   },
   "sanctions": {
     "explanation": "financial penalties that cut off money and business",
-    "count": 6,
-    "last_used": "2026-11-12"
+    "count": 7,
+    "last_used": "2026-11-24"
   },
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
@@ -426,8 +426,8 @@
   },
   "naval blockade": {
     "explanation": "warships stopping ships going in or out of a country",
-    "count": 7,
-    "last_used": "2026-11-12"
+    "count": 8,
+    "last_used": "2026-11-24"
   },
   "safety net": {
     "explanation": "backing a coalition from outside without joining it",
@@ -611,8 +611,8 @@
   },
   "Unit 8200": {
     "explanation": "Israeli army's elite intelligence tech unit",
-    "count": 4,
-    "last_used": "2026-10-30"
+    "count": 5,
+    "last_used": "2026-11-24"
   },
   "world model": {
     "explanation": "AI that simulates a realistic interactive environment",
@@ -651,8 +651,8 @@
   },
   "Revolutionary Guard": {
     "explanation": "Iran's elite military force",
-    "count": 5,
-    "last_used": "2026-11-01"
+    "count": 6,
+    "last_used": "2026-11-24"
   },
   "submunition": {
     "explanation": "small bomblet scattered by a cluster rocket",
@@ -716,8 +716,8 @@
   },
   "antitrust": {
     "explanation": "regulators' checks on monopolies",
-    "count": 3,
-    "last_used": "2026-10-31"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "DLP": {
     "explanation": "data loss prevention, stopping data from leaking out",
@@ -726,18 +726,18 @@
   },
   "seed round": {
     "explanation": "a startup's very first funding",
-    "count": 5,
-    "last_used": "2026-11-10"
+    "count": 6,
+    "last_used": "2026-11-24"
   },
   "zero trust": {
     "explanation": "nobody gets more network access than needed",
-    "count": 3,
-    "last_used": "2026-10-26"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "all-stock deal": {
     "explanation": "buyer pays in its own shares",
-    "count": 4,
-    "last_used": "2026-11-03"
+    "count": 5,
+    "last_used": "2026-11-24"
   },
   "earnout": {
     "explanation": "part of a price paid later if results are hit",
@@ -746,8 +746,8 @@
   },
   "post-quantum cryptography": {
     "explanation": "encryption quantum computers can't break",
-    "count": 2,
-    "last_used": "2026-10-19"
+    "count": 3,
+    "last_used": "2026-11-24"
   },
   "Q-Day": {
     "explanation": "day quantum computers can crack today's encryption",
@@ -881,8 +881,8 @@
   },
   "stealth": {
     "explanation": "startup operating secretly before announcing itself",
-    "count": 3,
-    "last_used": "2026-10-28"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "shadow AI": {
     "explanation": "AI tools employees adopt without security approval",
@@ -1021,8 +1021,8 @@
   },
   "unity government": {
     "explanation": "coalition joining the rival big parties",
-    "count": 4,
-    "last_used": "2026-10-30"
+    "count": 5,
+    "last_used": "2026-11-24"
   },
   "normalization": {
     "explanation": "formal diplomatic ties between countries",
@@ -1431,8 +1431,8 @@
   },
   "rotation agreement": {
     "explanation": "two leaders take turns as prime minister",
-    "count": 2,
-    "last_used": "2026-11-15"
+    "count": 3,
+    "last_used": "2026-11-24"
   },
   "electioneering": {
     "explanation": "using an official event to campaign",
@@ -1741,8 +1741,8 @@
   },
   "Mossad": {
     "explanation": "Israel's foreign spy agency",
-    "count": 3,
-    "last_used": "2026-10-27"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "ADL": {
     "explanation": "Anti-Defamation League, Jewish civil rights group",
@@ -2681,8 +2681,8 @@
   },
   "endpoint": {
     "explanation": "employees' laptops and devices",
-    "count": 3,
-    "last_used": "2026-11-21"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "CTEM": {
     "explanation": "continuous threat exposure management, ongoing checks for weak spots",
@@ -2711,8 +2711,8 @@
   },
   "channel partners": {
     "explanation": "resellers and integrators who sell a vendor's products",
-    "count": 3,
-    "last_used": "2026-11-10"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "partner marketing": {
     "explanation": "training, incentives and campaigns for resellers",
@@ -3066,8 +3066,8 @@
   },
   "mines": {
     "explanation": "explosives hidden in the water",
-    "count": 2,
-    "last_used": "2026-11-14"
+    "count": 3,
+    "last_used": "2026-11-24"
   },
   "Shomer Shabbos caucus": {
     "explanation": "Sabbath-observant Orthodox Jewish state lawmakers",
@@ -3216,8 +3216,8 @@
   },
   "COP": {
     "explanation": "UN climate summit, Conference of the Parties",
-    "count": 1,
-    "last_used": "2026-11-10"
+    "count": 2,
+    "last_used": "2026-11-24"
   },
   "Paris Agreement": {
     "explanation": "2015 global climate deal",
@@ -3461,8 +3461,8 @@
   },
   "abstain": {
     "explanation": "not vote at all",
-    "count": 3,
-    "last_used": "2026-11-20"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "Kaminitz Law": {
     "explanation": "law easing demolition of illegally built homes",
@@ -3586,8 +3586,8 @@
   },
   "fiscal year": {
     "explanation": "a company's twelve-month accounting year",
-    "count": 1,
-    "last_used": "2026-11-13"
+    "count": 2,
+    "last_used": "2026-11-24"
   },
   "digital sovereignty": {
     "explanation": "keeping control of your own data and tech",
@@ -3761,8 +3761,8 @@
   },
   "meta-analysis": {
     "explanation": "study combining many earlier studies",
-    "count": 1,
-    "last_used": "2026-11-15"
+    "count": 2,
+    "last_used": "2026-11-24"
   },
   "Reich flight tax": {
     "explanation": "Nazi levy on people fleeing Germany",
@@ -3856,8 +3856,8 @@
   },
   "platformization": {
     "explanation": "replacing many security tools with one vendor platform",
-    "count": 3,
-    "last_used": "2026-11-21"
+    "count": 4,
+    "last_used": "2026-11-24"
   },
   "proof point": {
     "explanation": "hard evidence behind a marketing claim",
@@ -4076,8 +4076,8 @@
   },
   "Metacritic": {
     "explanation": "site that averages critics' review scores",
-    "count": 1,
-    "last_used": "2026-11-19"
+    "count": 2,
+    "last_used": "2026-11-24"
   },
   "semaglutide": {
     "explanation": "the drug in Ozempic",
@@ -4316,8 +4316,8 @@
   },
   "premium": {
     "explanation": "price paid above the current share price",
-    "count": 2,
-    "last_used": "2026-11-23"
+    "count": 3,
+    "last_used": "2026-11-24"
   },
   "VPN": {
     "explanation": "secure tunnel workers use to reach the office network",
@@ -4463,5 +4463,60 @@
     "explanation": "combining a bought company into the bigger one",
     "count": 1,
     "last_used": "2026-11-23"
+  },
+  "risk premium": {
+    "explanation": "extra return investors demand for holding something risky",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "hedging": {
+    "explanation": "protection bought against currency swings",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "UN Charter Article 51": {
+    "explanation": "the UN rule giving countries the right to self-defense",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "recount": {
+    "explanation": "a second official count when a result is very close",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "Islamic State": {
+    "explanation": "jihadist terror group",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "Trainium": {
+    "explanation": "Amazon's own AI chips",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "controlling shareholder": {
+    "explanation": "owner whose stake gives control of a company",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "leverage": {
+    "explanation": "the amount of borrowed money a company runs on",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "remission": {
+    "explanation": "when cancer is no longer detected",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "exchange ratio": {
+    "explanation": "fixed number of buyer shares per target share",
+    "count": 1,
+    "last_used": "2026-11-24"
+  },
+  "revenue synergies": {
+    "explanation": "extra sales a merged company expects to make together",
+    "count": 1,
+    "last_used": "2026-11-24"
   }
 }
