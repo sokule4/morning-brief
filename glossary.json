@@ -1491,8 +1491,8 @@
   },
   "IHRA definition": {
     "explanation": "a widely used definition of antisemitism",
-    "count": 2,
-    "last_used": "2026-11-19"
+    "count": 3,
+    "last_used": "2026-11-25"
   },
   "persona non grata": {
     "explanation": "diplomats declared unwelcome, meaning expelled",
@@ -1591,8 +1591,8 @@
   },
   "VIP preview": {
     "explanation": "early fair days for top collectors",
-    "count": 1,
-    "last_used": "2026-10-23"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "Julio-Claudian": {
     "explanation": "Roman dynasty of emperors starting with Augustus",
@@ -2841,8 +2841,8 @@
   },
   "SOC": {
     "explanation": "security operations center, the team watching for attacks",
-    "count": 2,
-    "last_used": "2026-11-18"
+    "count": 3,
+    "last_used": "2026-11-25"
   },
   "retention pool": {
     "explanation": "stock that keeps acquired employees from leaving",
@@ -3386,8 +3386,8 @@
   },
   "Arrangements Committee": {
     "explanation": "panel running the Knesset's business until a government forms",
-    "count": 1,
-    "last_used": "2026-11-12"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "plea deal": {
     "explanation": "agreement to end a case without a full verdict",
@@ -3786,8 +3786,8 @@
   },
   "co-selling": {
     "explanation": "two companies selling together",
-    "count": 1,
-    "last_used": "2026-11-15"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "newsjacking": {
     "explanation": "jumping on a big headline to promote yourself",
@@ -3906,13 +3906,13 @@
   },
   "Hillel": {
     "explanation": "Jewish student organization",
-    "count": 2,
-    "last_used": "2026-11-20"
+    "count": 3,
+    "last_used": "2026-11-25"
   },
   "CUNY": {
     "explanation": "New York's city university system",
-    "count": 1,
-    "last_used": "2026-11-17"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "consensus estimate": {
     "explanation": "average analyst forecast",
@@ -3961,8 +3961,8 @@
   },
   "category creation": {
     "explanation": "inventing a new category so you're not compared to rivals",
-    "count": 1,
-    "last_used": "2026-11-17"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "repositioning": {
     "explanation": "changing how the market sees you",
@@ -4006,8 +4006,8 @@
   },
   "Title VI": {
     "explanation": "civil rights law barring discrimination in funded schools",
-    "count": 1,
-    "last_used": "2026-11-18"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "stock buyback": {
     "explanation": "company buys its own shares to return cash",
@@ -4126,8 +4126,8 @@
   },
   "Public Investment Fund": {
     "explanation": "Saudi Arabia's giant state investment fund",
-    "count": 1,
-    "last_used": "2026-11-20"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "medallion": {
     "explanation": "license a carriage or taxi driver owns",
@@ -4451,8 +4451,8 @@
   },
   "Art Basel": {
     "explanation": "world's most important art fair",
-    "count": 1,
-    "last_used": "2026-11-23"
+    "count": 2,
+    "last_used": "2026-11-25"
   },
   "Black Hat Europe": {
     "explanation": "big hacker and security conference in London",
@@ -4518,5 +4518,50 @@
     "explanation": "extra sales a merged company expects to make together",
     "count": 1,
     "last_used": "2026-11-24"
+  },
+  "change government": {
+    "explanation": "a government without Netanyahu's bloc",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "administrative detention": {
+    "explanation": "holding someone without charges or trial",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "high wind watch": {
+    "explanation": "a warning that dangerous winds are possible",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "export controls": {
+    "explanation": "rules on which countries can buy advanced tech",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "chief compliance officer": {
+    "explanation": "executive who makes sure a company follows the law",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "Regina George": {
+    "explanation": "the queen mean girl from \"Mean Girls\"",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "House Ethics Committee": {
+    "explanation": "panel that investigates lawmakers' behavior",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "total addressable market": {
+    "explanation": "total amount customers could spend on what you sell",
+    "count": 1,
+    "last_used": "2026-11-25"
+  },
+  "Sayeret Golani": {
+    "explanation": "an elite Israeli army unit",
+    "count": 1,
+    "last_used": "2026-11-25"
   }
 }
