@@ -267,7 +267,7 @@
   "CRO": {
     "explanation": "chief revenue officer, the executive over all sales",
     "count": 4,
-    "last_used": "2026-11-12"
+    "last_used": "2026-11-26"
   },
   "run rate": {
     "explanation": "yearly earnings at your current pace",
@@ -312,7 +312,7 @@
   "Board of Peace": {
     "explanation": "Trump-led body overseeing Gaza's future",
     "count": 3,
-    "last_used": "2026-11-13"
+    "last_used": "2026-11-26"
   },
   "technocratic government": {
     "explanation": "government run by non-political experts",
@@ -787,7 +787,7 @@
   "caretaker prime minister": {
     "explanation": "PM who runs the government temporarily until a new one forms",
     "count": 5,
-    "last_used": "2026-11-12"
+    "last_used": "2026-11-26"
   },
   "surplus-vote deal": {
     "explanation": "two parties pool leftover votes",
@@ -892,7 +892,7 @@
   "annual recurring revenue": {
     "explanation": "yearly value of subscriptions",
     "count": 4,
-    "last_used": "2026-11-10"
+    "last_used": "2026-11-26"
   },
   "field marketing": {
     "explanation": "in-person events and local teams",
@@ -2712,7 +2712,7 @@
   "channel partners": {
     "explanation": "resellers and integrators who sell a vendor's products",
     "count": 4,
-    "last_used": "2026-11-24"
+    "last_used": "2026-11-26"
   },
   "partner marketing": {
     "explanation": "training, incentives and campaigns for resellers",
@@ -4006,8 +4006,8 @@
   },
   "Title VI": {
     "explanation": "civil rights law barring discrimination in funded schools",
-    "count": 2,
-    "last_used": "2026-11-25"
+    "count": 3,
+    "last_used": "2026-11-26"
   },
   "stock buyback": {
     "explanation": "company buys its own shares to return cash",
@@ -4197,7 +4197,7 @@
   "re:Invent": {
     "explanation": "Amazon's big cloud conference",
     "count": 3,
-    "last_used": "2026-11-23"
+    "last_used": "2026-11-26"
   },
   "AWS Marketplace": {
     "explanation": "Amazon's online store for business software",
@@ -4451,8 +4451,8 @@
   },
   "Art Basel": {
     "explanation": "world's most important art fair",
-    "count": 2,
-    "last_used": "2026-11-25"
+    "count": 3,
+    "last_used": "2026-11-26"
   },
   "Black Hat Europe": {
     "explanation": "big hacker and security conference in London",
@@ -4563,5 +4563,75 @@
     "explanation": "an elite Israeli army unit",
     "count": 1,
     "last_used": "2026-11-25"
+  },
+  "global pariah": {
+    "explanation": "a country the world shuns",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "preemptive strike": {
+    "explanation": "an attack to stop a threat before it happens",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "racketeering": {
+    "explanation": "crime charge used against organized crime",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "veto": {
+    "explanation": "a president's power to block a bill",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "high wind warning": {
+    "explanation": "weather alert for dangerous winds",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "Paralympics": {
+    "explanation": "the Games for athletes with disabilities",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "agentic commerce": {
+    "explanation": "shopping done with the help of AI agents",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "hatchet job": {
+    "explanation": "a deliberately damaging attack piece",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "blind item": {
+    "explanation": "gossip that hints at a star without naming her",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "Swifties": {
+    "explanation": "Taylor Swift's organized fan base",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "circadian rhythm": {
+    "explanation": "your body's internal twenty-four-hour clock",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "termination fee": {
+    "explanation": "penalty paid if a deal is called off",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "earnings call": {
+    "explanation": "a company's quarterly call with investors",
+    "count": 1,
+    "last_used": "2026-11-26"
+  },
+  "Gartner Magic Quadrant": {
+    "explanation": "Gartner's chart ranking vendors in a category",
+    "count": 1,
+    "last_used": "2026-11-26"
   }
 }
