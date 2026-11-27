@@ -556,8 +556,8 @@
   },
   "grand marshal": {
     "explanation": "the person who leads a parade",
-    "count": 1,
-    "last_used": "2026-10-12"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "CST": {
     "explanation": "charity protecting British Jewish communities",
@@ -901,13 +901,13 @@
   },
   "Chapter 11": {
     "explanation": "bankruptcy that lets a company keep operating",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "stalking-horse bidder": {
     "explanation": "first offer that sets an auction's minimum price",
-    "count": 1,
-    "last_used": "2026-10-14"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "bimah": {
     "explanation": "raised platform where the Torah is read",
@@ -1516,8 +1516,8 @@
   },
   "FCC": {
     "explanation": "the US communications regulator",
-    "count": 2,
-    "last_used": "2026-11-03"
+    "count": 3,
+    "last_used": "2026-11-27"
   },
   "minimalism (music)": {
     "explanation": "repetitive, pulsing style of music",
@@ -1781,8 +1781,8 @@
   },
   "API": {
     "explanation": "connections between software systems",
-    "count": 1,
-    "last_used": "2026-10-25"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "B2B": {
     "explanation": "marketing to businesses, not consumers",
@@ -2376,8 +2376,8 @@
   },
   "supreme leader": {
     "explanation": "Iran's top authority",
-    "count": 2,
-    "last_used": "2026-11-05"
+    "count": 3,
+    "last_used": "2026-11-27"
   },
   "fatwa": {
     "explanation": "a binding religious ruling",
@@ -2536,8 +2536,8 @@
   },
   "systolic": {
     "explanation": "the top blood pressure number",
-    "count": 1,
-    "last_used": "2026-11-02"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "coalition whip": {
     "explanation": "lawmaker who keeps the government's votes in line",
@@ -2931,8 +2931,8 @@
   },
   "formal verification": {
     "explanation": "mathematically proving software does exactly what it should",
-    "count": 1,
-    "last_used": "2026-11-06"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "chief R&D officer": {
     "explanation": "executive in charge of research and development",
@@ -3026,8 +3026,8 @@
   },
   "randomized trial": {
     "explanation": "study assigning people to groups by chance",
-    "count": 1,
-    "last_used": "2026-11-07"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "consolidation": {
     "explanation": "startups merging or being bought",
@@ -4301,8 +4301,8 @@
   },
   "estimate": {
     "explanation": "price range an auction house predicts",
-    "count": 1,
-    "last_used": "2026-11-21"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "monochrome": {
     "explanation": "a single-color painting",
@@ -4396,8 +4396,8 @@
   },
   "Patriot": {
     "explanation": "American air defense missile system",
-    "count": 1,
-    "last_used": "2026-11-23"
+    "count": 2,
+    "last_used": "2026-11-27"
   },
   "war-risk insurance": {
     "explanation": "extra cover ships buy to sail through a conflict zone",
@@ -4633,5 +4633,70 @@
     "explanation": "Gartner's chart ranking vendors in a category",
     "count": 1,
     "last_used": "2026-11-26"
+  },
+  "preliminary coalition deal": {
+    "explanation": "a first-draft agreement to govern together",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "first reading": {
+    "explanation": "first of three full Knesset votes on a bill",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "false flag": {
+    "explanation": "an attack staged to blame someone else",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "deadlock": {
+    "explanation": "a standstill where neither side moves",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "institutional antisemitism": {
+    "explanation": "antisemitism built into how an organization works",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "Harlem Renaissance": {
+    "explanation": "1920s-30s boom of Black art in Harlem",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "consign": {
+    "explanation": "to offer an artwork for sale at auction",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "placebo": {
+    "explanation": "a fake treatment with no active ingredient",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "pre-Series A": {
+    "explanation": "a bridge round between seed and Series A",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "smart contract": {
+    "explanation": "a program that runs automatically on a blockchain",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "product-led growth": {
+    "explanation": "the product itself brings in customers",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "Rust": {
+    "explanation": "a fast, safe programming language",
+    "count": 1,
+    "last_used": "2026-11-27"
+  },
+  "first-party data": {
+    "explanation": "data customers give a company directly",
+    "count": 1,
+    "last_used": "2026-11-27"
   }
 }
